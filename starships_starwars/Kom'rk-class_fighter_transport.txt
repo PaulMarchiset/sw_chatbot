@@ -1,0 +1,424 @@
+&#160;	 	&#160;	
+
+	
+		
+		
+	
+	
+
+Kom'rk-class fighter/transport
+
+	Production information
+
+	
+		Manufacturer
+
+	
+	MandalMotors&#91;1&#93;
+
+	
+		Line
+
+	
+	Mandalorian fighter&#91;2&#93;
+
+	
+		Model
+
+	
+	Kom'rk-class fighter/transport&#91;1&#93;
+
+	
+		Type
+
+	
+	Combat transport&#91;2&#93;
+
+	
+		Cost
+
+	
+	190,000 credits&#91;3&#93;
+
+	Technical specifications
+
+	
+		Length
+
+	
+	68 meters (larger version)&#91;1&#93;
+52.3 meters (medium version)&#91;4&#93;
+29.8 meters (98 feet) (smaller version)&#91;5&#93;
+
+	
+		Width
+
+	
+	52.4 meters&#91;4&#93;
+
+	
+		Height/depth
+
+	
+	13.23 meters&#91;4&#93;
+
+	
+		Megalight per hour
+
+	
+	100 mglt&#91;5&#93;
+
+	
+		Maximum atmospheric speed
+
+	
+	1,000 kph&#91;1&#93;
+
+	
+		Hyperdrive rating
+
+	
+	Class 1&#91;1&#93;
+Class 10 (backup)&#91;3&#93;
+
+	
+		Hyperdrive system
+
+	
+	Equipped&#91;1&#93;
+
+	
+		Shielding
+
+	
+	Equipped&#91;3&#93;
+
+	
+		Sensor systems
+
+	
+	Short-ranged sensors&#91;3&#93;
+
+	
+		Navigation system
+
+	
+	Navigation computer&#91;3&#93;
+
+	
+		Armament
+
+	
+	2 forward laser cannons&#91;4&#93;
+2 rear laser cannons&#91;4&#93;
+Heat-seeking missile&#91;6&#93;
+
+	
+		Docking bays
+
+	
+	Drop-seat bay&#91;7&#93;
+
+	
+		Passengers
+
+	
+	24&#91;4&#93;
+
+	
+		Consumables
+
+	
+	Two months&#91;3&#93;
+
+	Usage
+
+	
+		Role(s)
+
+	
+	Air combat&#91;4&#93;
+Troop transport&#91;4&#93;
+
+	
+		Affiliation
+
+	
+	Death Watch&#91;8&#93;
+Shadow Collective&#91;9&#93;
+Mandalore resistance&#91;10&#93;
+Clan Kryze&#91;6&#93;
+
+[Source]
+
+"Look around&#8212;your Mandalorians have been crushed. Only my droids remain now. Your battle is already lost."
+"We're not finished yet. My Gauntlet fighters have yet to enter the fight!"
+&#8213;General Grievous and Maul during a battle on Zanbar&#91;9&#93;
+
+The Kom'rk-class fighter/transport, also known as Kom'rk Class fighter transport or the Gauntlet starfighter, was a type of starfighter and troop transport used by the Mandalorian splinter faction known as Death Watch during the Clone Wars. The fighters were utilized as part of a move by Death Watch leader Pre Vizsla to end Satine Kryze's pacifist rule of Mandalore and restore the Mandalorians to their former warrior past. These ships were later used by Maul's Shadow Collective army during battles on Zanbar, Ord Mantell, and Vizsla Keep 09. During each of these battles, Maul utilized a gauntlet fighter called the Nightbrother,&#91;11&#93; colored red and black rather than the normal white and blue color scheme, as a transport and a Shadow Collective flagship.&#91;12&#93; During the reign of the Galactic Empire, a gauntlet fighter known as the Splendour was owned by the Besalisk criminal Galus Vez, who used it to race opponents on his private racing track, the Fool's Run.&#91;13&#93;
+
+The Mandalorian Protectors used a similar fighter known as the Fang-class Protectorate fighter .&#91;14&#93; During the time of the New Republic, Bo-Katan Kryze utilized a Kom'rk-class fighter in several occasions, including a dogfight over Kalevala.&#91;6&#93; Thirty years after the Battle of Endor,&#91;15&#93; the retired pirate Delphi Kloda owned a Gauntlet called the Sparrowhawk, which he lent to his former protege Bazine Netal.&#91;16&#93;
+
+Contents
+
+1 History
+
+1.1 Clone Wars
+
+1.2 Later history
+
+2 Behind the scenes
+
+3 Appearances
+
+4 Sources
+
+4.1 Non-canon sources
+
+5 Notes and references
+
+History[]
+
+Clone Wars[]
+
+ 	 	 	 		 			 		 		 		 			Death Watch warriors deploy from a Kom'rk-class fighter.
+ 		 	 
+During the Clone Wars, the Death Watch used several of these fighters to evacuate their hideout at one of Concordia's mines. Death Watch then prepared several of these fighters to take part in taking Sundari when the Republic's Grand Army would arrive to occupy Mandalore.&#91;17&#93; However, when the Republic did not occupy Mandalore, Death Watch broke their ties with the Confederacy and took their fighters to their camp on Carlac.&#91;18&#93;
+
+Death Watch's commander Pre Vizsla and his second in command, Bo-Katan Kryze then took one of their fighters and found two Zabraks; the renegade Sith Lord Maul and his brother Savage Opress. Vizsla then took them to his camp on Zanbar. Together, the Death Watch and the Sith agreed to form an alliance with Maul and other criminal syndicates. Maul, Vizsla and their forces then took their fighters to Black Sun's Mustafar base, Gardulla the Hutt's Palace on Nal Hutta, and Jabba the Hutt's Palace on Tatooine.&#91;19&#93;
+
+Later history[]
+
+"This is a Kom'rk Class fighter transport. I'll use this to drop you in and you will operate as a tight military unit."
+&#8213;Bo-Katan Kryze to the Children of the Watch&#91;20&#93;
+
+ 	 	 	 		 			 		 		 		 			Bo-Katan's ship
+ 		 	 
+Bo-Katan Kryze was in command of a Kom'rk-class fighter on Lafete&#91;21&#93; around 9 ABY.&#91;22&#93; She later used her starfighter to travel from Kalevala to Mandalore with R5-D4 and Grogu.&#91;23&#93; When she had returned to Kalevala, she was attacked by TIE/IN interceptors. She was able to destroy several interceptors, and utilized an heat-seeking missile to destroy a TIE/sa bomber, but eventually retreated after a backup of TIE interceptors arrived.&#91;6&#93; Later, Kryze used her ship to drop two teams of Mandalorian warriors to relieve Nevarro from a pirate siege and to destroy Gorian Shard's Corsair with the help of Din Djarin and his N-1 starfighter.&#91;20&#93;
+
+In 35 ABY,&#91;24&#93; Gauntlet starfighters were part of a fleet assembled by Lando Calrissian to assist the Resistance during the battle against the Sith Eternal forces over the planet Exegol.&#91;25&#93;
+
+ This article is a stub about a ship or starship. You can help Wookieepedia by expanding it.
+	
+
+Behind the scenes[]
+
+Gauntlet starfighters were created for the canon animated series Star Wars: The Clone Wars.
+
+Appearances[]
+
+ Star Wars: The Clone Wars &#8212; "The Mandalore Plot" (First appearance)
+
+ Star Wars: The Clone Wars &#8212; "Duchess of Mandalore"
+
+ Star Wars: The Clone Wars &#8212; "A Friend in Need"
+
+ Star Wars: The Clone Wars &#8212; "Eminence"
+
+ Star Wars: The Clone Wars &#8212; "Shades of Reason"
+
+ Star Wars: The Clone Wars &#8212; "The Lawless"
+
+"Kenobi's Shadow" &#8212; The Clone Wars: Stories of Light and Dark (and audiobook)
+
+Darth Maul — Son of Dathomir 1
+
+Darth Maul — Son of Dathomir 2
+
+Darth Maul — Son of Dathomir 3
+
+Darth Maul — Son of Dathomir 4
+
+ Star Wars: The Clone Wars &#8212; "Together Again"
+
+ Star Wars: The Clone Wars &#8212; "Old Friends Not Forgotten"
+
+ Star Wars: The Clone Wars &#8212; "The Phantom Apprentice"
+
+ "Ring Race" &#8212; Star Wars Rebels Magazine 1
+
+ Star Wars Rebels &#8212; "The Holocrons of Fate"
+
+ Star Wars Rebels &#8212; "Imperial Supercommandos"
+
+ Star Wars Rebels &#8212; "Visions and Voices"
+
+ Star Wars Rebels &#8212; "Twin Suns"
+
+ Star Wars Rebels &#8212; "Zero Hour"
+
+Star Wars Rebels: Heroes of Mandalore
+
+ Star Wars Rebels &#8212; "In the Name of the Rebellion"
+
+The Mandalorian Season 2 Junior Novel (and audiobook)
+
+ Star Wars: The Mandalorian &#8212; "Chapter 16: The Rescue"
+
+The Mandalorian: The Rescue
+
+ Star Wars: The Mandalorian &#8212; "Chapter 18: The Mines of Mandalore"
+
+ Star Wars: The Mandalorian &#8212; "Chapter 19: The Convert"
+
+ Star Wars: The Mandalorian &#8212; "Chapter 20: The Foundling"
+
+ Star Wars: The Mandalorian &#8212; "Chapter 21: The Pirate" (First identified as Kom'rk Class fighter transport)
+
+ Star Wars: The Mandalorian &#8212; "Chapter 22: Guns for Hire"
+
+ Star Wars: The Mandalorian &#8212; "Chapter 23: The Spies"
+
+ Star Wars: The Mandalorian &#8212; "Chapter 24: The Return"
+
+"The Perfect Weapon" (and audiobook)
+
+Star Wars: Episode IX The Rise of Skywalker
+
+Star Wars: The Rise of Skywalker: A Junior Novel (and audiobook)
+
+Star Wars: Galaxy of Heroes
+
+	
+
+Sources[]
+
+&#160;Gauntlet fighter in the Encyclopedia (original site is defunct)
+
+Star Wars Helmet Collection: Boushh Highlights of the Saga: Attack on Jabba's Palace
+
+&#160;SWCA: The Untold Clone Wars Panel Liveblog on StarWars.com (backup link)
+
+Star Wars: Absolutely Everything You Need to Know (First identified as Kom'rk-class fighter)
+
+Star Wars: Build the Millennium Falcon 68 Starship Fact File: Gauntlet Starfighter
+
+No Disintegrations
+
+Star Wars Helmet Collection: Wedge Antilles 
+
+Star Wars Helmet Collection: Wedge Antilles Highlights of the Saga: Leaving Skystrike
+
+Star Wars Helmet Collection: Wedge Antilles Weapons & Uniforms: Chopper Base &#8212; Atollon
+
+ Star Wars: Armada &#8212; Chimaera Expansion Pack Card: Mandalorian Gauntlet Fighter
+
+Star Wars Encyclopedia of Starfighters and Other Vehicles (First identified as Kom'rk-class fighter/transport)
+
+Ultimate Star Wars, New Edition
+
+&#160;Star Wars By the Numbers: Every Type of Ship in Rebels on the official Star Wars Kids YouTube channel (original link is obsolete)
+
+Starships and Speeders
+
+&#160;"Together Again" Episode Guide &#124; The Clone Wars on StarWars.com (backup link)
+
+ "Jedi Master's Quiz" &#8212; Star Wars Insider 203
+
+"Scarif and Other Planets in the Outer Rim" &#8212; Star Wars Encyclopedia
+
+ LEGO Star Wars (Set:  75316 Mandalorian Fighter)
+
+Star Wars: The Mandalorian Handbook
+
+&#160;Star Wars Inside Intel: Mandalorian Armor on StarWars.com (article) (backup link) (Picture only)
+
+ "Database" &#8212; Star Wars - Das offizielle Magazin 106
+
+Star Wars Starships & Vehicles: Nightbrother 
+
+Star Wars Starships & Vehicles: Nightbrother History of the Ship: Nightbrother
+
+Star Wars Starships & Vehicles: Nightbrother Starships and Vehicles: The Battle of Atollon
+
+ "Database" &#8212; Star Wars - Das offizielle Magazin 115 (Picture only)
+
+Star Wars Starships & Vehicles 88
+
+Star Wars Encyclopedia: The Comprehensive Guide to the Star Wars Galaxy
+
+Star Wars Encyclopedia of Starfighters and Other Vehicles (second edition)
+
+&#160;Concordia in the Databank (backup link)
+
+&#160;Gauntlet Fighter in the Databank (backup link) (First identified as Gauntlet starfighter)
+
+&#160;Mandalorian Gauntlet starfighter in the Databank (backup link)
+
+&#160;The Nightbrother in the Databank (backup link)
+
+	
+
+Non-canon sources[]
+
+LEGO Star Wars Awesome Vehicles
+
+LEGO Star Wars 87 (Free Gift)
+
+Notes and references[]
+
+Explore all of Wookieepedia's images for this article subject.
+
+↑ 1.0 1.1 1.2 1.3 1.4 1.5 Star Wars Encyclopedia of Starfighters and Other Vehicles
+
+↑ 2.0 2.1 &#160;Gauntlet fighter in the Encyclopedia (original site is defunct)
+
+↑ 3.0 3.1 3.2 3.3 3.4 3.5 Starships and Speeders
+
+↑ 4.0 4.1 4.2 4.3 4.4 4.5 4.6 4.7 &#160;Gauntlet Fighter in the Databank (backup link)
+
+↑ 5.0 5.1 Star Wars Encyclopedia of Starfighters and Other Vehicles second edition
+
+↑ 6.0 6.1 6.2 6.3  Star Wars: The Mandalorian &#8212; "Chapter 19: The Convert"
+
+↑  Star Wars: X-Wing Second Edition &#8212; Gauntlet Fighter Expansion Pack Card: Drop-Seat Bay 
+
+↑  Star Wars: The Clone Wars &#8212; "The Mandalore Plot"
+
+↑ 9.0 9.1 Darth Maul — Son of Dathomir 1
+
+↑  Star Wars: The Clone Wars &#8212; "Together Again"
+
+↑ &#160;The Nightbrother in the Databank (backup link)
+
+↑ Star Wars: Darth Maul — Son of Dathomir
+
+↑  "Ring Race" &#8212; Star Wars Rebels Magazine 1
+
+↑ &#160;Fang Fighter in the Databank (backup link)
+
+↑ The Del Rey Star Wars timeline places "The Perfect Weapon" in between Canto Bight and Star Wars: Episode VII The Force Awakens. &#160;4 Reasons Canto Bight Is an Essential Read on StarWars.com (backup link) states that Canto Bight takes place a few days prior to Star Wars: Episode VIII The Last Jedi, which Star Wars: The Rise of Skywalker: The Visual Dictionary places in the same year as the Star Wars: Episode VII The Force Awakens. Star Wars: Galactic Atlas dates Star Wars: Episode VII The Force Awakens to 34 ABY, meaning that both Star Wars: Episode VIII The Last Jedi, Star Wars: Episode VII The Force Awakens, and Canto Bight take place in the same year. Because "The Perfect Weapon" takes place in between Canto Bight and Star Wars: Episode VII The Force Awakens, it must also take place in 34 ABY.
+
+↑ "The Perfect Weapon"
+
+↑  Star Wars: The Clone Wars &#8212; "Duchess of Mandalore"
+
+↑  Star Wars: The Clone Wars &#8212; "A Friend in Need"
+
+↑  Star Wars: The Clone Wars &#8212; "Eminence"
+
+↑ 20.0 20.1  Star Wars: The Mandalorian &#8212; "Chapter 21: The Pirate"
+
+↑  Star Wars: The Mandalorian &#8212; "Chapter 16: The Rescue"
+
+↑ Star Wars: Timelines dates the events of "Chapter 16: The Rescue" to 9 ABY.
+
+↑  Star Wars: The Mandalorian &#8212; "Chapter 18: The Mines of Mandalore"
+
+↑ Star Wars: The Rise of Skywalker: The Visual Dictionary dates the events of Star Wars: Episode IX The Rise of Skywalker to one year after the events of Star Wars: Episode VII The Force Awakens. As Star Wars: Galactic Atlas dates the events of The Force Awakens to 34 ABY, the events of The Rise of Skywalker must occur in 35 ABY.
+
+↑ Star Wars: Episode IX The Rise of Skywalker
+
+	
+
+In other languages
+
+español
+ქართული
+日本語
+polski
+
+Related categories:
+Kom'rk-class fighter/transports
+
+Related Categories: Kom'rk-class fighter/transports
