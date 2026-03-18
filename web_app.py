@@ -2,7 +2,7 @@ import os
 from pathlib import Path
 
 from dotenv import load_dotenv
-from flask import Flask, jsonify, render_template_string, request
+from flask import Flask, jsonify, render_template_string, request, send_from_directory
 from langchain_community.embeddings import HuggingFaceEmbeddings
 from langchain_community.vectorstores import FAISS
 from langchain_core.output_parsers import StrOutputParser
@@ -17,9 +17,21 @@ app = Flask(__name__)
 # --- MAPPING 3D ---
 # Lie le nom de tes fichiers textes sources au chemin de tes modèles 3D dans le dossier 'static'
 SHIP_MODELS_MAP = {
-    "X-wing_starfighter.txt": "/static/models/xwing.glb",
+    "A-wing_starfighter.txt": "/static/models/a-wing.glb",
+    "ARC-170_starfighter.txt": "/static/models/arc-170_fighter.glb",
+    "Death_Star.txt": "/static/models/death-star.glb",
+    "Imperial_shuttle.txt": "/static/models/imperial_lambda-class_shuttle.glb",
+    "Star_Destroyer.txt": "/static/models/imperial_ii_star_destroyer.glb",
+    "Millennium_Falcon.txt": "/static/models/millennium_falcon.glb",
+    "Mon_Calamari_Star_Cruiser.txt": "/static/models/mon_calamari.glb",
+    "Naboo_N-1_starfighter.txt": "/static/models/naboo_starfighter.glb",
+    "Slave_I.txt": "/static/models/slave1.glb",
+    "Razor_Crest.txt": "/static/models/razor_crest.glb",
+    "TIE_D_Defender.txt": "/static/models/tied_defender.glb",
+    "TIE_interceptor.txt": "/static/models/interceptor_tie.glb",
+    "TIE_bomber.txt": "/static/models/tie_bomber.glb",
     "TIE_LN_starfighter.txt": "/static/models/tie.glb",
-    # Ajoute les autres vaisseaux ici au fur et à mesure que tu télécharges les .glb
+    "X-wing_starfighter.txt": "/static/models/xwing.glb",
 }
 
 TEMPLATE = """
@@ -29,6 +41,7 @@ TEMPLATE = """
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>Holonet RAG - Star Wars</title>
+  <link rel="icon" href="/favicon.ico" type="image/x-icon" />
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;700&family=Fraunces:opsz,wght@9..144,700&display=swap" rel="stylesheet">
@@ -378,6 +391,12 @@ except Exception as exc:
 @app.route("/", methods=["GET"])
 def index():
     return render_template_string(TEMPLATE)
+
+
+@app.route("/favicon.ico", methods=["GET"])
+def favicon():
+  assets_dir = Path(__file__).resolve().parent / "assets"
+  return send_from_directory(assets_dir, "favicon.ico", mimetype="image/vnd.microsoft.icon")
 
 @app.route("/api/chat", methods=["POST"])
 def chat():

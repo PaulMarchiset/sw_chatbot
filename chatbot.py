@@ -27,7 +27,7 @@ vectorstore = FAISS.load_local("faiss_starwars_index", embedding_model, allow_da
 # retriever = vectorstore.as_retriever(search_kwargs={"k": 3}) 
 retriever = vectorstore.as_retriever(
     search_type="mmr",
-    search_kwargs={"k": 5, "fetch_k": 15}
+    search_kwargs={"k": 8, "fetch_k": 20}
 )
 
 # --- 3. LE NOUVEAU PROMPT ---
