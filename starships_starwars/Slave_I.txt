@@ -1,0 +1,912 @@
+&#160;	 	&#160;	
+
+	
+
+Master Qui-Gon, more to say, have you?
+
+It is requested that this article, or a section of this article, be expanded.
+
+See the request on the listing or on this article's talkpage. Once the improvements have been completed, you may remove this notice and the page's listing. The following needs expanding on: all sections 
+
+	
+
+	
+
+	
+
+	
+		
+		
+	
+	
+
+Slave I
+
+	Production information
+
+	
+		Manufacturer
+
+	
+	Kuat Systems Engineering&#91;1&#93;&#91;2&#93;
+
+	
+		Model
+
+	
+	Modified Firespray-31-class patrol and attack craft&#91;3&#93;&#91;2&#93;
+
+	
+		Type
+
+	
+	Pursuit vessel&#91;4&#93;Transport&#91;2&#93;
+
+	
+		Cost
+
+	
+	125,650 credits&#91;5&#93;
+
+	
+		Modified by
+
+	
+	Heavily modified controls&#91;2&#93;
+
+	Technical specifications
+
+	
+		Length
+
+	
+	21.5 meters&#91;1&#93; (70 feet 6 inches)&#91;2&#93;
+
+	
+		Width
+
+	
+	21.3 meters (wingspan)&#91;1&#93;
+
+	
+		Height/depth
+
+	
+	7.8 meters (25 ft 7 in) (excluding guns)&#91;6&#93;
+
+	
+		Maximum acceleration
+
+	
+	2,700G&#91;1&#93;
+
+	
+		Megalight per hour
+
+	
+	70 MGLT&#91;7&#93;&#91;2&#93;
+
+	
+		Maximum speed (atmosphere)
+
+	
+	1000 kph&#91;1&#93; (621 mph)&#91;4&#93;
+
+	
+		Engine unit(s)
+
+	
+	F-31 drive engine (3)&#91;8&#93;
+Twin ion engine advanced x1&#91;8&#93;
+
+	
+		Hyperdrive rating
+
+	
+	Class 0.7&#91;8&#93;
+Class 8 (backup)&#91;8&#93;
+
+	
+		Hyperdrive system
+
+	
+	Equipped&#91;2&#93;
+
+	
+		Power plant
+
+	
+	XF-16 power generator (4)&#91;8&#93;
+
+	
+		Shielding
+
+	
+	Equipped&#91;6&#93;
+
+	
+		Sensor systems
+
+	
+	Military-grade sensor-array&#91;8&#93;
+
+	
+		Targeting systems
+
+	
+	Equipped&#91;6&#93;
+
+	
+		Navigation system
+
+	
+	Equipped&#91;5&#93;
+
+	
+		Countermeasures
+
+	
+	Cloaking device&#91;8&#93;
+Decoy system&#91;8&#93;
+Sensor mask&#91;8&#93;
+Sensor jammer&#91;8&#93;
+Static discharge port&#91;8&#93;
+
+	
+		Armament
+
+	
+	GN-40 twin rotating blaster cannons (2)&#91;8&#93;
+Laser cannons&#91;2&#93; (2)&#91;6&#93;
+HM-8 concussion missile tube launcher (2)&#91;8&#93;
+Concealed projectile launchers&#91;3&#93;AA/SL proton torpedo launcher (2)&#91;8&#93;
+
+Seismic charges&#91;9&#93;&#91;2&#93;
+C/ln ion cannon&#91;8&#93;
+Tractor beam projector&#91;3&#93;
+
+	
+		Complement
+
+	
+	2 Viper speeder bikes&#91;10&#93;
+
+	
+		Crew
+
+	
+	1 pilot&#91;9&#93;
+Up to 2 copilots/navigators/gunners&#91;1&#93;
+
+	
+		Passengers
+
+	
+	6 seated&#91;11&#93;
+
+	
+		Cargo capacity
+
+	
+	40 metric tons&#91;1&#93;
+
+	
+		Consumables
+
+	
+	Two months&#91;5&#93;
+
+	
+		Communication systems
+
+	
+	Sublight communications antenna&#91;6&#93;
+
+	Usage
+
+	
+		Role(s)
+
+	
+	Pursuit craft&#91;12&#93;
+
+	
+		Affiliation
+
+	
+	Confederacy of Independent Systems&#91;9&#93;
+Ohnaka Gang&#91;13&#93;
+Krayt's Claw&#91;14&#93;
+Hutt Clan&#91;15&#93;
+Galactic Empire&#91;16&#93;
+T'onga's crew&#91;17&#93;
+Fett gotra&#91;18&#93;
+
+	
+		Owner(s)
+
+	
+	Jango Fett&#91;9&#93;
+Boba Fett&#91;16&#93;
+Aurra Sing (briefly)&#91;19&#93;
+Hondo Ohnaka (briefly)&#91;13&#93;
+
+	
+		Aliases
+
+	
+	Boba Fett's starship&#91;20&#93;
+
+[Source]
+
+"Honestly, we're lucky he got away. Fett's flying Slave One."
+&#8213;Lando Calrissian, to Chewbacca&#91;21&#93;
+
+Slave I, also spelled Slave One and also known as Boba Fett's starship and Jango Fett's starship, was a modified Firespray-31-class patrol and attack craft used by the infamous Mandalorian bounty hunter Jango Fett before the Clone Wars and later his unaltered cloned son, Boba Fett, just prior to the Fall of the Republic and during the reign of the Galactic Empire. The ship in its original form was produced by a subsidiary company of Kuat Drive Yards, based on the planet Kuat.
+
+Contents
+
+1 Description
+
+1.1 Design and modifications
+
+1.2 Interior
+
+2 History
+
+2.1 In the service of Jango Fett
+
+2.2 Boba Fett's deadly craft
+
+2.3 Legacy
+
+3 Behind the scenes
+
+4 Appearances
+
+4.1 Non-canon appearances
+
+5 Sources
+
+5.1 Non-canon sources
+
+6 Notes and references
+
+7 External links
+
+Description[]
+
+Design and modifications[]
+
+"A heavily modified Firespray-31-class patrol craft, Slave I served Jango Fett for years before becoming the property of Aurra Sing, Hondo Ohnaka, and then Boba Fett. Jango outfitted Slave I with blaster cannons, concussion missiles, and seismic charges. Boba then added special modifications of his own. A powerful sensor jammer allowed Slave I to go undetected by most scanners, letting Boba Fett approach his bounties without being detected."
+&#8213;The Galactic Explorer's Guide&#91;22&#93;
+
+ 	 	 	 		 			 		 		 		 			Slave I was highly modified by both Fetts.
+ 		 	 
+Slave I was a Firespray-31-class patrol and attack craft&#91;3&#93; that was modified as far back as its time under Jango Fett. During this time, the only overt weapon systems leftover from its standard layout were the tail blaster cannons, but he still made sure to upgrade them, allowing these cannons to be fired with greater precision.&#91;23&#93;
+
+Already during its time under Jango, Slave I was a very effective and customized ship, armed with superior shielding technology, high levels of endurance, and an arsenal of hidden and overt weapons. When his son, Boba Fett, took on the ship, he made his own modifications, so Slave I was filled with heavy-duty shield generators, several new weapons systems, and various types of auxiliary sensor systems. Additionally, a secret military sensor, which could be used for jamming and masking, allowed Slave I to disappear from the majority of scanning systems. The craft was equipped with overwhelming weaponry that could take out other heavily armed ships. However, with the exception of the twin blaster cannons, the weapons systems remained hidden to make the ship appear as if it was lightly armed.&#91;23&#93;
+
+Interior[]
+
+Jango put Slave I through extensive modifications after several harsh battles in space. Because the original fit of Firespray patrol craft was only furnished for short-term patrol runs, he added spartan crew quarters due to the long hunts he partook in. He also altered the previously police-regulation cages into coffin-like cabinets that were less-humane but better controlled his prisoners. By the ship's use under Boba, Slave I had what were described as "prisoner cages," which had six immobilizing bunks. In the cockpit, sensor scopes displayed readouts for the starship's navigation, atmospheric data, and weapons systems.&#91;23&#93;
+
+The interior of Slave I included a deck situated on a gyro system, allowing the occupants to stay upright no matter what position the ship was in. The ship also had a holoprojector in the main cabin as well as six chairs for passengers.&#91;11&#93; The artificial gravity on each deck re-oriented, depending on the flight mode the ship was in.&#91;23&#93;
+
+History[]
+
+In the service of Jango Fett[]
+
+"He must have put a homing device on our hull. Hang on, son. We'll move into the asteroid field, and we'll have a couple of surprises for him."
+&#8213;Jango Fett&#91;9&#93;
+
+ 	 	 	 		 			 		 		 		 			Slave I in orbit of Geonosis, under Jango Fett's ownership
+ 		 	 
+Jango Fett stole Slave I whilst undertaking a job on Oovo IV,&#91;24&#93; a prison moon that Firespray attack craft were used to guard,&#91;25&#93; outfitting the craft with a number of weapons, including laser cannons, projectile launchers, and seismic charges.&#91;26&#93; While under Jango's ownership, the ship was used throughout his many adventures, including to rescue the criminal mastermind Phaedra,&#91;27&#93; throughout the search for the Hope of Glee Anselm statue,&#91;28&#93; during the heist in the Outer Rim Territories and subsequent effort to bring his wounded friend Tarr Kligson to the Haven space station,&#91;29&#93; to travel to Ord Mantell,&#91;30&#93; and in a dogfight over Geonosis against a Jedi starfighter piloted by Obi-Wan Kenobi.&#91;9&#93;
+
+After Jango's death during the First Battle of Geonosis,&#91;9&#93; the craft came into the possession of his son, Boba, who used it throughout his failed quest to kill the Jedi Master who had beheaded his father, Mace Windu. Boba, his ally turned mentor Aurra Sing, Castas, and Bossk traveled to the planet Florrum to meet with Sing's friend, spice pirate Hondo Ohnaka in the ship. After the arrival of the Jedi Master Plo Koon and Padawan Ahsoka Tano, Fett and Bossk were captured. When Sing tried to escape on Slave I, Tano leaped onto the ship's hull and sliced off a wing with her lightsaber. After this, Sing lost control of the ship and it crashed,&#91;19&#93; with the Jedi believing Sing to be dead. Ohnaka pulled her out of the crash site&#91;31&#93; and took ownership of Slave I for a short period of time,&#91;13&#93; before it returned to Fett's ownership near the end of the Clone Wars.&#91;14&#93;
+
+Boba Fett's deadly craft[]
+
+"You didn't just hurt my ship&#8212; you went inside?"
+"It was a tiny charge. Barely did any damage. Just wanted to shake you up a little."
+"Still&#8230; the disrespect. That vessel belonged to my father."
+&#8213;Boba Fett and Zuckuss&#91;32&#93;
+
+ 	 	 	 		 			 		 		 		 			Slave I was a feared side while under Boba Fett's ownership.
+ 		 	 
+The ship became well-known to the galaxy's fugitives, who recognized it as the ship owned by one of the galaxy's deadliest bounty hunters.&#91;26&#93; During the Imperial Era, the ship was once repaired at the Gall Imperial spaceport.&#91;33&#93; During the Galactic Civil War, the adult Boba flew Slave I to rendezvous with the Imperial fleet, where Darth Vader tasked Boba and a group of bounty hunters to capture Han Solo. Boba tracked Solo and his ship, the Millennium Falcon, to Cloud City, landing the Slave I on the East Platform. After Solo's capture, Boba transported the carbon-frozen rebel to bring him to Jabba the Hutt's custody at his palace on Tatooine.&#91;16&#93;
+
+During Fett's journey, however, he became sidetracked upon learning about the return of Nakano Lash,&#91;34&#93; using Slave I during his search for his former ally to end his personal vendetta. After returning to his mission to bring Solo to Jabba, certain that Lash would die,&#91;35&#93; Fett eventually took Slave I to the "smuggler's moon" of Nar Shaddaa, taking Solo to Doc Ragon to ensure he would survive his carbonite imprisonment. Low on credits, Fett agreed to kill pit warrior Wyrmen Lictor in exchange for the work, but, while Fett was away, Ragon was killed and Solo was taken&#91;36&#93; by agents of Crimson Dawn.&#91;32&#93;
+
+ 	 	 	 		 			 		 		 		 			Fett oversees Han Solo being loaded onto Slave I on Bespin.
+ 		 	 
+
+After the new head of the organization, Qi'ra, sent a message showing Solo to Jabba, the Hutt believed Fett had double crossed him and put a bounty on Fett. On Nar Shaddaa, Slave I was the site of trap launched by bounty hunters Zuckuss and 4-LOM, yet Fett defeated them both. Hacking into 4-LOM's head, Fett used Slave I to return to Tatooine, where he learned Jabba was offworld and that Crimson Dawn had returned.&#91;32&#93; During the Attack on the Executor, Fett finally regained possession of Solo and traveled to Tatooine to receive his payment. He also had a carbon-freezing chamber installed on the ship in case Solo thawed again and used it against IG-88B. After defeating the assassin droid,&#91;37&#93; Fett finally sold Solo to Jabba and received his payment.&#91;38&#93;
+
+ 	 	 	 		 			 		 		 		 			Fett attacks the Kintan Striders with the Slave I
+ 		 	 
+After the war, with Fett believed dead at the skirmish at the Great Pit of Carkoon, Slave I was kept in a hanger at Jabba's Palace, now under the control of Bib Fortuna. Eventually, Fett and his new partner Fennec Shand infiltrated the palace and retrieved Slave I. Fett then used the ship to track down and destroy the Kintan Striders. From there, Fett flew to the Pit of Carkoon with the hopes of finding his lost armor. As the Slave I descended into the pit, the sarlacc attacked them, latching onto the craft with its tentacles. Shand dropped a seismic charge into the sarlacc's maw, killing the creature and freeing the ship.&#91;39&#93;
+
+Sometime later, Fett and Shand flew Slave I to the planet Tython, where they had tracked the Mandalorian Din Djarin and his Force-sensitive foundling, Grogu. After Grogu was kidnapped by dark troopers belonging to Moff Gideon, Fett flew his ship into Tython's upper atmosphere to identify Gideon's light cruiser. With Djarin's own ship destroyed and Fett now in Djarin's debt to help protect Grogu, Fett agreed to fly Djarin to Nevarro aboard Slave I as part of his plan to retrieve the child.&#91;40&#93;
+
+ 	 	 	 		 			 		 		 		 			Slave I docked next to Bo-Katan's Kom'rk-class fighter and Shuttle 2743.
+ 		 	 
+Departing from Nevarro, Fett took Djarin and Cara Dune to the Karthon Chop Fields to retrieve Migs Mayfeld. He then flew the party to Morak, where Djarin and Mayfeld infiltrated an Imperial rhydonium refinery and Djarin accessed a computer terminal giving him the coordinates to Gideon's vessel. After the two men finished the mission, Fett rescued them from the roof of the refinery. As Slave I was flying away from the scene, it was targeted by two TIE fighters. Fett used a seismic charge to destroy the fighters.&#91;11&#93;
+
+Following the Morak mission, Slave I was used to attack Imperial shuttle 2743 carrying Dr. Penn Pershing, a scientist working for Gideon. Slave I then transported Djarin to Lafete to recruit Bo-Katan Kryze and Koska Reeves in the rescue of Grogu. After tracking down Gideon's cruiser and attacking the ship, Fett jumped into hyperspace per the group's plan. Sometime after the mission's success, Fett collected Shand and landed Slave I on Tatooine. There, the two invaded Jabba the Hutt's former palace, killed Bib Fortuna, and took over the remnants of Jabba's criminal empire.&#91;41&#93;
+
+Fett had Slave I stored in the palace's hangar during his gang war with the Pyke Syndicate.&#91;18&#93;
+
+Legacy[]
+
+Decades later, the Slave I was mentioned in the Galactic Explorer's Guide, a survival guide written by Hondo Ohnaka and DK-RA-43. It included a blueprint showing various features of the ship.&#91;22&#93;
+
+Behind the scenes[]
+
+In the 2015 reference book Ultimate Star Wars, Slave I was mistakenly named as Clone 1 on two occasions.&#91;3&#93; Since 2021,&#91;42&#93; Slave I has been referred to as "Boba Fett's starship" in official media, with this description appearing in merchandise,&#91;43&#93; individual works,&#91;44&#93; and reference material.&#91;20&#93; The last media to use the Slave I name before&#91;45&#93; the widespread&#91;46&#93;&#91;47&#93; change was the book The Odyssey of Star Wars: An Epic Poem published on September 28, 2021,&#91;45&#93; although it has since been used in several Star Wars Day-at-a-Time Calendar releases.&#91;48&#93;&#91;49&#93;&#91;50&#93; In June 2021, a then-upcoming LEGO set of the ship set was renamed "Boba Fett's Starship",&#91;46&#93;&#91;42&#93; and the URL for the ship's entry on the official StarWars.com Databank was similarly changed,&#91;51&#93; though the entry itself remained titled Slave I.&#91;52&#93; On September 19, 2024, the Databank entry was renamed to "Boba Fett's Starship" to match its URL, with no mention of the name Slave I. Despite this,&#91;47&#93; the ship has yet to be officially renamed in canon.
+
+Appearances[]
+
+Star Wars: Force Arena
+
+Star Wars: Starfighter Missions
+
+Jedi Knights 4
+
+ "Galactic Tales: The Wesell Run" &#8212; Star Wars Insider 209
+
+Jango Fett 1
+
+Jango Fett 2
+
+Jango Fett 3
+
+Jango Fett 4
+
+Star Wars Journeys: Beginnings
+
+Star Wars Battlefront II
+
+Age of Republic - Jango Fett 1
+
+Star Wars: Episode II Attack of the Clones
+
+ Star Wars: The Clone Wars &#8212; "Death Trap"
+
+ Star Wars: The Clone Wars &#8212; "R2 Come Home"
+
+ Star Wars: The Clone Wars &#8212; "Lethal Trackdown"
+
+ Star Wars: The Clone Wars &#8212; "Assassin" (In flashback(s))
+
+ Star Wars: The Clone Wars &#8212; "A Necessary Bond"
+
+"Almost a Jedi" &#8212; The Clone Wars: Stories of Light and Dark (and audiobook)
+
+Dark Disciple (and audiobook)
+
+&#32;"Tales of Villainy: Trade Relations"&#32;&#8212;&#32;Star Wars Adventures (2020) 9
+
+Boba Fett — Black, White & Red 1
+
+Boba Fett — Black, White & Red 2
+
+Boba Fett — Black, White & Red 4
+
+The Odyssey of Star Wars: An Epic Poem
+
+The Adventures of Luke Skywalker, Jedi Knight
+
+Star Wars: The Original Trilogy – A Graphic Novel
+
+Star Wars Battlefront
+
+Star Wars (2015) 6
+
+Boba Fett — Black, White & Red 3
+
+Hyperspace Stories 7
+
+Star Wars: Episode V The Empire Strikes Back (First appearance)
+
+The Empire Strikes Back: So You Want to Be a Jedi? (and audiobook)
+
+Star Wars: The Empire Strikes Back junior novelization
+
+"Wait for It" &#8212; From a Certain Point of View: The Empire Strikes Back (and audiobook)
+
+"Standard Imperial Procedure" &#8212; From a Certain Point of View: The Empire Strikes Back (and audiobook)
+
+ Star Wars Galaxy of Adventures &#8212; "Boba Fett - The Bounty Hunter"
+
+ Star Wars Galaxy of Adventures &#8212; "Rendezvous at Bespin"
+
+"No Time for Poetry" &#8212; From a Certain Point of View: The Empire Strikes Back (and audiobook) (Indirect mention only)
+
+Captured on Cloud City
+
+Star Wars (2020) 1 (Mentioned only)
+
+Bounty Hunters 1
+
+Bounty Hunters 5
+
+War of the Bounty Hunters Alpha 1
+
+Bounty Hunters 11 (Appears in hologram)
+
+Bounty Hunters 12
+
+War of the Bounty Hunters 1
+
+War of the Bounty Hunters 2
+
+Bounty Hunters 16
+
+War of the Bounty Hunters 4
+
+War of the Bounty Hunters 5
+
+War of the Bounty Hunters – IG-88 1
+
+Star Wars (2020) 18 (Indirect mention only)
+
+Bounty Hunters 36
+
+Bounty Hunters 37
+
+Moving Target: A Princess Leia Adventure (and audiobook) (Indirect mention only)
+
+ "Galactic Tales: Valnir and Laizhu" &#8212; Star Wars Insider 222
+
+Rescue from Jabba's Palace
+
+ Star Wars Galaxy of Adventures &#8212; "Leia and Han - The Han Rescue" (In flashback(s))
+
+Star Wars: Hunters (On sticker)
+
+The Mandalorian Season 2 Junior Novel (and audiobook)
+
+The Mandalorian – The Graphic Novel of Season 2
+
+The Mandalorian: The Path of the Force
+
+ Star Wars: The Mandalorian &#8212; "Chapter 14: The Tragedy"
+
+ Star Wars: The Mandalorian &#8212; "Chapter 15: The Believer"
+
+ Star Wars: The Mandalorian &#8212; "Chapter 16: The Rescue"
+
+The Mandalorian: The Rescue
+
+ Star Wars: The Book of Boba Fett &#8212; "Chapter 1: Stranger in a Strange Land" (In flashback(s))
+
+The Book of Boba Fett Junior Novel
+
+ Star Wars: The Book of Boba Fett &#8212; "Chapter 2: The Tribes of Tatooine" (Vision&#32;to Boba Fett) (In flashback(s))
+
+ Star Wars: The Book of Boba Fett &#8212; "Chapter 3: The Streets of Mos Espa" (In flashback(s))
+
+ Star Wars: The Book of Boba Fett &#8212; "Chapter 4: The Gathering Storm" (In flashback(s))
+
+ Star Wars: The Book of Boba Fett &#8212; "Chapter 6: From the Desert Comes a Stranger"
+
+Star Wars: Galaxy of Heroes
+
+	
+
+Non-canon appearances[]
+
+ LEGO Star Wars: Droid Tales &#8212; "Exit from Endor" (In flashback(s))
+
+ LEGO Star Wars: Droid Tales &#8212; "Flight of the Falcon" (In flashback(s))
+
+LEGO Star Wars: Han Solo's Adventures
+
+LEGO Star Wars: Rise of the Rebellion
+
+ "Bounty Hunter Duel" &#8212; LEGO Star Wars 47 (Mentioned only)
+
+ "The Millennium Meteorite" &#8212; LEGO Star Wars 61
+
+ "Play the Music!" &#8212; LEGO Star Wars 72
+
+ LEGO STAR WARS: Celebrate the Season &#8212; "Scary Starship"
+
+ LEGO STAR WARS: Celebrate the Season &#8212; "Trick-or-Treat"
+
+ Star Wars: Visions &#8212; "Tatooine Rhapsody"
+
+ LEGO STAR WARS: Celebrate the Season &#8212; "Boba Fett's Throne Room Party"
+
+LEGO Star Wars: The Skywalker Saga
+
+ LEGO STAR WARS: Celebrate the Season &#8212; "Happy Celebration 45th Anniversary A New Hope"
+
+ LEGO STAR WARS: Celebrate the Season &#8212; "A Gift from Grogu" (as artwork)
+
+LEGO Star Wars Summer Vacation (In flashback(s))
+
+ LEGO STAR WARS: Celebrate the Season &#8212; "Hot Day Hijinks"
+
+ LEGO STAR WARS: Celebrate the Season &#8212; "Mech My Day"
+
+ "The Milestone Mission" &#8212; LEGO Star Wars 112
+
+ LEGO STAR WARS: Celebrate the Season &#8212; "Jabba's Halloween Bash"
+
+ "Darth Vader: Hunter for Hire" &#8212; LEGO Star Wars 118
+
+ "Jet Into Action" &#8212; LEGO Star Wars 121
+
+ LEGO STAR WARS: Celebrate the Season &#8212; "Fett's Flying Lesson"
+
+ "A Mandalorian Mission" &#8212; LEGO Star Wars 128
+
+Sources[]
+
+&#160;"A Necessary Bond" Episode Guide &#124; The Clone Wars on StarWars.com (backup link)
+
+&#160;Bossk in the Encyclopedia (original site is defunct)
+
+&#160;Slave I in the Encyclopedia (original site is defunct)
+
+Star Wars Helmet Collection: Boba Fett Helmets: Boba Fett &#8212; Notorious Bounty Hunter
+
+ LEGO Ultimate Collector's Series (Set:  75060 Slave I)
+
+Star Wars Helmet Collection: Jango Fett 
+
+Star Wars Helmet Collection: Jango Fett Helmets: Jango Fett
+
+Star Wars Helmet Collection: Jango Fett Highlights of the Saga: The Secret of Kamino
+
+Star Wars: Card Trader Set: Base Series 1, Card: Jango Fett - Bounty Hunter
+
+Star Wars Helmet Collection: Anakin Skywalker Databank A-Z: Ewoks&#8211;Finn
+
+Ultimate Star Wars
+
+Star Wars Helmet Collection: Lando Calrissian Helmets: Lando Calrissian
+
+Star Wars Helmet Collection: Phase I Clone Trooper Helmets: Phase I Clone Trooper (Picture only)
+
+Star Wars: Build the Millennium Falcon 28 Starship Fact File: Firespray Pursuit Special &#8212; Slave I
+
+&#160;From Concept to Screen: Slave I on StarWars.com (original link is obsolete)
+
+Star Wars: Star Pilot
+
+Star Wars: Absolutely Everything You Need to Know
+
+Star Wars: Ships of the Galaxy (Picture only)
+
+Star Wars: Card Trader Set: Blueprints, Card: Slave I
+
+Star Wars: Build the Millennium Falcon 65 Starship Fact File: Firespray Special: Slave I &#8212; Part 2
+
+Star Wars Helmet Collection: 4-LOM Highlights of the Saga: Escaping Cloud City (Picture only)
+
+Star Wars: Complete Locations
+
+Star Wars Helmet Collection: Sabine Wren Weapons & Uniforms: Mandalorians
+
+Star Wars Helmet Collection: Jess Pava Databank A-Z: Luke Skywalker&#8211;Han Solo
+
+Star Wars: Galactic Atlas
+
+Star Wars Helmet Collection: Commander Ponds 
+
+Star Wars Helmet Collection: Commander Ponds Highlights of the Saga: The End of Endurance
+
+Star Wars Helmet Collection: Commander Ponds Weapons & Uniforms: Aurra Sing
+
+Star Wars: The Visual Encyclopedia
+
+Star Wars: Geektionary: The Galaxy from A - Z
+
+Star Wars Bust Collection: Darth Vader 
+
+Star Wars Bust Collection: Darth Vader Behind the Cameras: How the Death Star Was Created (Picture only)
+
+Star Wars Bust Collection: Darth Vader Character: Darth Vader (Picture only)
+
+Star Wars Bust Collection: Stormtrooper Character: Stormtroopers (Picture only)
+
+Star Wars Encyclopedia of Starfighters and Other Vehicles
+
+ Star Wars: X-Wing Second Edition &#8212; Slave I Expansion Pack Card: Slave I  Reissued in Scum and Villainy Conversion Kit
+
+Star Wars: The Complete Visual Dictionary, New Edition
+
+Star Wars: Scum and Villainy: Case Files on the Galaxy's Most Notorious (Picture only)
+
+Star Wars: Build Your Own X-Wing 11 Starfighter Aces: Jango Fett &#8212; Legendary Bounty Hunter
+
+ Star Wars: X-Wing Second Edition &#8212; Guardians of the Republic Squadron Pack Card: Obi-Wan Kenobi &#8212; Delta-7 Aethersprite  (Picture only)
+
+ Star Wars: The Vintage Collection (Pack: Boba Fett's Slave I) &#32;(backup link)
+
+Star Wars: Outer Rim
+
+ LEGO Star Wars (Set:  75243 Slave I - 20th Anniversary Edition)
+
+Ultimate Star Wars, New Edition
+
+Star Wars: The Galactic Explorer's Guide
+
+Starships and Speeders
+
+ Disney Gallery: The Mandalorian &#8212; "Legacy"
+
+ Disney Gallery: The Mandalorian &#8212; "Connections"
+
+Star Wars: Card Trader Set: 2020 Base Series 2, Card: Boba Fett
+
+"R2-D2" &#8212; Star Wars Encyclopedia (Picture only)
+
+Star Wars: Fascinating Facts
+
+Star Wars Complete Vehicles, New Edition
+
+"Republic, Rebel, and Resistance Starfighters" &#8212; Star Wars Encyclopedia
+
+The Art of Star Wars: The Mandalorian Season One
+
+"The Battle of Hoth and the Second Death Star" &#8212; Star Wars Encyclopedia
+
+ Disney Gallery: The Mandalorian &#8212; "Making of Season Two"
+
+Star Wars: The Skywalker Saga – The Official Collector's Edition
+
+ "Jedi Master's Quiz" &#8212; Star Wars Insider 203
+
+ LEGO Star Wars (Set:  75312 Boba Fett's Starship)
+
+ Disney Gallery: The Mandalorian &#8212; "Making of the Season 2 Finale"
+
+ LEGO Star Wars (Set:  75307 LEGO Star Wars Advent Calendar)
+
+Star Wars Starships & Vehicles 8
+
+&#160;The Book of Boba Fett &#124; Official Trailer &#124; Disney+ on the official Star Wars YouTube channel (backup link) (Posted on StarWars.com)
+
+&#160;6 Highlights from The Book of Boba Fett Trailer on StarWars.com (backup link) (Picture only)
+
+Star Wars: Battles that Changed the Galaxy (Picture only)
+
+ "The Fett Family's Finest" &#8212; Star Wars Insider 206 (reprinted in Star Wars Insider Presents: The Mandalorian Collection)
+
+Star Wars: The Mandalorian Handbook
+
+Under the Helmet: The Legacy of Boba Fett
+
+&#160;Empire Magazine Cracks Open The Book of Boba Fett on StarWars.com (backup link) (Indirect mention only)
+
+&#160;Reign &#124; The Book of Boba Fett &#124; Disney+ on the official Star Wars YouTube channel (backup link) (Posted on StarWars.com)
+
+&#160;The Return &#124; The Book of Boba Fett &#124; Disney+ on the official Star Wars YouTube channel (backup link) (Posted on StarWars.com)
+
+&#160;From a Certain Point of View: What's Boba Fett's Greatest Moment (So Far...)? on StarWars.com (backup link)
+
+&#160;Ready &#124; The Book of Boba Fett &#124; Disney+ on the official Star Wars YouTube channel (backup link) (Posted on StarWars.com)
+
+&#160;Authority &#124; The Book of Boba Fett &#124; Disney+ on the official Star Wars YouTube channel (backup link) (Posted on StarWars.com)
+
+&#160;Return of a Legend &#124; The Book of Boba Fett &#124; Disney + on the official Star Wars YouTube channel (backup link) (Posted on StarWars.com)
+
+&#160;Arrival &#124; The Book of Boba Fett &#124; Disney+ on the official Star Wars YouTube channel (backup link)
+
+&#160;Being Boba Fett &#124; The Book of Boba Fett &#124; Disney+ on the official Star Wars YouTube channel (backup link) (Posted on StarWars.com)
+
+&#160;The Book of Boba Fett Cargo Hold: "Chapter 4: The Gathering Storm" on StarWars.com (backup link) (Picture only)
+
+&#160;The Best of The Book of Boba Fett: 5 Highlights from "Chapter 4: The Gathering Storm" on StarWars.com (backup link)
+
+&#160;Big Empire &#124; The Book of Boba Fett &#124; Disney+ on the official Star Wars YouTube channel (backup link)
+
+&#160;Stranger &#124; The Book of Boba Fett &#124; Disney+ on the official Star Wars YouTube channel (backup link) (Posted on StarWars.com)
+
+&#160;The Book of Boba Fett Cargo Hold: "Chapter 6: From the Desert Comes a Stranger" on StarWars.com (backup link) (Picture only)
+
+&#160;Star Wars Inside Intel: Mandalorian Armor on StarWars.com (article) (backup link) (Picture only)
+
+&#160;Star Wars Full Circle: Boba Fett on the official Star Wars Kids YouTube channel (original link is obsolete)
+
+ Disney Gallery: The Mandalorian &#8212; "The Book of Boba Fett"
+
+&#160;Disney Gallery: The Book of Boba Fett &#124; Disney+ on the official Star Wars YouTube channel (backup link) (Posted on StarWars.com)
+
+&#160;Star Wars Celebration LIVE! &#8211; DAY 2 on the official Star Wars YouTube channel (original link is obsolete)
+
+&#160;Star Wars: Attack of the Clones 20th Anniversary Celebration &#124; Star Wars Celebration Anaheim 2022 on the official Star Wars YouTube channel (backup link)
+
+&#160;SWCA 2022: 8 Things We Learned from the Star Wars: Attack of the Clones 20th Anniversary Panel on StarWars.com (backup link) (Picture only)
+
+&#160;SDCC 2022: Hasbro Reveals New Mandalorian, Star Wars Jedi: Survivor Figures and More on StarWars.com (backup link)
+
+&#160;This Week! in Star Wars Acolyte Casting News, San Diego Comic-Con, and More! on the official Star Wars YouTube channel (backup link) (Posted on StarWars.com)
+
+Star Wars: The Secrets of the Bounty Hunters
+
+ "A Certain Point of View" &#8212; Star Wars Insider 217
+
+&#160;10 Great LEGO Star Wars Building Sets for Adults on StarWars.com (backup link)
+
+Star Wars Day-at-a-Time Calendar 2024
+
+"This is Obi-Wan" &#8212; Star Wars: Meet the Galactic Heroes
+
+Star Wars Day-at-a-Time Calendar 2025
+
+&#160;Behind the Bricks: Our Favorite Easter Eggs from LEGO Star Wars: Rebuild the Galaxy on StarWars.com (backup link)
+
+Star Wars: Millennium Falcon 65 Starship Fact File: Firespray Pursuit Special: Boba Fett's Starship Part 2
+
+&#160;Poll: What Star Wars Creatures of the Night Scare You the Most? on StarWars.com (backup link) (Picture only)
+
+Star Wars Encyclopedia: The Comprehensive Guide to the Star Wars Galaxy
+
+&#160;Put a Bounty on Marvel's Star Wars: Boba Fett &#8211; Black, White & Red - Exclusive Reveal on StarWars.com (backup link) (Picture only)
+
+Star Wars Day-at-a-Time Calendar 2026
+
+ LEGO Star Wars (Set:  75433 Jango Fett's Starship)
+
+&#160;Ahsoka Tano in the Databank (backup link)
+
+&#160;Aurra Sing in the Databank (backup link)
+
+&#160;Bespin in the Databank (backup link)
+
+&#160;Boba Fett in the Databank (backup link)
+
+&#160;Bossk in the Databank (backup link)
+
+&#160;Cloud City in the Databank (backup link)
+
+&#160;Delta-7 Jedi Starfighter in the Databank (backup link)
+
+&#160;Jango Fett in the Databank (backup link)
+
+&#160;Mandalorian Gauntlet starfighter in the Databank (backup link) (Picture only)
+
+&#160;Sarlacc Pit in the Databank (backup link) (Picture only)
+
+&#160;Seismic Charge in the Databank (backup link)
+
+&#160;Slave I in the Databank (backup link)
+
+	
+
+Non-canon sources[]
+
+LEGO Star Wars: Build Your Own Adventure
+
+ Star Wars: Visions Filmmaker Focus &#8212; "Tatooine Rhapsody" (Video clip only)
+
+&#160;LEGO Star Wars Summer Vacation &#124; Official Trailer &#124; Disney+ on the official Star Wars YouTube channel (backup link) (Posted on StarWars.com)
+
+Notes and references[]
+
+↑ 1.0 1.1 1.2 1.3 1.4 1.5 1.6 Star Wars Journeys: Beginnings
+
+↑ 2.0 2.1 2.2 2.3 2.4 2.5 2.6 2.7 2.8 Star Wars Encyclopedia of Starfighters and Other Vehicles (second edition)
+
+↑ 3.0 3.1 3.2 3.3 3.4 Ultimate Star Wars
+
+↑ 4.0 4.1 Star Wars Encyclopedia of Starfighters and Other Vehicles
+
+↑ 5.0 5.1 5.2 Starships and Speeders
+
+↑ 6.0 6.1 6.2 6.3 6.4 Star Wars Complete Vehicles, New Edition
+
+↑ Star Wars Super Graphic: A Visual Guide to a Galaxy Far, Far Away
+
+↑ 8.00 8.01 8.02 8.03 8.04 8.05 8.06 8.07 8.08 8.09 8.10 8.11 8.12 8.13 8.14 Star Wars: Millennium Falcon 65 Starship Fact File: Firespray Pursuit Special: Boba Fett's Starship Part 2
+
+↑ 9.0 9.1 9.2 9.3 9.4 9.5 9.6 Star Wars: Episode II Attack of the Clones
+
+↑  Star Wars: The Clone Wars &#8212; "R2 Come Home"
+
+↑ 11.0 11.1 11.2  Star Wars: The Mandalorian &#8212; "Chapter 15: The Believer"
+
+↑ &#160;Slave I in the Encyclopedia (original site is defunct)
+
+↑ 13.0 13.1 13.2  Star Wars: The Clone Wars &#8212; "A Necessary Bond"
+
+↑ 14.0 14.1 Dark Disciple
+
+↑ &#160;Boba Fett in the Databank (backup link)
+
+↑ 16.0 16.1 16.2 Star Wars: Episode V The Empire Strikes Back
+
+↑ Bounty Hunters 35
+
+↑ 18.0 18.1  Star Wars: The Book of Boba Fett &#8212; "Chapter 6: From the Desert Comes a Stranger"
+
+↑ 19.0 19.1  Star Wars: The Clone Wars &#8212; "Lethal Trackdown"
+
+↑ 20.0 20.1 Star Wars Encyclopedia: The Comprehensive Guide to the Star Wars Galaxy
+
+↑ Star Wars (2020) 1
+
+↑ 22.0 22.1 Star Wars: The Galactic Explorer's Guide
+
+↑ 23.0 23.1 23.2 23.3 Star Wars: Complete Vehicles (2018)
+
+↑ Star Wars: Build the Millennium Falcon 28 Starship Fact File: Firespray Pursuit Special &#8212; Slave I
+
+↑ Star Wars: Absolutely Everything You Need to Know
+
+↑ 26.0 26.1 &#160;Slave I in the Databank (backup link)
+
+↑ Jedi Knights 4
+
+↑ Jango Fett 1
+
+↑ Bounty Hunters 37
+
+↑ Age of Republic - Jango Fett 1
+
+↑  Star Wars: The Clone Wars &#8212; "Assassin"
+
+↑ 32.0 32.1 32.2 War of the Bounty Hunters 1
+
+↑ Starships and Speeders
+
+↑ Bounty Hunters 1
+
+↑ Bounty Hunters 5
+
+↑ War of the Bounty Hunters Alpha 1
+
+↑ War of the Bounty Hunters – IG-88 1
+
+↑ War of the Bounty Hunters 5
+
+↑  Star Wars: The Book of Boba Fett &#8212; "Chapter 4: The Gathering Storm"
+
+↑  Star Wars: The Mandalorian &#8212; "Chapter 14: The Tragedy"
+
+↑  Star Wars: The Mandalorian &#8212; "Chapter 16: The Rescue"
+
+↑ 42.0 42.1 &#160;LEGO® CON 2021 - Full show - Live from LEGO House, Billund Denmark! on the official LEGO YouTube channel (backup link)
+
+↑ &#160;SDCC 2022: Hasbro Reveals New Mandalorian, Star Wars Jedi: Survivor Figures and More on StarWars.com (backup link)
+
+↑ LEGO Star Wars: The Skywalker Saga
+
+↑ 45.0 45.1 The Odyssey of Star Wars: An Epic Poem
+
+↑ 46.0 46.1  LEGO Star Wars (Set:  75312 Boba Fett's Starship)
+
+↑ 47.0 47.1 &#160;Slave I in the Databank (backup link)
+
+↑ Star Wars Day-at-a-Time Calendar 2024, "Slave I" (March 18)
+
+↑ Star Wars Day-at-a-Time Calendar 2025, "Slave I" (June 11)
+
+↑ Star Wars Day-at-a-Time Calendar 2026, "Slave I" (January 9)
+
+↑ &#160;Slave I in the Databank (content not present on current version)
+
+↑ &#160;Slave I in the Databank (content not present on current version)
+
+	
+
+External links[]
+
+ Slave I on Wikipedia
+
+In other languages
+
+Deutsch
+Ελληνικά
+español
+ქართული
+日本語
+polski
+suomi
+Türkçe
