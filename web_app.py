@@ -31,7 +31,7 @@ SHIP_MODELS_MAP = {
     "TIE_interceptor.txt": "/static/models/interceptor_tie.glb",
     "TIE_bomber.txt": "/static/models/tie_bomber.glb",
     "TIE_LN_starfighter.txt": "/static/models/tie.glb",
-    "X-wing_starfighter.txt": "/static/models/xwing.glb",
+    "X-wing_starfighter.txt": "/static/models/x-wing.glb",
 }
 
 TEMPLATE = """
@@ -79,14 +79,36 @@ TEMPLATE = """
     .stars:before { animation-duration: 26s; opacity: 0.35; }
     .stars:after { animation-duration: 34s; opacity: 0.2; }
     @keyframes drift { from { transform: translateY(0); } to { transform: translateY(-25px); } }
-    .wrap { max-width: 980px; margin: 0 auto; padding: 28px 16px 24px; position: relative; z-index: 1; }
-    .hero { margin-bottom: 18px; padding: 24px; border: 1px solid var(--stroke); border-radius: 22px; background: var(--card); backdrop-filter: blur(12px); box-shadow: 0 20px 60px rgba(0, 0, 0, 0.35); animation: reveal 450ms ease-out; }
+    .wrap {
+      max-width: 980px;
+      margin: 0 auto;
+      padding: 28px 16px 170px;
+      position: relative;
+      z-index: 1;
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+      gap: 18px;
+    }
+    .hero { padding: 24px; border: 1px solid var(--stroke); border-radius: 22px; background: var(--card); backdrop-filter: blur(12px); box-shadow: 0 20px 60px rgba(0, 0, 0, 0.35); animation: reveal 450ms ease-out; }
     .tag { display: inline-flex; padding: 6px 10px; border-radius: 999px; border: 1px solid rgba(255, 215, 122, 0.45); color: var(--accent-2); font-size: 12px; letter-spacing: 0.08em; text-transform: uppercase; }
     h1 { font-family: "Fraunces", serif; font-size: clamp(1.6rem, 2.8vw, 2.5rem); margin: 10px 0 8px; line-height: 1.2; }
     .subtitle { margin: 0; color: var(--muted); max-width: 70ch; line-height: 1.45; }
-    .chat-card { border: 1px solid var(--stroke); border-radius: 22px; background: var(--card); backdrop-filter: blur(12px); box-shadow: 0 20px 60px rgba(0, 0, 0, 0.35); overflow: hidden; animation: reveal 700ms ease-out; }
+    .chat-card {
+      border: 1px solid var(--stroke);
+      border-radius: 22px;
+      background: var(--card);
+      backdrop-filter: blur(12px);
+      box-shadow: 0 20px 60px rgba(0, 0, 0, 0.35);
+      overflow: hidden;
+      animation: reveal 700ms ease-out;
+      display: flex;
+      flex-direction: column;
+      flex: 1;
+      min-height: 0;
+    }
     @keyframes reveal { from { transform: translateY(8px); opacity: 0; } to { transform: translateY(0); opacity: 1; } }
-    .chat-log { padding: 18px; display: flex; flex-direction: column; gap: 14px; }
+    .chat-log { padding: 18px; display: flex; flex-direction: column; gap: 14px; overflow-y: auto; flex: 1; min-height: 0; }
     .bubble { max-width: 88%; border-radius: 16px; padding: 12px 14px; line-height: 1.45; white-space: pre-wrap; border: 1px solid transparent; animation: reveal 260ms ease-out; }
     .user { align-self: flex-end; background: linear-gradient(145deg, rgba(107, 220, 255, 0.25), rgba(107, 220, 255, 0.1)); border-color: rgba(107, 220, 255, 0.35); }
     .assistant { align-self: flex-start; background: rgba(255, 255, 255, 0.06); border-color: rgba(255, 255, 255, 0.18); width: 100%;}
@@ -113,16 +135,40 @@ TEMPLATE = """
     .assistant h1, .assistant h2, .assistant h3, .assistant h4 { margin: 0.2em 0 0.45em; line-height: 1.25; font-family: "Fraunces", serif; }
     .assistant p { margin: 0.35em 0; }
     .sources { margin-top: 8px; font-size: 0.85rem; color: var(--muted); border-top: 1px solid rgba(255,255,255,0.1); padding-top: 8px;}
-    .composer { border-top: 1px solid var(--stroke); padding: 12px; display: grid; grid-template-columns: 1fr auto; gap: 10px; background: rgba(5, 11, 22, 0.65); }
-    textarea { width: 100%; min-height: 56px; max-height: 160px; resize: vertical; border-radius: 12px; border: 1px solid rgba(255, 255, 255, 0.18); background: rgba(255, 255, 255, 0.04); color: var(--text); font-family: inherit; padding: 12px; font-size: 0.96rem; outline: none; }
+    .composer {
+      border: 1px solid var(--stroke);
+      border-radius: 16px;
+      padding: 12px;
+      display: grid;
+      grid-template-columns: 1fr auto;
+      gap: 10px;
+      background: rgba(5, 11, 22, 0.9);
+      position: fixed;
+      left: 50%;
+      transform: translateX(-50%);
+      bottom: 12px;
+      width: min(850px, calc(100vw - 20px));
+      z-index: 20;
+      backdrop-filter: blur(8px);
+      box-shadow: 0 14px 34px rgba(0, 0, 0, 0.38);
+    }
+    textarea { width: 100%; min-height: 56px; max-height: 160px; resize: vertical; border-radius: 12px; border: 1px solid rgba(255, 255, 255, 0.18); background: rgba(255, 255, 255, 0.04); color: var(--text); font-family: inherit; padding: 12px; font-size: 0.96rem; outline: none; resize: none; }
     textarea:focus { border-color: var(--accent); box-shadow: 0 0 0 3px rgba(107, 220, 255, 0.25); }
     button { border: 0; border-radius: 12px; padding: 0 18px; background: linear-gradient(145deg, var(--accent), #74a9ff); color: #02131d; font-weight: 700; cursor: pointer; transition: transform 130ms ease, filter 130ms ease; }
     button:hover { filter: brightness(1.06); }
     button:active { transform: translateY(1px); }
     button:disabled { filter: grayscale(0.35); cursor: not-allowed; opacity: 0.7; }
-    .status { margin-top: 8px; font-size: 0.9rem; color: var(--muted); min-height: 1.3em; }
+    .status { font-size: 0.9rem; color: var(--muted); min-height: 1.3em; }
     .status.error { color: var(--error); }
     .status.ok { color: var(--ok); }
+
+    @media (max-width: 780px) {
+      .wrap { padding: 16px 10px 152px; }
+      .hero { padding: 16px; }
+      .chat-card { border-radius: 16px; }
+      .composer { grid-template-columns: 1fr; }
+      button { min-height: 44px; }
+    }
   </style>
 
   <script type="importmap">
@@ -145,11 +191,12 @@ TEMPLATE = """
 
     <section class="chat-card">
       <div id="chatLog" class="chat-log"></div>
-      <form id="chatForm" class="composer">
-        <textarea id="question" placeholder="Ex: Qui pilote le Faucon Millenium ?" required></textarea>
-        <button id="sendBtn" type="submit">Envoyer</button>
-      </form>
     </section>
+
+    <form id="chatForm" class="composer">
+      <textarea id="question" placeholder="Ex: Qui pilote le Faucon Millenium ?" required></textarea>
+      <button id="sendBtn" type="submit">Envoyer</button>
+    </form>
 
     <div id="status" class="status"></div>
   </main>
@@ -279,7 +326,7 @@ TEMPLATE = """
       }
 
       chatLog.appendChild(bubble);
-      window.scrollTo({ top: document.body.scrollHeight, behavior: "smooth" });
+      chatLog.scrollTo({ top: chatLog.scrollHeight, behavior: "smooth" });
     }
 
     function setStatus(message, kind = "") {
@@ -411,29 +458,47 @@ def chat():
 
     try:
         result = rag_chain.invoke(question)
-        sources = sorted({doc.metadata.get("source", "Inconnue") for doc in result["context"]})
         
-        # --- NOUVEAUTÉ : Détection du modèle 3D ---
-        # On vérifie si un des fichiers sources utilisés pour la réponse correspond
-        # à un vaisseau dont on possède le modèle 3D.
+        # --- 1. CORRECTION DU TRI ---
+        # On garde l'ordre de priorité de FAISS (le 1er est le plus pertinent)
+        # On utilise une liste classique au lieu d'un 'set' pour ne pas casser l'ordre
+        sources_ordonnees = []
+        for doc in result["context"]:
+            src = doc.metadata.get("source", "Inconnue")
+            if src not in sources_ordonnees:
+                sources_ordonnees.append(src)
+        
+        # --- 2. RECHERCHE DU MODÈLE 3D (Basé sur la pertinence) ---
         model_url = None
-        for source in sources:
-          source_basename = Path(source).name
-          if source in SHIP_MODELS_MAP:
-            model_url = SHIP_MODELS_MAP[source]
-            break 
-          if source_basename in SHIP_MODELS_MAP:
-            model_url = SHIP_MODELS_MAP[source_basename]
-            break
+        for source in sources_ordonnees:
+            source_basename = Path(source).name
+            # Si la source la plus pertinente possède un modèle 3D, on le prend et on arrête !
+            if source_basename in SHIP_MODELS_MAP:
+                model_url = SHIP_MODELS_MAP[source_basename]
+                break
+            elif source in SHIP_MODELS_MAP:
+                model_url = SHIP_MODELS_MAP[source]
+                break
+
+        # --- 3. SÉCURITÉ BONUS (Reconnaissance faciale) ---
+        # Si jamais FAISS se trompe, on regarde si l'utilisateur a tapé le nom du vaisseau 
+        # explicitement dans sa question (ex: "x-wing").
+        question_lower = question.lower()
+        for key, url in SHIP_MODELS_MAP.items():
+            # Transforme "X-wing_starfighter.txt" en "x-wing"
+            mot_cle = key.lower().replace(".txt", "").replace("_", " ").replace(" starfighter", "")
+            if mot_cle in question_lower:
+                model_url = url # On force ce modèle
+                break
 
         return jsonify({
             "answer": result["answer"], 
-            "sources": sources,
-            "model_url": model_url  # On renvoie l'URL au Frontend !
+            "sources": sources_ordonnees,
+            "model_url": model_url 
         })
         
     except Exception as exc:
         return jsonify({"error": f"Erreur pendant la génération: {exc}"}), 500
 
 if __name__ == "__main__":
-    app.run(host="127.0.0.1", port=5000, debug=True)
+    app.run(host="0.0.0.0", port=5000, debug=True)
