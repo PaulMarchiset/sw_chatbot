@@ -1,0 +1,10 @@
+Honorbound
+	Production information
+		Model
+	Throneship&#91;1&#93;
+	Usage
+		Affiliation
+	Noble Court&#91;1&#93;
+		Commander(s)
+	Regmus&#91;1&#93;
+Honorbound was a Throneship in the service of the Noble Court. While it flew under the captaincy of the Nothoiin officer Regmus, Honorbound was lost to the Galactic Empire.&#91;1&#93;

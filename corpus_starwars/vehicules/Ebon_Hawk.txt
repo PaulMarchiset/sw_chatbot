@@ -1,0 +1,185 @@
+Content approaching.  "Gamescape" &#8212; Star Wars Insider 63&#8211;class.
+Please update the article to include missing information, and remove this template when finished.
+Ebon Hawk
+	Production information
+		Manufacturer
+	Core Galaxy Systems&#91;1&#93;
+		Model
+	Dynamic-class freighter&#91;1&#93;
+		Type
+	Light freighter&#91;1&#93;
+		Cost
+	Estimated value 154,000 credits&#91;2&#93;
+	Technical specifications
+		Modified systems
+	Navigation computer upgraded from baseline prior to 3956 BBY,&#91;3&#93; then locked-out circa 3951 BBY&#91;4&#93;
+Hyperdrive upgraded&#91;5&#93;&#91;2&#93;
+Sublight drive upgraded&#91;2&#93;
+Hull reinforced&#91;2&#93;
+Military-grade deflector shield generators&#91;2&#93;
+Improved armament&#91;2&#93;
+Smuggling compartments&#91;5&#93; (2)&#91;4&#93;
+		Length
+	24 meters&#91;3&#93;
+		Width
+	Roughly 22.5 meters&#91;1&#93;
+		Maximum speed (atmosphere)
+	1,100 km/h&#91;2&#93;
+		Hyperdrive rating
+	Class 1&#91;2&#93;
+		Navigation system
+	Navigation computer equipped&#91;5&#93;
+Can interface with utility droid or astromech droid if navigation computer is locked or damaged.&#91;4&#93;
+		Armament
+	Dual turbolaser turrets (2, 1 dorsal, 1 ventral)&#91;5&#93;
+Dual heavy quad laser cannons (2, one on each wingtip)&#91;4&#93;
+Concealed ventral anti-personnel repeating blaster (1)&#91;4&#93;
+Proton torpedoes (at least 1 confirmed)&#91;4&#93;
+		Crew
+	Pilot (1)&#91;4&#93;&#91;5&#93;
+Co-pilot (1)&#91;4&#93;&#91;5&#93;
+Gunners (1 minimum, 4 maximum)&#91;2&#93;
+		Minimum crew
+	1 pilot&#91;4&#93;
+		Passengers
+	8&#91;2&#93;
+		Cargo capacity
+	40 tons&#91;2&#93;
+		Consumables
+	2 months&#91;2&#93;
+	Usage
+		Role(s)
+	Transport&#91;4&#93;&#91;5&#93;
+		Affiliation
+	Exchange&#91;5&#93;
+Galactic Republic&#91;4&#93;&#91;5&#93;
+Jedi Order&#91;4&#93;&#91;5&#93;
+		Owner(s)
+	Ratrin Vhek&#91;5&#93;
+Forii Haxa&#91;5&#93;
+Ahita Othar&#91;5&#93;
+Davik Kang&#91;5&#93;
+Revan&#91;5&#93;
+Kreia&#91;4&#93;
+Meetra Surik&#91;4&#93;
+		Commander(s)
+	Revan&#91;5&#93;
+Meetra Surik&#91;4&#93;
+		Registration number(s)
+	34-P7JK&#91;4&#93;
+"Ah, there she is&#8212;the Ebon Hawk. My pride and joy; the fastest ship in the Outer Rim!"
+&#8213;Davik Kang&#91;5&#93;
+The Ebon Hawk was a Dynamic-class freighter and a smuggler ship that rose to fame due to its use around the time of the Jedi Civil War. It was well-known throughout the galaxy as a ship associated with the Exchange, and it passed through many hands before it was commandeered by amnesiac Dark Lord of the Sith, Revan, who was escaping the Destruction of Taris. After Revan joined the Jedi Order, the ship was instrumental in his search for the Star Forge.
+After Revan traveled to the Unknown Regions to destroy the remains of a Sith Empire that had lain dormant there, the Hawk eventually fell into the hands of the Jedi Exile Meetra Surik, who used it on her quest to stop the Sith Triumvirate. The ship was heavily modified over the course of its life, to the point that it was difficult to determine its origins. With its extremely powerful hyperdrive, the ship was believed to be in the top ten of the fastest ships in the galaxy during its time, as it was the fastest ship in the Outer Rim Territories.
+1 Description
+1.1 Interior
+2 History
+2.1 The Exchange
+2.2 Adventures with Revan
+2.2.1 Escaping Taris
+2.2.2 The search for the Star Forge
+2.2.3 Final days with Revan
+2.3 T3-M4's orders
+2.4 Adventures with Meetra Surik
+2.4.1 The Ebon Hawk reappears
+2.4.2 The search for the lost Jedi
+2.4.3 The Ebon Hawk's fate
+3 Commanders and crew
+4 Behind the scenes
+4.1 Alternate choices
+4.1.1 Star Wars: Knights of the Old Republic
+4.1.2 Star Wars: Knights of the Old Republic II
+4.2 Cut content
+4.3 Sizing
+5 Appearances
+6 Sources
+7 Notes and references
+Description[]
+"The registry's 34-P7JK. It's got a temperamental hyperdrive, and the turrets can be sluggish and unresponsive against fast-moving fighters."
+&#8213;Ratrin Vhek&#91;4&#93;
+ 	 	 	 		 			 		 		 		 			The underside of the Ebon Hawk
+The Ebon Hawk was a Dynamic-class freighter, roughly resembled Aurebesh sigil  minus the inward curves at the ends of the outer prongs, with the center prong flush with them, and with a concave curve to the vertical line. Visualizing the open side as the bow, the Hawk's mass filled out the stern to the shape's midpoint and left only a small prong on the starboard side. The starboard mass contained a deployable turret that would extend from the ship's ventral side, and on the port and starboard sides were two more turret emplacements.
+The ship was painted primarily white with the three prongs accented in red on the bow, as well as the dorsal and ventral sides. Towards the stern, on both the latter two sides, there were concave red stripes that curved parallel to the ship's stern from the center prong to the outer two, originating from the outward sides of two cylindrical engines, which met the center prong at its base and extended outward to port and starboard. This formed a symmetrical acute angle across the dorsal side on the longitudinal axis, with legs that met the rear curve. All along the outward-facing sides of these engines was another red stripe.&#91;4&#93;
+Interior[]
+ 	 	 	 		 			 		 		 		 			Ebon Hawk's interior
+The interior of the ship was designed to accommodate a small crew, a good amount of cargo, and a small vehicle such as a swoop bike. There were two sets of crew quarters (starboard and port), each with three standard beds. The starboard dormitory had a secret compartment underneath one of the bunks, which Ratrin Vhek told Surik about in order to prove his prior ownership of the Hawk.&#91;4&#93;
+The cockpit had seats for a pilot, copilot and navigator, with two additional seats behind them. Also in the cockpit area was the galaxy map, where the next destination could be selected. The galaxy map offered a summary of the destination's terrain, native species, and docking facilities.&#91;5&#93; This room was connected to the main hold by a hallway, which also led to the communications room. In the communications room were a number of controls, including a console for accessing the ship's security cameras.&#91;4&#93;
+ 	 	 	 		 			 		 		 		 			The main hold of the Ebon Hawk
+ 		 	 In the center of the main hold was a large round console that included the ship's navigation computer, which could be voice-locked. The console further served as a holoprojector, both for communication and for tactical planning. The ship's security cameras were also accessible from here, as well as the security doors. There was plenty of seating in the main hold, and it was large enough for the entire crew to comfortably gather together. Off to one side was a small storage room.&#91;4&#93;
+From the main hold, another hallway led to the engine room at the back of the vessel, where the engines and the hyperdrive were accessible. There was usually something in this room that needed repair, particularly the temperamental hyperdrive.&#91;4&#93;
+Off the hallway between the main hold and the engine room was the medical bay. There was no kolto tank and only one bed, but it was sufficient for treating all but the most serious conditions. Across the hall from the medical bay was the utility lift, which provided access to the controls for the three turrets and to the Ebon Hawk's outer hull.&#91;5&#93;&#91;4&#93;
+ 	 	 	 		 			 		 		 		 			Layout of the Dynamic-class freighter, a layout largely unchanged for the Ebon Hawk
+The cargo hold was spacious and included a code-locked smuggling compartment. Kang used this compartment for smuggling spice, using the code "Red-47." On the other side of the ship was the garage, which was similar in size and shape to the cargo hold, but more easily accessible as it was connected to the exit ramp. It was designed to fit a small vehicle, and Kang kept&#91;5&#93; a Lhosan Industries Daggerstar&#91;2&#93; here, which Revan acquired along with the ship. There was also a workbench in the garage.&#91;5&#93; The garage was blown open when the Harbinger fired on it and was under repair for the remainder of Surik's journey. The swoop bike was also gone by the time she acquired the ship.&#91;4&#93;
+Other facets of the Ebon Hawk's design included its twin turbolaser turrets (dorsal and ventral), as well as two heavy laser cannons on each side and other hidden armaments. The navigational computers were stolen retrofits.&#91;3&#93; Its hyperdrive was a Class 1 unit, replacing the original Class 3, and the realspace speed was double the baseline for the class.&#91;2&#93; Kang described the ship as being the fastest in the galaxy, and it was widely known and recognized in its time,&#91;5&#93; despite its ID signature being altered at least once.&#91;4&#93;
+History[]
+The Ebon Hawk was constructed on the Galactic Republic planet of Transel.&#91;5&#93; Other Dynamic-class freighters, however, were used in the Republic Navy; one of them was in the Republic fleet at Ralltiir in 3963 BBY,&#91;6&#93; and at least two more crashed on Malachor V after the final battle of the Mandalorian Wars.&#91;4&#93;
+The Ebon Hawk changed owners many times over the decades. Ratrin Vhek claimed to have captained the ship prior to the end of the Mandalorian Wars, saying that the ship was stolen from him during a routine run in the Mid Rim. He was able to accurately describe many of the ship's distinctive features and quirks, but whether he ever truly owned the Ebon Hawk was never confirmed.&#91;4&#93;
+The Exchange[]
+"I know very little about the owners of the Ebon Hawk. Most were affiliated with the Exchange, and they only revealed enough to enable us to do business with them."
+&#8213;Lurze Kesh&#91;5&#93;
+Many of the ship's owners, such as Forii Haxa and Ahita Othar, were associated with the Exchange; their sudden and unexpected deaths led some to believe that the Hawk brought bad luck upon its owners.&#91;5&#93;
+Eventually, the freighter ended up on Taris, acquired by the local Exchange crime lord Davik Kang. In his service, the Ebon Hawk smuggled goods and supplies throughout the Jedi Civil War. With its outstandingly overpowered drive system, Davik joked that it was the best thing he had ever stolen.&#91;5&#93;
+During its time with the Exchange, the Hawk made weekly trips to Dreshdae on Korriban, where the owners purchased goods from a pair of businessmen named Ziagrom and Mika Dorin. Ziagrom later offered to do business with Revan as well, saying that they always did business with the owner of the Ebon Hawk.&#91;5&#93;
+As of 3956 BBY, the ship was docked at Davik Kang's estate in the Upper City of Taris (prior to this, it had been docked at the Taris spaceport). It was piloted by a man named Hudrow until he angered Davik by stealing a spice from the lab at the estate, after which he was imprisoned in Davik's prison. At this time, the Sith had quarantined the planet as they searched for Bastila Shan, and no ships were allowed to leave. The Ebon Hawk was believed to be the only ship capable of breaking through the blockade, and Davik hoped to do just that&#8212;as soon as he could get his hands on the Sith access codes. To do this, he enlisted the help of the amnesiac Revan.&#91;5&#93;
+Adventures with Revan[]
+Escaping Taris[]
+ 	 	 	 		 			 		 		 		 			A frontal view of the Ebon Hawk on Tatooine
+Revan, Carth Onasi, and Bastila Shan were approached by Canderous Ordo, a Mandalorian mercenary working for Davik Kang, to gain the access codes needed to break through the Sith blockade. As it turned out, Canderous had ulterior motives. He was dissatisfied with mercenary work, and proposed a deal to Revan; if Revan could get the access codes, Canderous would help him steal Davik's flagship and escape Taris. Revan succeeded in obtaining the codes, with the help of the droid T3-M4, who had been made especially for the job, but, once inside Davik's estate, the group discovered just how difficult stealing the Ebon Hawk would be. The hangar security system was state-of-the-art, and they would need the security codes in order to have any chance of escape.&#91;5&#93;
+While exploring the estate, Revan stumbled upon Hudrow, Davik's incarcerated former pilot. Hudrow told Revan that he knew the security codes for the Ebon Hawk and offered them to Revan in exchange for his freedom. Revan released the man and used the codes to disable the security system. The party headed for the hangar bay.&#91;5&#93;
+They were stopped by Davik and his associate, the bounty hunter Calo Nord. Revan and his companions were forced to fight the pair of them, and Davik was killed. Calo Nord pulled out a thermal detonator and threatened to take the whole hangar down with him, but the Sith had begun their bombardment, and the roof collapsed on top of him. Believing the bounty hunter to be dead, Revan's group boarded the Hawk and lifted off, narrowly escaping before the planet's surface was devastated by the Sith fleet.&#91;5&#93;
+The search for the Star Forge[]
+The Ebon Hawk became instrumental in Revan's search for the Star Forge, transporting him and his crew to Dantooine, Manaan, Korriban, Kashyyyk, and Tatooine, in search of ancient Star Maps.&#91;5&#93;
+While the ship was docked on Tatooine, an Aqualish merchant by the name of Jor Ul Kurax mistakenly loaded Crate 42-B7, a shipment of gizka, into the cargo hold. The gizka escaped and, before the crew could figure out what to do with them, they had virtually taken over the ship. Revan later met a Selkath on Manaan who was an exotic animal collector and donated the gizka to his zoo.&#91;5&#93;
+Later, on Korriban, Revan met a Rodian named Lurze Kesh. He had been expecting a shipment of spice from Davik and gave Revan the code to the locked compartment in the cargo bay so that he could retrieve it. After taking the spice off Revan's hands, the Rodian gave him a special box to deliver to Motta the Hutt on Tatooine.&#91;5&#93;
+Revan ran into another small problem after Zaalbar noticed that the stock of food was getting low. After hearing footsteps in several parts of the ship, Revan finally stumbled upon a stowaway. Sasha ot Sulem was a young girl who had been kidnapped by Mandalorians, and she had escaped them by sneaking aboard the Ebon Hawk while it was docked on Dantooine. Sasha didn't speak Basic, only a jumbled version of Mando'a, which Revan was able to understand after a great deal of effort. Sasha took a liking to Revan and told him that she considered the Ebon Hawk her home. After some persuasion, Revan convinced her to go with Lur Arka Sulas, a Twi'lek who had been searching for her on behalf of her worried parents.&#91;5&#93;
+ 	 	 	 		 			 		 		 		 			The Leviathan attacks the Ebon Hawk over Manaan.
+While the crew was on their way to uncover the fifth and final Star Map, the Leviathan suddenly appeared. The Leviathan was the flagship of Admiral Saul Karath, Carth's old mentor, who had betrayed the Republic to become the right hand man for Darth Malak. The Ebon Hawk was caught in the larger vessel's tractor beam and the crew had only a short time to devise a plan for escape.&#91;5&#93;
+Once freed from their cells on the Leviathan, the crew split up. While Revan, Bastila, and Carth headed to the bridge to disable the tractor beam, Canderous led the rest of the group back to the Ebon Hawk to prepare for launch. After a confrontation in which Revan learned of his true identity, Bastila remained behind to fight Malak while Revan and Carth escaped to the Hawk. With the tractor beam disabled, the ship was able to escape the Leviathan and continue on its mission, one crew member short.&#91;5&#93;
+Some time after this, Revan was approached by Ziagrom, a Twi'lek who had done business with previous owners of the Ebon Hawk. Ziagrom told Revan that he had heard reports of the Ebon Hawk traveling all over the galaxy, and at the ship's last port he had placed a tracking device on it. Once aware of the ship's activities aboard the Leviathan, Ziagrom had used sources within the Sith fleet to uncover Revan's identity. Despite holding this valuable knowledge, Ziagrom wanted nothing more than to offer Revan access to his partner's premium wares.&#91;5&#93;
+With the last Star Map, Revan's crew finally learned the location of the Star Forge. They set out for an uncharted planet in the Unknown Regions. As they emerged from hyperspace, a powerful disruptor field around the planet forced them to crash-land on the surface. The disruptor field had fried the stabilizers and damaged the hyperdrive. Replacement parts would need to be located before the ship could go anywhere. The disruptor field would also have to be disabled, or they would simply crash again.&#91;5&#93;
+Luckily, the Ebon Hawk wasn't the only victim of the planet's disruptor field. The surface was littered with wreckage, and Revan found suitable parts in short order. The real problem was the disruptor field. While Carth repaired the ship, Revan, Juhani, and Jolee Bindo made their way through the Temple of the Ancients, from which the disruptor field was controlled. After a confrontation with Bastila, who had fallen to the dark side, they shut down the disruptor field and rejoined the others at the Ebon Hawk. There the crew was contacted by Admiral Forn Dodonna of the Republic fleet, which had just arrived and begun its attack on the Star Forge.&#91;5&#93;
+With Bastila using her battle meditation against them, the chances of a Republic victory were slim. Thus, rather than joining the space battle, the crew fought through the Star Forge's defenses and landed the Ebon Hawk in the factory itself, where they set off to confront Bastila and Malak.&#91;5&#93;
+After Revan had redeemed Bastila and defeated Malak, there was nothing to prevent the Republic fleet from destroying the Sith factory. Revan and Bastila ran back to the Ebon Hawk and made their escape just in time. The factory's main orbital stabilizers were destroyed, and it fell out of orbit and plunged into the star below.&#91;5&#93;
+A year after Darth Malak's defeat, Revan left Republic space, his memories of a bigger threat having returned. He left the Ebon Hawk and its droid occupants, T3-M4 and HK-47, behind on Malachor V and continued on alone.&#91;4&#93;
+Final days with Revan[]
+After the Battle of the Star Forge, the Ebon Hawk remained under Revan's ownership. When more of his memories of his days as a Sith Lord returned, Revan took the Ebon Hawk to the Unknown Regions with Canderous Ordo in search of Mandalore's Mask on Rekkiad. During the descent into the atmosphere, the Hawk was subjected to high winds, suffering damage to the landing gear when the ship scraped against a glacier.&#91;7&#93;
+While Canderous and Revan searched the planet for the Mask, T3-M4 repaired the ship. This journey, though resulting in Canderous' departure from Revan's group, did not mean Canderous wouldn't board the Hawk again. Revan then took the Ebon Hawk to Nathema. On Nathema, Darth Nyriss and Lord Scourge, who were on the planet at the time, assumed the ship was hostile and shot the Ebon Hawk down. The ship was disabled and crashed into a skyscraper before finally slamming into the ground, incapacitating Revan.&#91;7&#93;
+T3-M4's orders[]
+"Revan left the Ebon Hawk and its machines behind, for he knew he would not need them."
+&#8213;Kreia&#91;4&#93;
+After Revan was captured by the Sith, T3-M4 took control of the Ebon Hawk for a period of time. Before Revan left, Bastila Shan had given the droid orders to protect Revan and to get help if anything went wrong. T3-M4 took this order seriously and immediately set out to fix the ship. It took a year of rebuilding before the Hawk was finally spaceworthy. Even with the repairs, the Ebon Hawk hopped from planet to planet on minimal power.&#91;4&#93;
+Sometime between Revan's ownership of the Ebon Hawk and its acquisition by Meetra Surik, HK-47 was subjected to close-range blaster fire, damaging several of his parts, while his deactivated body remained in the ship's storage compartment. The cargo hold came to house several containers with miscellaneous parts and supplies, as well as another astromech droid, 3C-FD.&#91;4&#93;
+Adventures with Meetra Surik[]
+The Ebon Hawk reappears[]
+"Repaired this ship, my eye&#8230;"
+&#8213;Atton Rand displaying his usual love for T3-M4, shortly after escaping Peragus&#91;4&#93;
+ 	 	 	 		 			 		 		 		 			3C-FD on the hull of the Ebon Hawk
+Five years after the Battle of Rakata Prime, the Ebon Hawk was picked up by the Harbinger, a Republic Hammerhead-class capital ship that was transporting a passenger known as Meetra Surik, an exiled Jedi. The Harbinger had received a distress signal which claimed that the freighter was being attacked by a Sith warship. The Harbinger crew searched both vessels, but found no one alive, only T3-M4 and the body of a seemingly dead Sith Lord, Darth Sion.&#91;4&#93;
+Some days later, the Sith Lord woke up in the Harbinger's medical bay, and the crew realized that the ship had been boarded by a number of hidden Sith assassins. They attacked the Republic crew.&#91;4&#93;
+While the chaos ensued, an HK-50 series assassin droid posing as a protocol droid rendered Meetra Surik unconscious and sealed her in the cargo hold. She was quickly found by T3-M4 and Kreia and brought aboard the Ebon Hawk. Unknown to them, the assassin droid also stowed away as they escaped. The hijacked vessel Harbinger fired on the Ebon Hawk just as it made the jump to hyperspace, nearly destroying the freighter.&#91;4&#93;
+When it emerged from hyperspace, the ship was in dire condition. The hyperdrive and both engines were dead while the rear starboard hull was completely torn apart, and it was floating dangerously close to the asteroid field surrounding Peragus II. Everyone aboard was either dead or dying and it was up to T3-M4 to repair the ship enough to make it to the Peragus Mining Facility, which was the only port available due to the damaged navicomputer.&#91;4&#93;
+T3-M4 found a damaged astromech droid, 3C-FD, in the cargo hold and repaired him. Together the two droids set about repairing the ship. They used fragments from a proton torpedo that were littered across the hull to repair the hyperdrive, and then restored power to the port engine. The starboard engine remained disabled, but they had enough power to make it to the nearby facility. The droids somehow navigated the asteroid field and docked the ship there. But upon docking, the HK-50 broke out of the cargo compartment and attacked the droids. T3-M4 was brought offline, and 3C-FD was damaged beyond repair.&#91;4&#93;
+The Ebon Hawk was cleaned of its storage (including one of its secret compartments) and dead passengers by the mining crew, although they were unable to access the storage compartment off the main hold. Kreia was sent to the morgue, Surik was sent to recover in a kolto tank, and the deactivated T3-M4 and 3C-FD were sent to storage. The only one aboard who was able to speak was the HK-50 assassin droid. He was sent down to help the maintenance officer.&#91;4&#93;
+By the time Surik awoke in the medical bay, all of the miners in the facility were dead, the work of the HK-50 assassin droid; HK-50 also secretly ordered the mining droids to repair the damage to the Ebon Hawk. As she and her new companions&#8212;Kreia, Atton Rand, and T3-M4&#8212;made their way to the hangar, the Harbinger docked with the facility. It had followed the Ebon Hawk to Peragus, carrying Darth Sion and his Sith assassins. The group was forced into a confrontation with the Sith Lord and narrowly escaped to their ship. As they prepared for launch, Sith troopers swarmed the hangar. Surik defended the ship by manning the ventral turret, defeating all of the oncoming Sith troopers. As more Sith troopers came into the bay and fired at the ship, Atton Rand quickly took the ship out of the hangar.&#91;4&#93;
+ 	 	 	 		 			 		 		 		 			The Harbinger fires at the Ebon Hawk.
+As the Ebon Hawk fled the facility, the Harbinger gave chase. In the skirmish, the Harbinger fired at the Ebon Hawk, setting off a chain of explosions in the asteroid field that ultimately destroyed the Peragus Mining Facility. The Ebon Hawk jumped to hyperspace and escaped both the explosion and the Harbinger. They were forced to travel to Telos IV, as it was the only planet for which astrogation charts were available on Peragus.&#91;4&#93;
+On Telos, they were placed under house arrest by the Telos Security Force, and the Ebon Hawk was impounded until the cause of the mining facility's destruction could be determined. While docked there, the ship was stolen by Brianna, one of the handmaidens of Jedi Master Atris. Atris believed the ship and the droid T3-M4 contained valuable information about the whereabouts of Revan.&#91;4&#93;
+With the help of Bao-Dur, Surik reached Atris's secret academy on Telos and retrieved the Hawk. From there she set out to search for the lost members of the Jedi Council.&#91;4&#93;
+The search for the lost Jedi[]
+ 	 	 	 		 			 		 		 		 			The gunner's turret of the Ebon Hawk firing at a fighter over Onderon
+The Ebon Hawk was instrumental in Surik's quest, which took her to the planets Dantooine, Korriban, Onderon and Nar Shaddaa. The navicomputer had been encrypted some time before the ship left Peragus, and T3-M4 became solely responsible for the ship's navigation.&#91;4&#93;
+While on Nar Shaddaa, Surik encountered Ratrin Vhek, who claimed to own the Ebon Hawk. Surik offered to give the ship back to him. Her companions questioned her decision as there was no way to verify his story and, without the Hawk, they couldn't leave the planet. This ultimately turned out to be moot; Vhek was killed by Red Eclipse thugs when he boarded the ship.&#91;4&#93;
+The Red Eclipse had been scheduled to dock on the landing pad where the crew had docked the Ebon Hawk. The slavers were not happy to find the Hawk there, and they attempted to hijack the ship. When Surik and her crew returned to the ship, they were forced to fight off Captain Cahhmakt and his thugs, after which the Ebon Hawk and its landing rights were secure.&#91;4&#93;
+While the ship was docked on Nar Shaddaa, Atton suggested that the crew change its ID signature so as to make it less of a target. This aligned with one of Surik's goals: she wanted to confront Goto, a crime lord who had placed a bounty on Jedi. However, in her efforts to confront Goto, she was captured by the crime lord and brought to his ship, where she was then asked to help the Republic rebuild itself. However, Goto was unwilling to let her go because of her recent actions which had caused much destruction, most notably the destruction of the Peragus Mining Facility. However, T3-M4 sneaked into Vogga the Hutt's warehouse with the help of the Pazaak "Champ" and stole ID signatures from the warehouse. There he discovered that the droids there were responsible for transmitting ID signatures of Vogga the Hutt's freighters to Goto. Along the way, T3-M4 faced HK-50 assassin droids intending to get Vogga's ID signatures, but T3-M4 made short work of them. He went back to the rest of the Hawk's crew and, with the Ebon Hawk's signatures changed, they proceeded to rescue Surik from Goto.&#91;4&#93;
+ 	 	 	 		 			 		 		 		 			The Ebon Hawk escapes from G0-T0's yacht.
+This plan worked; the ship was caught in Goto's tractor beam. After confronting Goto, Surik and her crew had to shut down the power to the yacht's tractor beam in order to escape. This also shut down the ship's cloaking shield, and as soon as the yacht became visible, every bounty hunter in the vicinity began to attack it. Surik and her companions escaped on the Ebon Hawk. Soon afterward they realized that G0-T0, a droid who had fooled everyone into believing that Goto was a real person who only communicated by hologram, had stowed away and he was reluctantly allowed to stay on as part of the crew.&#91;4&#93;
+When the crew attempted to travel to Onderon in search of Master Kavar, they were attacked over the planet by General Vaklu's forces. The Ebon Hawk was again forced to crash-land, this time on one of the planet's moons, Dxun. The space battle continued overhead after the initial skirmish with the Hawk and Vaklu's forces attacking other Republic ships in orbit over the planet.&#91;4&#93;
+The Ebon Hawk had to be repaired once again before it would be spaceworthy. In the meantime, Surik secured another route to Onderon. While on the planet, she saw a news hologram that grossly exaggerated what had happened in the space battle. The hologram claimed that the Ebon Hawk was a capital-scale vessel, and that it had fired first, destroying fifteen Onderon ships before being shot down (as opposed to six). Vaklu was using the Ebon Hawk as the catalyst for a civil war.&#91;4&#93;
+The Ebon Hawk's fate[]
+After Surik had completed her quest to find the Jedi Masters who exiled her, the Ebon Hawk transported her to the forsaken world of Malachor V. There, the ship made a very damaging crash-landing in a canyon before later breaking loose and falling into Malachor V's core. After Surik confronted and killed Darth Sion and Kreia, the Ebon Hawk proved still functional when her companions piloted the ship out of the abyss and rescued her from the Trayus Core just in time to escape before the Mass Shadow Generator destroyed the planet completely.&#91;4&#93;
+From there, Surik headed into the Unknown Regions to seek out Revan. Kreia predicted that Surik's crew would return to the Republic and rebuild the Jedi Order.&#91;4&#93; Surik eventually returned to the Republic and, after meeting with Bastila, set out once again in the Ebon Hawk in search of Revan. That search eventually ended on Dromund Kaas, the Sith Empire's capital at the time. Surik managed to find Revan, yet she was killed by Lord Scourge. Subsequently, Revan was recaptured and T3-M4 was destroyed, leaving no one to claim the Ebon Hawk.&#91;7&#93;
+Commanders and crew[]
+ 	 	 	 		 			 		 		 		 			The medical bay of the Ebon Hawk
+The Ebon Hawk knew many owners during and after the time of the Mandalorian Wars. Many, like Forii Haxa and Ahita Othar, were associated with the Exchange. As more and more of the ship's owners died, as Haxa and Othar both did, while the ship was in its possession, rumors that the ship was bad luck surfaced. Another pilot, Ratrin Vhek, claimed to be stranded on Nar Shaddaa after the ship was stolen from him.&#91;5&#93;
+After the Hawk made its way to Taris, Davik Kang's crew included at least one pilot, Hudrow. Under Revan, the Ebon Hawk was piloted by Carth Onasi, with Bastila Shan serving as co-pilot. Revan traveled with seven other companions, each of whom served their own unique role on the ship. There was a young Twi'lek named Mission Vao and her Wookiee friend Zaalbar; Canderous Ordo, a Mandalorian mercenary; Juhani, a Cathar Jedi; Jolee Bindo, a self-described "old Padawan"; and two droids, T3-M4 and HK-47.&#91;5&#93;
+Under Surik's ownership, the ship was piloted by Atton Rand. Once again T3-M4 and HK-47 were on board, along with another droid, G0-T0. Canderous Ordo was also on board again, but this time he was known as Mandalore. Bao-Dur and his remote worked to repair the ship throughout the journey along with T3-M4, who was seen either in the engine room or the navigation center. The rest of the crew included a Miraluka named Visas Marr, a bounty hunter named Mira, a mysterious old woman named Kreia, and Mical, a Republic soldier and medic, who spent his time in the medical bay. The final passenger was the last of Atris's handmaidens, Brianna. She stayed in the cargo bay for most of Surik's adventure, constantly training with Echani techniques. Ratrin Vhek met Surik during her journey and forcefully claimed that the ship was his. He wanted so badly to get off the planet where he had lived as a refugee upon for more than half a decade, he tried to take the ship for himself. He was killed by a Red Eclipse assault party when he sneaked aboard the vessel and tried to take off with it.&#91;4&#93;

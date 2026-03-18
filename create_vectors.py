@@ -5,25 +5,27 @@ from langchain_text_splitters import RecursiveCharacterTextSplitter
 from langchain_community.embeddings import HuggingFaceEmbeddings
 from langchain_community.vectorstores import FAISS
 
-DOSSIER_CORPUS = "starships_starwars" 
+DOSSIER_CORPUS = "corpus_starwars"
 
 print("🚀 ÉTAPE 1 : Chargement des documents...")
 documents = []
 # On parcourt tous les fichiers .txt du dossier
-for filepath in Path(DOSSIER_CORPUS).glob("*.txt"):
+for filepath in Path(DOSSIER_CORPUS).rglob("*.txt"):
     # On lit le texte (avec utf-8 pour éviter les bugs d'accents)
     texte = filepath.read_text(encoding="utf-8", errors="ignore")
-    # On crée un "Document" LangChain en gardant le nom du fichier en métadonnée
-    doc = Document(page_content=texte, metadata={"source": filepath.name})
+    # On crée un "Document" LangChain en gardant le chemin relatif en métadonnée
+    source_relative = filepath.relative_to(DOSSIER_CORPUS).as_posix()
+    doc = Document(page_content=texte, metadata={"source": source_relative})
     documents.append(doc)
     
-print(f"✅ {len(documents)} vaisseaux chargés !")
+print(f"✅ {len(documents)} documents chargés !")
 
 print("\n✂️ ÉTAPE 2 : Découpage en chunks...")
 # On configure le découpeur (~500 caractères, avec un léger chevauchement)
+# Remplace ton ancien text_splitter par celui-ci
 text_splitter = RecursiveCharacterTextSplitter(
-    chunk_size=500,
-    chunk_overlap=50, # Le chevauchement évite de couper une phrase en plein milieu
+    chunk_size=1500, # On donne beaucoup plus de contexte (environ 3 à 4 paragraphes)
+    chunk_overlap=200, # On augmente le chevauchement pour ne pas couper une phrase clé
     length_function=len
 )
 chunks = text_splitter.split_documents(documents)

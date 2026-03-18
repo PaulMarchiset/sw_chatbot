@@ -1,0 +1,102 @@
+&#160;	 	&#160;	
+Content approaching. TIE Fighter Owners' Workshop Manual&#8211;class.
+Please update the article to include missing information, and remove this template when finished.
+Eta-2 Actis-class light interceptor
+	Production information
+		Manufacturer
+	Kuat Systems Engineering&#91;1&#93;&#91;2&#93;
+		Line
+	Delta-series&#91;3&#93;
+		Model
+	Eta-2 Actis-class&#91;2&#93;
+		Type
+	Starfighter&#91;2&#93;
+		Cost
+	290,000 credits&#91;3&#93;
+	Technical specifications
+		Length
+	5.47 meters&#91;4&#93; (precise length)5.4 meters (17 feet 8 inches)&#91;2&#93;
+		Width
+	4.3 meters&#91;5&#93;
+		Height/depth
+	2.5 meters (with wings deployed)&#91;6&#93;
+		Maximum acceleration
+	5,200 G&#91;4&#93;
+		Megalight per hour
+	118&#91;7&#93;&#8211;128 MGLT&#91;2&#93;
+		Maximum atmospheric speed
+	1,500 kph&#91;4&#93;&#91;8&#93;
+		Engine unit(s)
+	Twin ion engine&#91;2&#93; (two ion thrusters)&#91;9&#93;
+Repulsorlift projectors (landing and take-off assistance)&#91;9&#93;
+		Hyperdrive rating
+	Class 1 (external hyperspace transport ring required)&#91;4&#93;&#91;2&#93;
+		Power plant
+	High-power reactor&#91;9&#93;
+Auxiliary power cell&#91;9&#93;
+		Shielding
+	None&#91;9&#93;
+		Hull
+	Thin movable hull segments&#91;2&#93; with superficial armor&#91;9&#93;
+		Sensor systems
+	Close-ranged sensors&#91;3&#93; (optional)&#91;2&#93;
+		Targeting systems
+	Equipped (optional)&#91;2&#93;
+		Avionics
+	Pilot monitors&#91;9&#93;
+		Armament
+	Dual&#91;2&#93; laser cannons (2)&#91;8&#93; (forward-mounted)&#91;10&#93;
+Secondary ion cannons (2)&#91;4&#93;&#91;8&#93;&#91;2&#93;
+		Crew
+	Pilot (1)&#91;4&#93;
+Astromech droid (1)&#91;4&#93;
+		Passengers
+	None&#91;4&#93;
+		Consumables
+	72 hours&#91;3&#93;
+		Life support
+	Equipped&#91;9&#93;
+		Other systems
+	S-foils&#91;8&#93;
+	Usage
+		Role(s)
+	Starfighter
+Interceptor
+		Affiliation
+	Jedi Order&#91;10&#93;
+Galactic Republic&#91;10&#93;
+Galactic Empire&#91;10&#93;
+Resistance&#91;11&#93;Black Squadron&#91;11&#93;
+The Eta-2 Actis-class light interceptor, also known as the Eta-2 Actis Jedi Interceptor, Eta-2 light interceptor, Eta-2 interceptor or simply Actis, was a starfighter used by the Jedi during the Clone Wars. Their popularity with the Jedi Order during the conflict resulted in the Actis being known as the Jedi starfighter. Designed to replace the Delta-7 Aethersprite-class light interceptor, the Eta-2 interceptor was a smaller vessel but possessed superior firepower.
+1 Characteristics
+2 History
+2.1 Clone Wars
+2.2 Imperial Era
+2.3 Later use
+3 Appearances
+3.1 Non-canon appearances
+4 Sources
+4.1 Non-canon sources
+5 Notes and references
+6 External links
+Characteristics[]
+ 	 	 	 		 			 		 		 		 			Anakin Skywalker's custom yellow Eta-2
+Measuring 5.47 meters in length,&#91;4&#93; the Eta-2 Actis-class light interceptor was a highly maneuverable combat-oriented starfighter utilized by the Jedi Order to lead troops in battle during the final days of the Clone Wars. As with earlier Jedi starfighters, the ship lacked a hyperdrive and relied on an external hyperspace transport ring to reach hyperspace. Despite this, it was faster than its Aethersprite predecessor, with ion engines providing a maximum acceleration of 5,200G and a max speed of 1,500 kph. The Eta-2 featured wings with upper and lower radiator panels, S-foils, that were opened to shed excess heat from the ship's engines. The radiator wings were primarily opened during intense combat.&#91;8&#93;
+The ship was piloted by a single pilot, with the assistance of a single externally mounted astromech droid for navigation and repair assistance. For offense, the ship featured two laser cannons and two ion cannons. Unlike laser cannons, the ship's ion cannons fired bursts of plasma that caused temporary electrical disruptions to their target upon impact.&#91;8&#93;
+History[]
+ 	 	 	 		 			 		 		 		 			The Eta-2 Actis-class interceptor used by a Jedi General
+Clone Wars[]
+The Eta-2 Actis-class light interceptor was designed by Kuat Systems Engineering and was introduced sometime prior to 19 BBY.&#91;12&#93; It was intended to be a successor to the Delta-7 Aethersprite-class light interceptor and its Delta-7B variant, which had been used by the Jedi Order before and during the Clone Wars. The Eta-2 saw extensive use during the final year of the Clone Wars, most notably by Obi-Wan Kenobi, Anakin Skywalker, and Grand Master Yoda.&#91;8&#93;
+Skywalker and his padawan Ahsoka Tano both flew in their new Eta-2s in the Battle of Cato Neimoidia, where they were both intercepted by droid tri-fighters. They released Pistoeka sabtoage droids onto Skywalker's starfighter, which began shutting down the interceptor's systems. The droids drilled underneath the craft, resulting in an explosion that caused Skywalker to fall unconscious. Tano ordered R2-D2 to land the ship on a nearby mountain so that she could jump to the fighter to rescue him. She succeeded just before Skywalker's starfighter went over the cliff, but not before R2 escaped.&#91;12&#93;
+Grand Master Yoda used a modified Eta-2, alongside R2-D2, on his journey to discover the secrets of eternal consciousness.&#91;13&#93;   
+Skywalker and Kenobi both flew their Eta-2s during the Battle of Coruscant, to rescue Supreme Chancellor Sheev Palpatine who was being held hostage aboard the Invisible Hand. Kenobi's starfighter was heavily damaged by buzz droids during the approach and his astromech droid R4-P17 was destroyed. Skywalker used his fighter to disable the Invisible Hand's shields and the two crash-landed their starfighters inside the hangar bay. The starfighters were both destroyed when the Invisible Hand's aft section broke apart from the rest of the ship as they entered Coruscant's atmosphere.&#91;10&#93;
+Kenobi flew in a blue Eta-2 with R4-G9 on his mission to hunt down General Grievous on Utapau.&#91;10&#93;
+Imperial Era[]
+The newly christened Darth Vader would use a green Eta-2 on his mission to kill the Separatist leaders on Mustafar.&#91;10&#93; 
+Vader would continue to use a modified black variant of the starfighter for several years following the conclusion of the Clone Wars.&#91;14&#93; 
+Five years after the end of the war, a damaged Jedi interceptor was found on the junkyard planet Bracca by two Scrapper Guild members, Prauf and Cal Kestis. Unknown to Prauf, the ship's discovery caused Kestis to recall his past, as he was a Jedi survivor of the purge that shattered the Jedi Order.&#91;15&#93; 
+A grey Eta-2 was hung as one of the many exhibits in the Gallery of Peace in the Coalition for Progress headquarters, which was located on the third moon of Coruscant, Centax-3.&#91;16&#93;
+ 	 	 	 		 			 		 		 		 			Vader fighting his way to Exegol in his green Eta-2.
+In 3 ABY&#91;17&#93;, Vader reused his green Eta-2 on a mission to travel through the Red Honeycomb Zone to find the Sith planet Exegol.&#91;18&#93; Alongside Ochi of Bestoon, Vader was intercepted by Imperial forces sent to stop him, and he used the Eta-2 to take out the attacking TIE fighters. The pair also encountered a subspecies of summa-verminoth. Upon crashing on Exegol, Vader used the Force to tame the creature.&#91;19&#93;  
+Later use[]
+Between 32 ABY and 34 ABY, one Eta-2 was piloted by Temmin Wexley of the Resistance's Black Squadron during a mission to obtain a data archive containing all that was left of the Royal Library of Alderaan.&#91;11&#93;

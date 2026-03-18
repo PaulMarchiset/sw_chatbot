@@ -1,0 +1,12 @@
+Suboreen
+	Physical information
+		Class
+	Terrestrial&#91;1&#93;
+		Atmosphere
+	Breathable&#91;1&#93;
+	Societal information
+		Other species
+	Human&#91;1&#93;
+Nikto&#91;1&#93;
+Trandoshan&#91;1&#93;
+Suboreen was a planet located in the galaxy.&#91;1&#93; Around 6 ABY,&#91;2&#93; Beilert Valance met with Han Solo at the planet.&#91;1&#93;

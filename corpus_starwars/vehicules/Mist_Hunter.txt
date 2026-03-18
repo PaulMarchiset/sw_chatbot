@@ -1,0 +1,35 @@
+&#160;	 	&#160;	
+Mist Hunter
+	Production information
+		Product line
+	Byblos Drive Yards&#91;1&#93;
+		Model
+	G-1A starfighter&#91;2&#93;
+		Type
+	Starfighter&#91;2&#93;
+		Cost
+	162,900 credits&#91;3&#93;
+	Technical specifications
+		Hyperdrive rating
+	Class 1 (Primary)&#91;3&#93;
+Class 10 (Backup)&#91;3&#93;
+		Sensor systems
+	Short range sensor&#91;3&#93;
+		Armament
+	Assault&#91;3&#93; laser cannons&#91;4&#93;
+Light tractor beam projector&#91;3&#93;
+		Crew
+	1 pilot&#91;3&#93;
+1 co-pilot/gunner&#91;3&#93;
+		Passengers
+	3 prisoners&#91;3&#93;
+		Consumables
+	1 month&#91;3&#93;
+	Usage
+		Role(s)
+	Bounty hunter vessel&#91;4&#93;
+The Mist Hunter&#91;4&#93; was a modified Byblos Drive Yards&#91;1&#93; G-1A starfighter&#91;2&#93; owned by the bounty hunter Zuckuss,&#91;1&#93; used by him and his companion 4-LOM. Holding cells aboard Mist Hunter were used to hold Beris Ford and Han Solo after his capture on the planet Valtos.&#91;4&#93; It later crash-landed during a pursuit of Solo and the Wookiee Chewbacca.&#91;5&#93;
+1 Appearances
+1.1 Non-canon appearances
+2 Sources
+3 Notes and references

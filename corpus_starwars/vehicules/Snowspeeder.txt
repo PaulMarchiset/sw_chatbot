@@ -1,0 +1,35 @@
+&#160;	 	&#160;	
+Snowspeeder
+	Production information
+		Manufacturer
+	Incom Corporation&#91;1&#93;
+		Model
+	T-47 airspeeder&#91;2&#93;
+		Type
+	Assault airspeeder&#91;2&#93;
+	Technical specifications
+		Length
+	5.3 meters&#91;2&#93;
+		Armament
+	Harpoon gun and tow cable&#91;2&#93;
+Laser cannon (2)&#91;2&#93;
+		Crew
+	Pilot (1)&#91;2&#93;
+Gunner (1)&#91;2&#93;
+	Usage
+		Role(s)
+	Reconnaissance&#91;2&#93;
+Patrol&#91;2&#93;
+Aerial assault&#91;3&#93;
+		Affiliation
+	Alliance to Restore the Republic&#91;3&#93;
+"Echo Base's rebels used Incom T-47 airspeeders for atmospheric patrols, but had a devilishly difficult time adapting them to Hoth's climate. The modified T-47's were known in the rebel ranks as snowspeeders."
+&#8213;The Galactic Explorer's Guide&#91;4&#93;
+The snowspeeder was a type of T-47 airspeeder manufactured by Incom Corporation and modified by the Rebel Alliance.&#91;1&#93; When the Galactic Empire attacked Echo Base, snowspeeders saw use during the Battle of Hoth, where the T-47s attempted to take down the Empire's All Terrain Armored Transports with their tow cables.&#91;3&#93;
+1 Behind the scenes
+2 Appearances
+2.1 Non-canon appearances
+3 Sources
+3.1 Non-canon sources
+4 Notes and references
+5 External links

@@ -1,0 +1,7 @@
+Tiss'ell
+	Physical information
+		Class
+	Terrestrial&#91;1&#93;
+		Points of interest
+	Lava fields&#91;1&#93;
+Tiss'ell was a planet that had lava fields.&#91;1&#93;

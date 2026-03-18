@@ -1,0 +1,61 @@
+&#160;	 	&#160;	
+Hound's Tooth
+	Production information
+		Manufacturer
+	Corellian Engineering Corporation&#91;1&#93;
+		Product line
+	YV-series&#91;2&#93;
+		Model
+	Modified YV-666 light freighter&#91;1&#93;
+		Type
+	Light freighter&#91;3&#93;
+		Cost
+	415,000&#91;2&#93;
+	Technical specifications
+		Length
+	47.4 meters&#91;4&#93;
+		Width
+	36.9 meters&#91;4&#93;
+		Height/depth
+	15.5 meters&#91;4&#93;
+		Hyperdrive rating
+	Class 1.5&#91;5&#93; (Primary)&#91;2&#93;
+Class 6 (Backup)&#91;2&#93;
+		Sensor systems
+	Short range sensor&#91;2&#93;
+		Armament
+	1 quad laser cannon turret&#91;5&#93;
+1 ion cannon&#91;5&#93;
+1 concussion missile launcher&#91;5&#93;
+		Complement
+	1 Z-95-AF4 Headhunter&#91;2&#93;Nashtah Pup&#91;2&#93;
+		Crew
+	1 pilot&#91;2&#93;
+		Passengers
+	4 prisoners&#91;2&#93;
+		Consumables
+	3 months&#91;2&#93;
+	Usage
+		Role(s)
+	Freighter&#91;4&#93;
+		Owner(s)
+	Bossk&#91;4&#93;
+"I was just admiring your ship, sir."
+"Don't admire it too closely. Its security system has a habit of blasting snoops."
+&#8213;Ezra Bridger and Bossk&#91;1&#93;
+The Hound's Tooth was a modified Corellian Engineering Corporation YV-666 light freighter used as the personal starship of Bossk, a Trandoshan bounty hunter.
+1 Description
+2 History
+3 Appearances
+3.1 Non-canon appearances
+4 Sources
+5 Notes and references
+Description[]
+ 	 	 	 		 			 		 		 		 			Bossk escapes an explosion aboard the Hound's Tooth in his Z-95 Headhunter, Nashtah Pup.
+The Hound's Tooth was a modified YV-666 light freighter manufactured by the Corellian Engineering Corporation.&#91;1&#93; The elongated, rectangular hull was topped with the ship's command bridge, giving the pilot a commanding view through the segmented viewport.&#91;6&#93; A deflector shield generator was situated below the bridge, and a forward ramp allowed access into the interior, as did a side ramp close to the aft maneuvering fins. A rather grim painted mascot adorned the side of the forward hull, depicting a female Trandoshan standing betwixt the ship's name in Aurebesh, with a battle-axe strapped to her back, a blaster in one hand and a Wookiee's severed head in the other.&#91;5&#93;&#91;7&#93;
+Within, the vessel's lower decks were taken up by the engines, power core, and weapon systems.&#91;6&#93; It was equipped with a quad laser cannon turret, an ion cannon, and a concussion missile launcher. The Hound's Tooth could reach speeds of up to 1,190 kph, and had a class 1.5 hyperdrive. Bossk used his ordinary-looking freighter to store his huge collection of weapons, interrogation tools, and gruesome trophies from his years as a bounty hunter. He transformed the YV-666's cargo bays into high-security prison cells, and installed an advanced security system that ensured anyone attempting to break in would be blasted.&#91;5&#93; One of the cargo holds, residing on the ship's upper level,&#91;2&#93; was transformed into a launch bay for his personal Z-95-AF4 Headhunter, Nashtah Pup.&#91;8&#93;
+History[]
+ 	 	 	 		 			 		 		 		 			The Hound's Tooth docks in the Quarzite space station.
+Bossk used the Hound's Tooth as his personal starship,&#91;4&#93; modifying the ordinary-looking vessel for his far-from-ordinary work as a bounty hunter.&#91;5&#93;
+In 20 BBY, members of Krayt's Claw, including Boba Fett, Dengar, C-21 Highsinger, Latts Razzi, and Asajj Ventress used Bossk's ship to travel to the Quarzite space station orbiting the planet Quarzite to accept a job.&#91;9&#93;
+During the Age of the Empire, Bossk flew the Hound's Tooth to the Outer Rim planet of Lothal to collect a bounty on the Dug criminal Gronson Takkaro. For much of that trip, the ship remained at the spaceport of Lothal's Capital City.&#91;1&#93; At another time, the ship suffered an explosion that forced Bossk to abandon the freighter in his personal Z-95-AF4 Headhunter, the Nashtah Pup.&#91;8&#93;

@@ -1,0 +1,19 @@
+Varovia
+	Physical information
+		Atmosphere
+	Breathable&#91;1&#93;
+		Terrain
+	Deserts&#91;1&#93;
+Mountains&#91;1&#93;
+		Points of interest
+	House of Consideration&#91;2&#93;
+Unidentified Tolemite temple&#91;1&#93;
+Varovia port&#91;2&#93;
+	Societal information
+		Native species
+	Varovian&#91;1&#93;
+		Affiliation
+	Varovian Council&#91;1&#93;
+"What happened here? It looks like a war zone."
+&#8213;Tilli describing Varovia&#91;1&#93;
+Varovia was a planet located in the galaxy that was the homeworld of the Varovian species. Jedi Master Atticus Cale, his Padawan Jadia Brink, Golo and Tilli traveled to Varovia in search for the missing Jedi Master Barnabas Vim, but had no luck in discovering him on the planet. Instead they destroyed the Rod of Ages which helped stop the civil war the Varovians were having on their homeworld.&#91;1&#93;

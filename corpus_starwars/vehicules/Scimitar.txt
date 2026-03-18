@@ -1,0 +1,85 @@
+&#160;	 	&#160;	
+Scimitar
+	Production information
+		Designer
+	Sienar Design Systems (initial design as an armed Star Courier)&#91;1&#93;
+Raith Sienar (disputed)&#91;1&#93;
+Darth Tenebrous (suspected)&#91;1&#93;
+		Manufacturer
+	Republic Sienar Systems&#91;2&#93;&#91;3&#93;
+		Model
+	Heavily modified Star Courier&#91;2&#93;
+		Type
+	Armed star courier&#91;2&#93;
+Experimental starship&#91;4&#93;
+Starfighter&#91;5&#93;
+	Technical specifications
+		Length
+	26.5 meters&#91;4&#93; (86 feet 11 inches)&#91;3&#93;
+		Megalight per hour
+	120 MGLT&#91;3&#93;
+		Maximum speed (atmosphere)
+	1,180 kph&#91;6&#93; (733 mph)&#91;7&#93;
+		Engine unit(s)
+	Experimental ion engines&#91;6&#93;
+		Hyperdrive rating
+	Class 2&#91;3&#93;
+		Hull
+	Heavily armoured hull&#91;3&#93;
+		Countermeasures
+	Cloaking device&#91;8&#93;
+		Armament
+	Concealed laser cannons (6)&#91;4&#93;
+Proton torpedo launcher (1)&#91;9&#93;Proton torpedos&#91;3&#93;
+Minelayer&#91;10&#93;
+		Complement
+	DRK-1 Dark Eye probe droids (3)&#91;4&#93;
+Bloodfin&#91;4&#93;
+		Crew
+	1&#91;9&#93;
+		Passengers
+	6&#91;9&#93;
+	Usage
+		Affiliation
+	Sith&#91;11&#93;
+Confederacy of Independent Systems&#91;8&#93;
+Galactic Empire&#91;12&#93;
+		Owner(s)
+	Darth Maul&#91;11&#93;
+Darth Sidious&#91;8&#93;
+		Commander(s)
+	Grievous&#91;8&#93;
+Chanath Cha&#91;12&#93;
+"This vessel was originally designed as a hunter-killer, with many unique capabilities. It is a very special ship. It has had very special owners."
+&#8213;O-66, regarding the Scimitar&#91;12&#93;
+The Scimitar, also known as the Sith Infiltrator, was a heavily modified Star Courier and the personal starship of Darth Maul. After his defeat during the Battle of Naboo, the experimental starfighter was appropriated by Maul's master, Darth Sidious.
+1 Characteristics
+2 History
+2.1 Age of the Republic and the Clone Wars
+2.2 Under the Empire
+3 Behind the scenes
+4 Appearances
+4.1 Non-canon appearances
+5 Sources
+5.1 Non-canon sources
+6 Notes and references
+Characteristics[]
+"A ship! It came out of nowhere! It was cloaked!"
+&#8213;The Scimitar arrives at a battle&#91;10&#93;
+ 	 	 	 		 			 		 		 		 			Multi-angle view of Scimitar with wings folded
+The Sith Infiltrator featured folding wings around its spherical cockpit, and was secretly modified from a Star Courier manufactured by Republic Sienar Systems.&#91;4&#93; It was suspected that the Scimitar was designed by the Sith Lord Darth Tenebrous.&#91;1&#93; The craft featured six laser cannons,&#91;4&#93; a proton torpedo launcher, and a minelayer.&#91;10&#93; Along with its deadly armament, the Scimitar was equipped with a cloaking device, powered by rare stygium crystals from the planet Aeten II,&#91;13&#93; that allowed it to disappear from view and any pursuing ship's sensors.&#91;8&#93; Owing to the craft's experimental ion engines, radiator fins on the ship's wings were required to be open during flight in order to expel excess heat.&#91;6&#93; The Scimitar was heavily-modified with numerous added capabilities, including six laser cannons, spy and surveillance gear, interrogator droids, and a cloaking device.&#91;1&#93;
+The ship carried three DRK-1 Dark Eye probe droids and the Bloodfin, a Sith speeder utilized by Darth Maul during his mission on Tatooine.&#91;4&#93; The Scimitar was capable of tracking a ship's signature through hyperspace, something considered impossible for other ships.&#91;12&#93;
+History[]
+Age of the Republic and the Clone Wars[]
+"It is as you predicted my Lord. We've traced Count Dooku's signal to Dathomir's surface. What is your command?"
+"Jam their communications and cloak this ship from view. They won't know we've arrived until it's much too late."
+&#8213;General Grievous and Darth Sidious&#91;8&#93;
+ 	 	 	 		 			 		 		 		 			The Scimitar travels to Tatooine.
+At the time of the Invasion of Naboo, the Scimitar was the personal starship of Darth Maul, who used it in an attempt to track Queen Padmé Amidala on Tatooine. After his defeat,&#91;11&#93; the ship fell into the possession of Maul's master, Darth Sidious, while on its way to be studied at Kuat Drive Yards.&#91;14&#93;
+During the Clone Wars, the Scimitar was used to transport Sidious and General Grievous to the surface of Dathomir, where the Sith Master had a duel with his resurfaced former apprentice and the Nightsister Mother Talzin.&#91;8&#93;
+Under the Empire[]
+"I will provide you with transportation&#8212;perhaps the only vessel in my great fleet equipped to locate the Imperialis."
+&#8213;Palpatine, to Chanath Cha&#91;15&#93;
+Many years later, the Scimitar was still in the possession of Sidious, who now ruled the First Galactic Empire as Emperor Palpatine. It was held in Imperial Facility 729-D, located somewhere in the Inner Rim, and curated by the droid O-66. At some point before the Battle of Hoth, the bounty hunter Chanath Cha was entrusted with the modified Star Courier in order to retrieve the stolen Imperialis, Palpatine's luxury pleasure craft.&#91;12&#93;
+ 	 	 	 		 			 		 		 		 			O-66 pilots the Scimitar away as the Imperialis explodes.
+Chanath and O-66 used the Scimitar's advanced tracking systems to find the Imperialis's location. While O-66 waited aboard the Scimitar, Chanath boarded the Imperialis. O-66 also transmitted the Imperial yacht's operational codes.&#91;16&#93; After Chanath had set the ship to self-destruct, she ordered O-66 to dock the Scimitar so that she, Lando Calrissian, and Lobot could flee the doomed Imperialis. However, O-66 refused to obey her orders because his primary directive was to protect and honor the Scimitar. Despite Chanath's threats, O-66 revealed he had removed her pulse bomb and flew the Scimitar away.&#91;17&#93;

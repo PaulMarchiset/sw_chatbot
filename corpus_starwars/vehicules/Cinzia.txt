@@ -1,0 +1,17 @@
+Cinzia
+	Production information
+		Manufacturer
+	Sebaddon&#91;1&#93;
+	Technical specifications
+		Navigation system
+	Equipped&#91;1&#93;
+		Crew
+	2&#91;1&#93;
+		Other systems
+	Self-destruct mechanism&#91;1&#93;
+	Usage
+		Destroyed
+	c. 3643 BBY&#91;2&#93;
+		Affiliation
+	Fastbreeders&#91;1&#93;
+The Cinzia was a starship built on Sebaddon around the time of the Cold War. It had been sent by Lema Xandret to establish a peace treaty. Some years after the Treaty of Coruscant, the Cinzia was confronted by the smuggler Jet Nebula in the Auriga Fire, but the starship, controlled by Fastbreeders, self-destructed. Nebula was able to recover the ship's navigation computer, as well as a compact fastbreeder factory that produced the deadly droids.

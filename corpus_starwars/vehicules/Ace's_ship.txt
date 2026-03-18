@@ -1,0 +1,9 @@
+Ace's ship
+	Usage
+		Affiliation
+	Ace Kallisto's crew&#91;1&#93;
+		Owner(s)
+	Ace Kallisto&#91;1&#93;
+		Commander(s)
+	Ace Kallisto&#91;1&#93;
+Ace's ship&#91;2&#93; was owned by the human thief Ace Kallisto.&#91;1&#93;

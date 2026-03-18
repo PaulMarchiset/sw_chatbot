@@ -1,0 +1,36 @@
+&#160;	 	&#160;	
+IG-2000
+	Production information
+		Manufacturer
+	Trilon Incorporated&#91;1&#93;
+		Model
+	Aggressor-class Assault Fighter&#91;2&#93;
+		Cost
+	203,100 credits&#91;1&#93;
+		Modified by
+	IG-88&#91;1&#93;
+	Technical specifications
+		Modified systems
+	Droid brains&#91;1&#93;
+		Hyperdrive rating
+	Class 2 (Primary)&#91;1&#93;
+Class 15 (Backup)&#91;1&#93;
+		Sensor systems
+	Short range sensor&#91;1&#93;
+		Armament
+	Twin heavy laser cannons&#91;1&#93;
+Twin medium ion cannons&#91;1&#93;
+Light tractor beam projectors (2)&#91;1&#93;
+		Passengers
+	8 prisoners&#91;1&#93;
+		Consumables
+	3 months&#91;1&#93;
+	Usage
+		Owner(s)
+	IG-88&#91;2&#93;
+The IG-2000 was a modified Aggressor-class Assault Fighter owned by the assassin droid bounty hunter IG-88B.&#91;2&#93;
+In 3 ABY,&#91;3&#93; IG-88 flew the ship to Coruscant to meet with the Imperial aide Sly Moore, who assigned the bounty hunter to kill Darth Vader.&#91;4&#93;
+1 Appearances
+1.1 Non-canon appearances
+2 Sources
+3 Notes and references

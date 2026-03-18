@@ -1,0 +1,88 @@
+&#160;	 	&#160;	
+BTL-S8 K-wing assault starfighter
+	Production information
+		Manufacturer
+	Koensayr Manufacturing&#91;1&#93;
+		Model
+	BTL-S8 K-wing&#91;1&#93;
+		Type
+	Starfighter&#91;1&#93;
+		Cost
+	250,000 credits (new)&#91;2&#93;
+120,000 credits (used)&#91;2&#93;
+	Technical specifications
+		Length
+	16 meters&#91;1&#93;
+		Maximum acceleration
+	2,700 G&#91;1&#93;
+		Maximum atmospheric speed
+	1,000 km/h&#91;1&#93;
+		Engine unit(s)
+	Ion engines (3)&#91;1&#93;
+		Hyperdrive system
+	None&#91;1&#93;
+		Shielding
+	Equipped&#91;1&#93;
+		Armament
+	Medium-range twin laser cannon turret (1)&#91;1&#93;
+Short-range quad turbolaser turret (1)&#91;1&#93;
+Hardpoints (18; various configurations)&#91;1&#93;Concussion missiles&#91;1&#93;&#91;2&#93;
+Proton torpedoes&#91;1&#93;&#91;2&#93;
+Plasma torpedoes&#91;3&#93;&#91;2&#93;
+Flechétte missiles&#91;1&#93;
+Advanced homing missiles (unusual)&#91;4&#93;
+Ion bombs (unusual)&#91;4&#93;
+Conner net (unusual)&#91;4&#93;
+		Escape craft
+	Detachable cockpit&#91;1&#93;
+		Crew
+	4&#91;2&#93;Pilot (1)
+Bombardier (1)
+Gunners (2)
+		Passengers
+	0&#91;2&#93;
+		Cargo handling systems
+	440 kg&#91;2&#93;
+		Consumables
+	1 day&#91;2&#93;
+		Other systems
+	SLAM&#91;2&#93;
+	Usage
+		Availability
+	Military&#91;2&#93;
+		Role(s)
+	Bomber&#91;1&#93;&#91;2&#93;
+Heavy starfighter&#91;2&#93;
+Reconnaissance&#91;1&#93;
+Escort&#91;1&#93;
+		Year introduced
+	16 ABY&#91;1&#93;
+		Affiliation
+	New Republic&#91;1&#93;
+Galactic Federation of Free Alliances
+Confederation&#91;5&#93;
+"We're the heavy hitters. When you need a command bridge leveled or a convoy of tanks wiped out, the K-wings get the call."
+&#8213;New Republic pilot Miranda Doni shortly before her death at Doornik-319&#91;1&#93;
+The BTL-S8 K-wing assault starfighter, commonly known as the K-wing, was a heavy starfighter/bomber.
+1 Characteristics
+2 History
+3 Behind the scenes
+3.1 Source discrepancies
+4 Appearances
+5 Sources
+6 Notes and references
+Characteristics[]
+The K-wing assault starfighter was produced by Koensayr Manufacturing, the same company responsible for producing the venerable Y-wing. Like many other New Republic starfighters, the K-wing was designed to excel in a specific primary role in combat while retaining the flexibility to serve secondary functions if needed.
+ 	 	 	 		 			 		 		 		 			Esege Tuketu's custom painted orange K-wing fighter
+The K-wing starfighter's primary missions included precision bombing of planetary targets, slow-moving capital ships, and spaceborne installations. It also performed secondary missions as an escort or reconnaissance ship.
+The hull design of the K-wing consisted of two primary wings attached to a fixed stabilizer. The two main ion engines located at the junction between the wings and stabilizer allowed the K-wing to achieve a sublight speed similar to the Y-wing, despite its larger size.
+An additional engine mounted along the centerline on the aft dorsal section of the stabilizer allowed the fighter to accelerate rapidly in short bursts, much like the SLAM system found on the Imperial Missile Boat. Unfortunately, the K-wing had no hyperdrive capability, and was always deployed from a capital ship.
+To fulfill its role in the New Republic Defense Fleet, the K-wing carried an unusually large arsenal for a vessel of its size. The hull had a total of 18 hard points, five on each upper wing and four on each lower wing, to allow technicians to arm the ship with a large variety of weapons including flechétte and concussion missiles, proton and other sublight torpedoes, thermal and other inertial bombs, small space mines, and T-33 plasma torpedoes.
+ 	 	 	 		 			 		 		 		 			A BTL-S8 K-wing firing plasma torpedoes.
+When attacked by enemy fighters, the K-wing could return fire with a short-range quad turbolaser turret with multi-stage lasers located at the fore and a medium-range twin laser cannon turret mounted on the top of its command module. The K-wing could also be outfitted with slugthrower cannons on the hardpoints for additional short-range firepower. Like most New Republic fighters, it was equipped with a deflector shield.
+Due to its large weapons loadout, the K-wing required a bombardier. The pilot and gunner sat in cockpits on either side of the command section. In case of emergency, this module was able to detach from the rest of the ship to serve as an escape pod.
+History[]
+ 	 	 	 		 			 		 		 		 			Miranda Doni piloting her K-wing starfighter.
+K-wings were first deployed in combat by the New Republic during the Black Fleet Crisis. Throughout their service years, they were generally deployed in outsize squadrons, with three flights of six bombers a piece.
+Some Viscount-class Star Defenders were known to have K-wings in their hangar complements as an alternative to B-wings.&#91;6&#93;
+During the Second Galactic Civil War, Commenor deployed K-wings for defense during the Battle of Commenor.&#91;5&#93;

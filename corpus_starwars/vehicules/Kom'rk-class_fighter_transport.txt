@@ -1,0 +1,80 @@
+&#160;	 	&#160;	
+Kom'rk-class fighter/transport
+	Production information
+		Manufacturer
+	MandalMotors&#91;1&#93;
+		Line
+	Mandalorian fighter&#91;2&#93;
+		Model
+	Kom'rk-class fighter/transport&#91;1&#93;
+		Type
+	Combat transport&#91;2&#93;
+		Cost
+	190,000 credits&#91;3&#93;
+	Technical specifications
+		Length
+	68 meters (larger version)&#91;1&#93;
+52.3 meters (medium version)&#91;4&#93;
+29.8 meters (98 feet) (smaller version)&#91;5&#93;
+		Width
+	52.4 meters&#91;4&#93;
+		Height/depth
+	13.23 meters&#91;4&#93;
+		Megalight per hour
+	100 mglt&#91;5&#93;
+		Maximum atmospheric speed
+	1,000 kph&#91;1&#93;
+		Hyperdrive rating
+	Class 1&#91;1&#93;
+Class 10 (backup)&#91;3&#93;
+		Hyperdrive system
+	Equipped&#91;1&#93;
+		Shielding
+	Equipped&#91;3&#93;
+		Sensor systems
+	Short-ranged sensors&#91;3&#93;
+		Navigation system
+	Navigation computer&#91;3&#93;
+		Armament
+	2 forward laser cannons&#91;4&#93;
+2 rear laser cannons&#91;4&#93;
+Heat-seeking missile&#91;6&#93;
+		Docking bays
+	Drop-seat bay&#91;7&#93;
+		Passengers
+	24&#91;4&#93;
+		Consumables
+	Two months&#91;3&#93;
+	Usage
+		Role(s)
+	Air combat&#91;4&#93;
+Troop transport&#91;4&#93;
+		Affiliation
+	Death Watch&#91;8&#93;
+Shadow Collective&#91;9&#93;
+Mandalore resistance&#91;10&#93;
+Clan Kryze&#91;6&#93;
+"Look around&#8212;your Mandalorians have been crushed. Only my droids remain now. Your battle is already lost."
+"We're not finished yet. My Gauntlet fighters have yet to enter the fight!"
+&#8213;General Grievous and Maul during a battle on Zanbar&#91;9&#93;
+The Kom'rk-class fighter/transport, also known as Kom'rk Class fighter transport or the Gauntlet starfighter, was a type of starfighter and troop transport used by the Mandalorian splinter faction known as Death Watch during the Clone Wars. The fighters were utilized as part of a move by Death Watch leader Pre Vizsla to end Satine Kryze's pacifist rule of Mandalore and restore the Mandalorians to their former warrior past. These ships were later used by Maul's Shadow Collective army during battles on Zanbar, Ord Mantell, and Vizsla Keep 09. During each of these battles, Maul utilized a gauntlet fighter called the Nightbrother,&#91;11&#93; colored red and black rather than the normal white and blue color scheme, as a transport and a Shadow Collective flagship.&#91;12&#93; During the reign of the Galactic Empire, a gauntlet fighter known as the Splendour was owned by the Besalisk criminal Galus Vez, who used it to race opponents on his private racing track, the Fool's Run.&#91;13&#93;
+The Mandalorian Protectors used a similar fighter known as the Fang-class Protectorate fighter .&#91;14&#93; During the time of the New Republic, Bo-Katan Kryze utilized a Kom'rk-class fighter in several occasions, including a dogfight over Kalevala.&#91;6&#93; Thirty years after the Battle of Endor,&#91;15&#93; the retired pirate Delphi Kloda owned a Gauntlet called the Sparrowhawk, which he lent to his former protege Bazine Netal.&#91;16&#93;
+1 History
+1.1 Clone Wars
+1.2 Later history
+2 Behind the scenes
+3 Appearances
+4 Sources
+4.1 Non-canon sources
+5 Notes and references
+History[]
+Clone Wars[]
+ 	 	 	 		 			 		 		 		 			Death Watch warriors deploy from a Kom'rk-class fighter.
+During the Clone Wars, the Death Watch used several of these fighters to evacuate their hideout at one of Concordia's mines. Death Watch then prepared several of these fighters to take part in taking Sundari when the Republic's Grand Army would arrive to occupy Mandalore.&#91;17&#93; However, when the Republic did not occupy Mandalore, Death Watch broke their ties with the Confederacy and took their fighters to their camp on Carlac.&#91;18&#93;
+Death Watch's commander Pre Vizsla and his second in command, Bo-Katan Kryze then took one of their fighters and found two Zabraks; the renegade Sith Lord Maul and his brother Savage Opress. Vizsla then took them to his camp on Zanbar. Together, the Death Watch and the Sith agreed to form an alliance with Maul and other criminal syndicates. Maul, Vizsla and their forces then took their fighters to Black Sun's Mustafar base, Gardulla the Hutt's Palace on Nal Hutta, and Jabba the Hutt's Palace on Tatooine.&#91;19&#93;
+Later history[]
+"This is a Kom'rk Class fighter transport. I'll use this to drop you in and you will operate as a tight military unit."
+&#8213;Bo-Katan Kryze to the Children of the Watch&#91;20&#93;
+ 	 	 	 		 			 		 		 		 			Bo-Katan's ship
+Bo-Katan Kryze was in command of a Kom'rk-class fighter on Lafete&#91;21&#93; around 9 ABY.&#91;22&#93; She later used her starfighter to travel from Kalevala to Mandalore with R5-D4 and Grogu.&#91;23&#93; When she had returned to Kalevala, she was attacked by TIE/IN interceptors. She was able to destroy several interceptors, and utilized an heat-seeking missile to destroy a TIE/sa bomber, but eventually retreated after a backup of TIE interceptors arrived.&#91;6&#93; Later, Kryze used her ship to drop two teams of Mandalorian warriors to relieve Nevarro from a pirate siege and to destroy Gorian Shard's Corsair with the help of Din Djarin and his N-1 starfighter.&#91;20&#93;
+In 35 ABY,&#91;24&#93; Gauntlet starfighters were part of a fleet assembled by Lando Calrissian to assist the Resistance during the battle against the Sith Eternal forces over the planet Exegol.&#91;25&#93;

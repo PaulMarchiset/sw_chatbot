@@ -1,0 +1,106 @@
+Help me, Obi-Wan Kenobi. You're my only hope.
+Eclipse-class dreadnought
+	Production information
+		Manufacturer
+	Kuat Drive Yards
+		Line
+	Star Dreadnoughts
+		Model
+	Eclipse-class dreadnought&#91;1&#93;
+		Type
+	Star Dreadnought&#91;2&#93;
+	Technical specifications
+		Length
+	17,500 meters&#91;2&#93;&#91;3&#93;
+		Maximum acceleration
+	940 G
+		Engine unit(s)
+	6 engines (Eclipse I)
+8 engines (Eclipse II)
+		Hyperdrive rating
+	Class 2&#91;2&#93;
+Class 6 (backup)&#91;2&#93;
+		Armament
+	Axial superlaser (1)&#91;4&#93;
+Heavy laser cannons (550)&#91;4&#93;
+Turbolasers (500)&#91;4&#93;
+Ion cannons (75)&#91;5&#93;
+Tractor beam projectors (100)&#91;5&#93;
+Gravity well projectors (10)&#91;4&#93;
+		Complement
+	TIE/IN interceptors (600) (50 squadrons)&#91;4&#93;
+TIE/sa bombers (96)&#91;4&#93;
+Various other support craft&#91;2&#93;
+All Terrain Armored Transport walkers (100)&#91;4&#93;
+Prefabricated garrison bases (5)&#91;5&#93;
+		Crew
+	780,470 (crew)&#91;5&#93;
+4,175 (gunners)&#91;5&#93;
+		Minimum crew
+	88,500&#91;5&#93;
+		Passengers
+	150,000 (Stormtroopers)&#91;4&#93;
+		Cargo capacity
+	600,000 metric tons&#91;2&#93;
+		Consumables
+	10 years&#91;2&#93;
+	Usage
+		Availability
+	Military&#91;2&#93;
+		Role(s)
+	Battlestation (when in orbit around Byss)
+Command ship
+Carrier
+Battleship (Dreadnought)
+		Year introduced
+	4 ABY
+		Affiliation
+	Galactic Empire&#91;2&#93;
+Zann Consortium (briefly)&#91;2&#93;
+Dark Empire&#91;5&#93;
+"Wonderful name it has&#8212; the Eclipse. It certainly blocked out my view of the shipyards."
+&#8213;Tyber Zann&#91;6&#93;
+The Eclipse-class dreadnought, also known as the Eclipse-class Super Star Destroyer, was a class of Imperial Super Star Destroyer manufactured by Kuat Drive Yards and mainly used around six years after the Battle of Endor. Like the Sovereign-class, they were regarded as a new generation of Super Star Destroyer.
+1 Characteristics
+1.1 Size
+1.2 Offensive and defensive systems
+1.3 Propulsion systems
+1.4 Complement
+1.5 Bridge tower
+1.6 Variances
+2 History
+3 Behind the scenes
+4 Appearances
+5 Sources
+6 Notes and references
+Characteristics[]
+Size[]
+The massive Eclipse-class vessels measured 17.5 kilometers in length, and was one of the largest ships to ever be constructed.&#91;5&#93; Although the Executor-class Star Dreadnought measured 1.5 kilometers more in length, the Eclipse-class had a far greater mass than any other Super Star Destroyer.&#91;2&#93;
+Offensive and defensive systems[]
+ 	 	 	 		 			 		 		 		 			Eclipse under construction.
+The most deadly weapon carried by Eclipse-class ships was an axial superlaser, similar to but significantly less powerful than one of the component beams used in the Death Star's superlaser.&#91;5&#93;
+An Eclipse's superlaser easily had the power to destroy other Super Star Destroyers, as the Annihilator found out when Tyber Zann seized the Eclipse's incredible power above Kuat.&#91;6&#93;
+The axial superlasers were capable of slashing through any planetary shield to crack open a planet's crust and sear entire continental landmasses.&#91;5&#93;&#91;4&#93; The massive superlaser was more widely used to destroy enemy capital ships and space stations during combat.&#91;6&#93; According to Admiral Conan Antonio Motti in the Imperial Handbook: A Commander's Guide, the superlaser's intended use was to penetrate planetary shields as well as vaporize cities with a single blast.&#91;3&#93;
+The class benefited from the most significant weaponry-improvements of the last few decades. This included gravity well projectors and improved ion cannons,&#91;5&#93; the former of which were the same types included on the Interdictor-class Star Destroyers.&#91;3&#93; Additionally, these behemoths were armed with hundreds of heavy laser and turbolaser mountings.&#91;5&#93;
+In addition to its firepower, the Eclipse-class's hull armor and shields were so strong that it could ram enemy ships without hesitation.&#91;4&#93;&#91;7&#93;
+Propulsion systems[]
+The Eclipse-class was more mobile than the Death Star, being equipped with both an enhanced hyperdrive and fast sublight engines.&#91;5&#93;
+Complement[]
+An Eclipse-class vessel carried 600 TIE/IN interceptors and 96 TIE Bombers, divided into 58 squadrons; for ground assault, they carried 150,000 Imperial soldiers, 100 AT-ATs, and five prefabricated bases.&#91;5&#93; The hangars were located at the sides of the vessel, with the fore and aft launch bays closely spaced underneath this area, towards the middle of the ship.&#91;7&#93;
+Each ship of the class was crewed by over 700,000 personnel,&#91;5&#93; and Eclipse II also carried a complement of Shadow Droid starfighters.&#91;8&#93; Troop quarters were located on the lower frontal section of the vessel, in front of the hangar areas.&#91;7&#93;
+Bridge tower[]
+The bridge tower contained the main communications array and sensor array, located on the port and starboard sides, respectively. In addition to containing the main command station for the ship on the lower portion of the tower, it also housed the deflector shield command center, on the top area.&#91;7&#93; The bridge tower was closer to the hull than that of traditional Star Destroyers of the Imperial-I and Imperial-II class.
+Variances[]
+There were several variances between the two known vessels of this class, the Eclipse I and the Eclipse II: The Eclipse I possessed six engines on the back, whereas the Eclipse II possessed eight. In addition, the Eclipse I had the engines separate from each other and to the sides, whereas the Eclipse II engines were grouped together in a manner similar to other Star Destroyers. Lastly, the Eclipse II had a command bridge tower directly over the superlaser weapon that the Eclipse I lacked.
+History[]
+"The hyperspace tunnel opened, and this black thing came crawling out from between the stars&#8230; We thought it was a ghost ship, until it opened fire."
+&#8213;New Republic information officer Nara Dun&#91;4&#93;
+ 	 	 	 		 			 		 		 		 			The Eclipse enters the Pinnacle Moon system, escorted by two Allegiance-class battlecruisers and a third ship.
+While the lead ship, the Eclipse, was being built, the Empire also constructed an Eclipse-class prototype to use as a weapons testbed. This craft was later converted to become the battle station Tarkin.&#91;9&#93; The Tarkin was eventually destroyed by a Rebel sabotage team in 3 ABY.&#91;10&#93;
+The Eclipse, alongside its sister ship, the Eclipse II, began construction early in the Galactic Civil War, around 0 ABY.&#91;11&#93; The ship class, alongside that of a similar Star Dreadnought class called the Sovereign-class, were planned to revolutionize naval combat as well as ensure the dominance of the Imperial Navy up to the next century of its existence. Details of the planned design were included in the Imperial Handbook, an official aide-memoire for Imperial commanders.&#91;3&#93; The Eclipse was built above Kuat, whereas the Eclipse II was built over Byss. The appearance of both ships' hulls was derived from ancient nautical warships.&#91;7&#93;
+By 4 ABY, both the Eclipse and the Eclipse II had its superlaser main weapon installed and in functional condition. However, both ships ended up significantly delayed in terms of completion thanks to Palpatine's demise and the power vacuum that ensued. The then-fledgling New Republic remained unaware of the Eclipse-class' construction: though the New Republic Intelligence Service acquired a copy of the Imperial Handbook just after the Battle of Endor, this was the only information they received on the class and General Carlist Rieekan believed that the Empire had not made progress on the design.&#91;3&#93; In addition, the crime lord Tyber Zann wanted to access records on the ship, and if possible steal the ship, so he attacked Kuat and took control of the ship, and used it to damage an Imperial and rebel fleet (with his manipulating the latter group into granting him access). Afterwards, Zann had no further use for the vessel, finding its size to be more cumbersome for laying low to even the Rebel Alliance, and left it adrift, until the New Republic attacked and destroyed the Eclipse&#91;6&#93;
+Later on, this ship was completed and became the reborn Emperor Palpatine's flagship, with its sister ship Eclipse II assuming the same role after the original's destruction.&#91;8&#93;
+Approximately 17.5 kilometers long on the keel, these jet-black battleships were among the largest Super Star Destroyers ever built, and among the most heavily armed warships of all time. In terms of scale, they were the successors to dreadnoughts like Eye of Palpatine&#91;12&#93; and the Kuati Star Dreadnoughts that preceded the New Republic era.&#91;13&#93;&#91;14&#93;
+Eclipse took almost as long to construct as either of the Empire's Death Star battlemoons, and for most of her career, she served as an orbital battlestation at Byss.&#91;5&#93;&#91;15&#93; At some point later, the Eclipse came out of hyperspace, to which its black hull caused some New Republic forces to initially believe that it was a ghost ship, although they quickly realized that the ship was in fact real when it opened fire to which only the information officer, Nara Dun, survived and managed to inform New Republic forces about the devastating surprise attack.&#91;4&#93;
+She was destroyed along with the reborn Emperor in 10 ABY, during an Imperial attack on Pinnacle Moon in the Da Soocha system, when Luke Skywalker and his sister, Princess Leia Organa Solo, managed to disrupt the Emperor's control of a titanic Force storm, a massive conflagration of dark side energy that the Emperor had summoned in order to wipe out the massed New Republic fleet.&#91;16&#93;
+After this catastrophe, the Eclipse II replaced the original. It was slightly different than its predecessor, with different thrusters. Above the planet Onderon, Lando Calrissian and Wedge Antilles led a small boarding party against the mighty battleship, and R2-D2 was able to override Eclipse II's computer banks. The astromech droid then sent Eclipse II hurtling through hyperspace on a collision course with the superweapon Galaxy Gun. Eclipse II rammed the Galaxy Gun, destroying both. One last projectile was pulled by Byss' gravity and impacted the planet, the resulting explosion annihilating Byss and the clones of Emperor Palpatine.&#91;8&#93;

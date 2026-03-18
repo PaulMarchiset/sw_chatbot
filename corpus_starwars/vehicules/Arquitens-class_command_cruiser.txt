@@ -1,0 +1,102 @@
+Content approaching. Star Wars (2020) 1, Star Wars (2020) 10, Star Wars (2020) 14, TIE Fighter Owners' Workshop Manual, Star Wars: Squadrons&#8211;class.
+Please update the article to include missing information, and remove this template when finished.
+Arquitens-class command cruiser
+	Production information
+		Manufacturer
+	Kuat Drive Yards&#91;1&#93;
+		Model
+	Arquitens-class&#91;2&#93;Arquitens-class command cruiser&#91;3&#93;Class 546 Cruiser&#91;4&#93;
+		Type
+	Light cruiser&#91;5&#93;
+		Cost
+	5,000,000 credits&#91;1&#93;
+	Technical specifications
+		Length
+	230 meters&#91;6&#93;
+381 meters (1,250 feet) (Class 546 Cruiser)&#91;7&#93;
+		Engine unit(s)
+	3&#91;8&#93;
+		Hyperdrive rating
+	Class 2&#91;1&#93;
+Class 12 (backup)&#91;1&#93;
+		Hyperdrive system
+	Equipped&#91;9&#93;
+		Shielding
+	Equipped&#91;8&#93;
+		Sensor systems
+	Medium-range sensors&#91;1&#93;
+		Navigation system
+	Navigation computer&#91;1&#93;
+		Armament
+	Turret-mounted twin light turbolaser batteries (4)&#91;1&#93;
+Quad laser batteries (8)&#91;1&#93;
+Concussion missile launchers (4)&#91;1&#93;
+Medium tractor beam projector (1)&#91;1&#93;
+		Complement
+	3 TIE fighter series starfighters (tripled with retrofitted hangar),&#91;10&#93; 2 TIE line bombers or 1 Sentinel-class landing craft&#91;1&#93;TIE/d "Defender" Multi-Role Starfighters&#91;11&#93;
+TIE/IN interceptors&#91;12&#93;
+TIE/ln space superiority starfighters&#91;9&#93;
+TIE/sa bombers&#91;13&#93;
+Small shuttles&#91;1&#93;
+Landspeeders&#91;1&#93;
+Ship's boats&#91;1&#93;
+		Docking bays
+	Retrofitted hangar&#91;10&#93;
+		Escape craft
+	8&#91;14&#93;
+		Crew
+	750 officers, enlisted crew and pilots&#91;1&#93;
+Nearly 250 (Class 546 Cruiser)&#91;7&#93;
+		Passengers
+	100&#91;1&#93;
+		Consumables
+	3 months&#91;1&#93;
+	Usage
+		Role(s)
+	Light multipurpose cruiser&#91;1&#93;
+Command cruiser&#91;3&#93;
+Battleship&#91;15&#93;
+Support ship&#91;1&#93;
+Communications ship&#91;8&#93;
+Blockade ship&#91;16&#93;
+Electronic warfare&#91;1&#93;
+Reconnaissance&#91;1&#93;
+Armed transport&#91;1&#93;
+		Affiliation
+	Galactic Empire&#91;8&#93;Imperial Navy&#91;8&#93;
+Imperial Press Corps&#91;8&#93;
+New Republic&#91;17&#93;New Republic Defense Fleet&#91;17&#93;
+Gideon's Imperial remnant&#91;18&#93;
+Mandalorian resistance&#91;19&#93;Mandalorian fleet&#91;19&#93;
+"Imperial light cruiser. They haven't detected us yet."
+&#8213;Hera Syndulla to her fellow Spectres&#91;13&#93;
+The Arquitens-class command cruiser, also known as the Imperial light cruiser, was a multipurpose light cruiser used by the Imperial Navy, in which it filled roles from detached patrol vessel to communications ship to capital ship support. It was a reworking of Kuat Drive Yards' Arquitens-class light cruiser, though they shared only structural similarities.
+1 Characteristics
+2 History
+3 Behind the scenes
+4 Appearances
+4.1 Non-canon appearances
+5 Sources
+5.1 Non-canon sources
+6 Notes and references
+Characteristics[]
+The Arquitens-class command cruiser&#91;3&#93; was manufactured by Kuat Drive Yards for the Imperial Navy, initially entering service&#91;1&#93; as a reworking of the Arquitens-class light cruiser which had served with the Republic Navy.&#91;20&#93; The multipurpose light cruiser design served in a variety on roles, protecting remote Imperial assets, performing detached patrol duties in the Outer Rim Territories, acting as support to larger battle groups, serving as an armed transport,&#91;1&#93; and as a communications ship.&#91;8&#93;
+ 	 	 	 		 			 		 		 		 			A heavily armed Arquitens-class command cruiser with additional weapons emplacements
+Measuring 230 meters in length,&#91;6&#93; the command cruiser had several subtle updates in its design despite appearing to be a simple repaint of its predecessor;&#91;20&#93; in reality they shared few characteristics besides the basic hull shape—kite-shaped hulls with two forward spars—and the class name.&#91;1&#93; Structural changes included an enclosed horizontal housing on the three powerful main engines, as well as the shape of its bridge tower.&#91;8&#93;&#91;1&#93; The Republic variant's side-mounted turbolaser batteries were removed and replaced with eight escape pods,&#91;14&#93; and lateral entry ways near the bow allowed the deployment of Imperial Jumptroopers.&#91;13&#93; The vessels also featured a detention block.&#91;21&#93;
+The Arquitens-class was armed with four turbolaser batteries, eight quad laser batteries mounted on four turrets&#8212;two dorsal and two ventral&#8212;four forward-mounted concussion missile launchers on the port and starboard&#91;1&#93; and a tractor beam projector.&#91;22&#93; However, an Arquitens-class could also be armed with three dorsal quad laser battery turrets, two ventral turrets, and six twin laser-cannon turrets: two near the engines at the dorsal and ventral hull, and the other four above the port and starboard docking tubes on the dorsal and ventral sides. It additionally had a dorsal missile launcher and four concussion-missile launchers.&#91;23&#93;
+Under the Class 546 program, an Arquitens could be adapted for greater speed by becoming a Class 546 Cruiser.&#91;4&#93; The Arquitens-class was protected by deflector shields&#91;8&#93; and equipped with a class 2 hyperdrive with a class 12 backup.&#91;1&#93; The cruiser's small craft launch and recovery systems, positioned between the two spars,&#91;1&#93;&#91;8&#93; could dock either a Sentinel-class landing craft,&#91;8&#93; two TIE/ln space superiority starfighters,&#91;9&#93; TIE/sa bombers,&#91;13&#93; TIE/d "Defender" Multi-Role Starfighters,&#91;11&#93; or three TIE/IN interceptors.&#91;12&#93;
+History[]
+Several years prior to 4 BBY,&#91;24&#93; the Imperial Navy recalled all of the Arquitens-class light cruisers still in service to Kuat Drive Yards, where they would be refitted as part of a service life extension program. The result, the Arquitens-class command cruiser, featured radically improved speed, agility, combat ability, power output, and other systems, in line with the navy's order of battle. Though this generation of refits would eventually be retired due to age, they would be replaced by production-line command cruiser variants that served well into the Imperial Era.&#91;1&#93;
+ 	 	 	 		 			 		 		 		 			A Sentinel-class shuttle docking with an Arquitens-class command cruiser
+About four years before the Battle of Yavin, after Grand Moff Wilhuff Tarkin ordered the destruction of the planet Lothal's Imperial Communications Center, the local Imperial forces used an Arquitens-class command cruiser&#91;8&#93; known as the Tellstar&#91;25&#93; to capture and relay information from surface courier droids brought aboard.&#91;5&#93; It was infiltrated by a team of Lothal-based rebels known as the Spectres to discover the location of Kanan Jarrus, a Jedi who survived the destruction of the Jedi Order at the end of the Clone Wars.&#91;8&#93;
+Several command cruisers responded to an attack by Phoenix Cell on an Imperial convoy.&#91;26&#93; Later, during the blockade of Ibaar, at least three of them worked alongside a pair of Gozanti-class cruisers under the command of Imperial Security Bureau Agent Alexsandr Kallus to prevent Phoenix Squadron from delivering relief supplies to the starving Ibaarans. The Imperial blockade drove off the first run of Phoenix Squadron, but was broken in the second run when the rebel fleet was joined by the prototype B-wing fighter, which possessed a beam cannon strong enough to pierce the shielding and armored plating of one of the blockades' three Arquitens-classes. The command cruiser's destruction allowed the rebel cell to make their run and drop the relief supplies before jumping to hyperspace once again.&#91;16&#93;
+Above the planet Garel, a command cruiser was on patrol in the system until they received word of a theft of a shuttle from Garel City Spaceport and was deployed to investigate. Arriving in orbit above Garel the Imperials found the aforementioned transport docked with the Shadow Caster; opening a channel with the ships, the Imperials demanded them to surrender and prepare for boarding. Unknown to the Imperials, the shuttle was taken by Lothal rebel operative Sabine Wren who specialized in explosives and was working alongside her old friend, the bounty hunter Ketsu Onyo, Wren devised a plan to escape by overloading the shuttles' hyperdrive while escaping aboard the Shadow Caster. Wren alerted the Arquitens-class that their ships were damaged and their hyperdrive was in danger of self-destructing; buying the rebels time to plan for an escape on the Shadow Caster. Wren then planted explosive charges on the shuttles' control panel and re-activated the shuttles' droid pilot, telling him that his ship was going to come under attack by the command cruiser, and suggesting for it to enact emergency protocols to escape destruction. Wren evacuated aboard the Shadow Caster with Onyo, Chopper, and EG-86 while the GX1 shuttle was caught in a tractor beam and dragged towards the command cruiser before exploding. The resulting explosion damaged the command cruiser's tractor beam projector, allowing the Shadow Caster to break free and escape to hyperspace.&#91;22&#93;
+Two Arquitens-class command cruisers were assigned as an escort detail for the prototype Imperial Interdictor under the command of Admiral Brom Titus while it was undergoing trial runs in the Del Zennis system. During the trial runs, the Interdictor captured the flagship of the Phoenix rebel cell: the Liberator, along with Ezra Bridger and the cells' commanding officer Jun Sato. The victory was short-lived, however, as the rebels escaped capture and sabotaged the Interdictor's gravity wells before escaping back aboard the Liberator. Admiral Titus, in a last-ditch effort, activated the ship's gravity well to pull the rebel flagship back, but due to Chopper's sabotage to the gravity well generators, the command cruisers were also dragged in towards the Interdictor, crashing into the ship and allowing the Liberator to jump to hyperspace before the Interdictor collapsed in on itself and imploded. Agent Kallus arrived shortly afterwards to find Titus in an escape pod, and chastised the admiral for not heeding his advice earlier regarding Ezra.&#91;27&#93;
+Following the revelation of the rebel forces being stationed on Garel, the entirety of the Imperial fleet stationed over Lothal departed,&#91;28&#93; leaving behind a minimal garrison, including at least one command cruiser under the command of Lieutenant Yogar Lyste to oversee the planet in case of another insurgency. Lystes' Imperial cruiser later encountered Princess Leia Organa as she flew in with relief supplies for Lothal on her Sphyrna-class Hammerhead corvettes, which she intended to deliver to Phoenix Squadron; after the Imperials checked her codes, they allowed the Princess to land on Lothal.&#91;29&#93;
+ 	 	 	 		 			 		 		 		 			Imperial jumptroopers inside an Arquitens-class command cruiser
+Later, Agent Kallus received word of the Spectres' activity on the planet Nixus and departed with Admiral Kassius Konstantine aboard Kallus' personal command cruiser to intercept the rebels, arriving in the system mere moments before the Ghost jumped to hyperspace past them. Using the hidden tracker built into Hondo Ohnaka's communicator he gave to Ezra, Agent Kallus pursued the Ghost through hyperspace until reaching Wild Space, where he re-encountered the Ghost heading towards an imploded star cluster. Kallus hailed the Ghost offering a chance for the rebels to turn themselves in or be pulled in by the star cluster, only for the Ghost to fly ahead towards the cluster. Kallus ordered the launch of a pair of TIE fighters to try and slow the Ghost down long enough to get them in range of a tractor beam. Due to the Ghost being placed under the influence of Garazeb Orrelios's bo-rifle, however, the ship remained intact while the TIE fighters were both torn to pieces. Seeing the freighter navigating the cluster prompted Kallus to bombard with the command cruisers' quad laser turrets, only to have the blasts pulled into the gravity wells of the stars ahead of them. Kallus ordered the command cruiser to pull back when he saw dorsal sections of the hull get torn off and pulled into the stars.&#91;9&#93;
+In 2 BBY, an Arquitens-class command cruiser intercepted a rebel convoy near Teralov. The cruiser launched three TIE Interceptors which wiped out the convoy.&#91;12&#93; Later, Grand Admiral Thrawn observed Cham Syndulla and the Spectres escape from a trap set by Captain Slavin from the bridge of a command cruiser. He allowed the Ghost to escape because he believed the rebels deserved their victory.&#91;30&#93; Later, Admiral Konstatine commanded a single command cruiser, two Gozanti-class cruisers, and several TIE fighters and bombers during a skirmish over Mykapo. It was badly damaged when the Spectres and Iron Squadron dropped a magno-mine over the cruiser's forward compartment.&#91;31&#93;
+Captain Brunson later commanded a command cruiser which attempted to hunt down and destroy the Ghost on Geonosis, sending many jumptroopers to attack. However, the Spectres defeated the jumptroopers and used proton torpedoes to damage the ship and flee into hyperspace.&#91;13&#93; Lieutenant Yogar Lyste later commanded an Arquitens-class command cruiser stationed above Lothal which captured the rebel operative Ezra Bridger. However, Ezra's capture was a ruse to rescue the rogue ISB Agent Kallus, who had become a rebel agent known as Fulcrum.&#91;21&#93; One command cruiser attempted to capture the rogue senator and rebel leader Mon Mothma but was badly damaged by Gold Squadron.&#91;32&#93; Several command cruisers participated in Thrawn's assault on the planet Atollon, in which they attempted to cut the rebels off.&#91;33&#93;
+ 	 	 	 		 			 		 		 		 			An Arquitens-class command cruiser, with no equipped turrets.
+Soon after the rebel defeat on Atollon, the Rebel Alliance launched a mission to Jalindi to hijack the outpost there in order to spy on Imperial fleet movements in 1 BBY. This attempt was thwarted by the Arquitens-class cruiser Marauder, commanded by Titus. After a skirmish, the Partisans arrived and destroyed the outpost, resulting in a massive explosion that also claimed the Marauder.&#91;11&#93;
+A prison-tug, a modified variant of the Arquitens-class command cruiser, pulled Accresker Jail, a wreckage-prison, into battle in order for it to deploy its convict army. After some deadly spores were discovered in the prison, it was decided that it would be shot into a rebel planet, and the cruiser was sent hurtling into the wreckage.&#91;34&#93; Following the Battle of Endor in 4 ABY, Arquitens-class cruisers were uncommon, largely due to an assault on the Fondor Shipyards in the same year that caused the shortage of available cruisers. One cruiser was present on the Imperial world Vardos during a skirmish there soon after the Imperial defeat on Endor, and another participated and was destroyed in a skirmish on Takodana in 5 ABY.&#91;35&#93; One Class 546 model of this cruiser was under the command of Moff Gideon and his forces sometime after the Battle of Endor.&#91;18&#93;

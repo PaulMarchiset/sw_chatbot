@@ -24,7 +24,11 @@ llm = ChatOpenAI(
 print("🧠 Réveil du droïde (Architecture LCEL Nouvelle Génération)...")
 embedding_model = HuggingFaceEmbeddings(model_name="all-MiniLM-L6-v2")
 vectorstore = FAISS.load_local("faiss_starwars_index", embedding_model, allow_dangerous_deserialization=True)
-retriever = vectorstore.as_retriever(search_kwargs={"k": 3}) 
+# retriever = vectorstore.as_retriever(search_kwargs={"k": 3}) 
+retriever = vectorstore.as_retriever(
+    search_type="mmr",
+    search_kwargs={"k": 5, "fetch_k": 15}
+)
 
 # --- 3. LE NOUVEAU PROMPT ---
 template = """Tu es un expert absolu de l'univers Star Wars. 

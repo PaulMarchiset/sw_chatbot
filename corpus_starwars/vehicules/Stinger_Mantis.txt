@@ -1,0 +1,67 @@
+Stinger Mantis
+	Production information
+		Manufacturer
+	Latero Spaceworks&#91;1&#93;
+		Model
+	S-161 "Stinger" XL&#91;1&#93;
+		Type
+	Luxury yacht&#91;1&#93;
+	Technical specifications
+		Megalight per hour
+	70 mglt&#91;2&#93;
+		Engine unit(s)
+	Equipped&#91;3&#93;
+		Hyperdrive rating
+	Class 1&#91;2&#93;
+		Hyperdrive system
+	Equipped&#91;3&#93;
+		Armament
+	Laser cannons (2)&#91;2&#93;
+		Escape craft
+	At least two&#91;3&#93;
+	Usage
+		Role(s)
+	Transport&#91;1&#93;
+		Affiliation
+	Mantis crew&#91;3&#93;
+		Owner(s)
+	Greez Dritus&#91;1&#93;
+		Commander(s)
+	Greez Dritus&#91;3&#93;
+"The Mantis is home for those without one."
+&#8213;Merrin, to Chellwinark Frethylrin&#91;4&#93;
+The Stinger Mantis, commonly known as the Mantis, was an S-161 "Stinger" XL luxury yacht owned and piloted by Greez Dritus. In 14 BBY, Dritus transported the former Jedi Cere Junda and Cal Kestis on the vessel as part of their secret mission to rebuild the Jedi Order. The pilot claimed that the Mantis was able to survive almost any environment. At some point in 9 BBY, the Mantis had sustained internal damage as it landed on Koboh.
+1 Description
+2 History
+2.1 Upgrades and amendments
+3 Behind the scenes
+4 Appearances
+5 Sources
+6 Notes and references
+7 External links
+Description[]
+"The Mantis works wonders. I mean, it's a great ship, excellent pilot, but it is not built for close support."
+&#8213;Greez Dritus&#91;3&#93;
+The ship had three separate sections of its outside exterior. The front and back were segmented by a rotating section that housed the main outrigger engine and large vertical fin. Inside, there were six separate parts of the interior. These were the cockpit, holotable room, galley, common area, main corridor, and engine room. While lightly armed, there were two laser cannons above the main cockpit.&#91;3&#93;
+ 	 	 	 		 			 		 		 		 			Cal, Cere, Greez, and BD-1 on the bridge of the Mantis
+Starting at the cockpit, the floor was partly built with glass, and along with raised cockpit seats, created a large area of view for the pilot. Two seats acted as the pilot and co-pilot with a third seat to the right that acted as the comm station.&#91;3&#93;
+Behind the cockpit was a holotable room. The table was positioned in the center, surrounded by a semi-circular sofa upholstered with Potolli-weave fabric. Behind this were the two boarding ramps found on either side of the ship, depending on its orientation upon landing.&#91;3&#93;
+Further back, located in the common area, was a large seating area. Surrounding the seating arrangements were various decorative terrariums, which lay behind a wall of Umbaran glass. Beside this was a set of stairs that led to a raised galley. Situated in the galley was a table aside various shelves of food storage, along another large terrarium. Through the opening in the back was the main corridor with three separate doors, that all led to the other various rooms inside the ship.&#91;3&#93;
+ 	 	 	 		 			 		 		 		 			The galley aboard the Mantis
+Beyond this corridor was the engine room. It featured two levels that were connected by a ladder found in the left side. The upper level contained railing, diagnostic controls, and a workbench, as well as the quarters in which Cal Kestis slept. The hyperdrive was located behind the workbench. Accessed via the ladder, the lower level contained two escape pods and a darkly lit corridor.&#91;3&#93;
+History[]
+"Hey Cal, if you die I get the Mantis, right?"
+"Sorry Gabs, not mine to give."
+&#8213;Gabs and Cal Kestis&#91;5&#93;
+The Mantis was purchased by Dritus at some point prior to 14 BBY after he took out a large loan to procure the ship. He would travel to Coruscant and across the galaxy in the ship competing in gambling events until he found himself in huge debt with the Haxion Brood.&#91;3&#93;
+The Mantis, and Dritus, were contracted by former Jedi Knight Cere Junda in 14 BBY as she required a vessel to help her achieve her aims of rebuilding the Jedi Order. Whilst selling his services, Dritus proclaimed the Mantis to be a beautiful masterpiece of a machine and dubbed it the best luxury cruiser in that part of the galaxy, a claim Junda soon found to be false. As a team, the pair travelled to various locations across the galaxy, including Nar Shaddaa and Todola, as they searched for any surviving Jedi following the Great Jedi Purge in 19 BBY.&#91;3&#93;
+ 	 	 	 		 			 		 		 		 			Junda tries to help Kestis board the Mantis while he escapes from the Inquisitors on Bracca.
+Eventually in 14 BBY, Dritus and Junda rescued former Jedi Padawan Cal Kestis on the junkyard planet of Bracca. With Kestis in tow, the Mantis had a crew and they undertook a mission to retrieve a holocron belonging to Eno Cordova that contained the whereabouts of Force-sensitive children in the galaxy. As they searched for clues that would lead them to their end goal, they travelled to Bogano, Zeffo, Kashyyyk, Dathomir, Ilum and to the Fortress Inquisitorius on Nur. Kestis' use of the terrarium would yield plants resulting from planting seeds.&#91;3&#93;
+ 	 	 	 		 			 		 		 		 			Unnoticed by Imperial Star Destroyers, the Mantis approaches Kashyyyk.
+Following the retrieval of the holocron, and the subsequent decision to destroy it, the Mantis became the crew's home as the team grew with the additions of BD-1 and Nightsister Merrin. They continued their crusade against the Empire and Haxion Brood and between 12 BBY and 11 BBY, they undertook jobs and missions on Hosnian Prime, Murkhana, Zimara&#91;4&#93; and Mazah&#91;5&#93; as well as infiltrating a Haxion Brood base.&#91;4&#93;
+Between 11 BBY and 9 BBY, Kestis took control of the ship after the Mantis crew went their separate ways&#91;5&#93; following the Mission to Murkhana&#91;6&#93;. He would continue to use the ship in his fight against the empire, often piloting it into dangerous situations including the mission on Coruscant in 9 BBY alongside a crew including Bode Akuna, Gabs, Bravo, and the Klatooinians Lizz and Koob. Gabs was interested in being the owner of the Mantis, asking Kestis during the mission on Coruscant if she could keep the ship if he died. However, Kestis said that this was not possible, as although he was using the Mantis, it did not belong to him.&#91;5&#93;
+ 	 	 	 		 			 		 		 		 			Damaged after the mission on Coruscant, the Stinger Mantis approaches Koboh.
+Following the escape from Coruscant, Kestis travelled to Koboh to reunite with Dritus and to ensure the Mantis received the best possible repairs and maintenance. Dritus would later regain captaincy of the ship with the Mantis crew reuniting to travel to Jedha, Koboh's Shattered Moon, and Nova Garon with the aim of locating the hidden world of Tanalorr, which they eventually did.&#91;5&#93;
+Upgrades and amendments[]
+By 9 BBY, the terrarium had been converted into a display unit containing various items relating to the crew's travels&#91;5&#93;. These included a scrapper headset gifted to Cal by Prauf, Eno Cordova’s toolkit from his time on Bogano, a feather from the Shyyyo bird encountered on Kashyyyk, Greez’s salt shaker, and the destroyed holocron retrieved from Nur&#91;7&#93;. However, a small area of the ship was still reserved for plant life.&#91;5&#93;
+In 9 BBY, Dritus had plans to change the cabin couch cushions, however, when Kestis told him the damaged seats reminded him of Lizz, who used to bounce on the couch as hard as she could before missions to psyche herself up, Dritus relented and agreed to leave them as they were.&#91;5&#93;

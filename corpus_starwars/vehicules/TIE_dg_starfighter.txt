@@ -1,0 +1,49 @@
+TIE/dg starfighter
+	Production information
+		Manufacturer
+	Sienar-Jaemus Fleet Systems&#91;1&#93;
+		Line
+	TIE series&#91;1&#93;
+		Model
+	TIE/dg starfighter&#91;1&#93;
+		Type
+	Starfighter&#91;1&#93;
+	Technical specifications
+		Length
+	9.51 meters&#91;2&#93;
+		Height/depth
+	7.67 meters&#91;2&#93;
+		Megalight per hour
+	150 MGLT&#91;3&#93;
+		Engine unit(s)
+	Twin ion engines&#91;4&#93;
+		Shielding
+	Equipped&#91;5&#93;
+		Armament
+	SJFS L-s9.6 laser cannons (2)&#91;2&#93;
+SJFS L-7.0 heavy laser cannons (2)&#91;2&#93;
+		Crew
+	Pilot (1)&#91;2&#93;
+	Usage
+		Role(s)
+	Dogfighting&#91;1&#93;
+		Affiliation
+	First Order&#91;6&#93;
+Sith Eternal&#91;7&#93;Final Order&#91;7&#93;
+The TIE/dg starfighter, also known as the TIE Dagger&#91;6&#93; or the Sith TIE fighter,&#91;8&#93; was a type of Sith Eternal-affiliated TIE fighter series starship that was forged in secret by forces under the command of the reborn Darth Sidious, along with the Xyston-class Star Destroyer, the AAL-2100/9.5 atmospheric assault lander, and other new technology created by the Sith cult.
+1 Characteristics
+2 History
+3 Behind the scenes
+4 Appearances
+4.1 Non-canon appearances
+5 Sources
+5.1 Non-canon sources
+6 Notes and references
+7 External links
+Characteristics[]
+ 	 	 	 		 			 		 		 		 			A Sith Eternal TIE Dagger
+The TIE/dg was part of the TIE line of ships that had previously served as the starfighter of choice for both the Galactic Empire and First Order. It had an armament of laser cannons beneath the ball cockpit, and two heavy laser cannons between the solar collector wing and the suspended winglet. These cannons gave it a deadly punch in starfighter combat. It was manufactured by Sienar-Jaemus Fleet Systems and had red designs representing their loyalty to the Sith. It had a cockpit, two triangular-shaped wings that featured solar collectors,&#91;1&#93; and twin ion engines&#91;4&#93; capable of reaching staggering sublight speeds of 150 MGLT.&#91;3&#93;
+The TIE/dg replaced the two handle yoke of the original TIE's design with two independent control columns, which had levered handgrips that offered a greater degree of movement. Feedback on the columns created a strong sense of connection between the fighter and it's pilot.&#91;2&#93; TIE Daggers could be piloted by Sith troopers.&#91;9&#93;
+History[]
+The TIE/dg was a new generation of starfighter&#91;10&#93; that saw use during the war between the First Order and the Resistance.&#91;7&#93; At some point, two TIE Daggers engaged Resistance pilot Aftab Ackbar, who was piloting a BTA-NR2 Y-wing starfighter, over a body of water.&#91;11&#93; At another point, at least two TIE/dg fighters were involved in an engagement over mountainous terrain; while one chased Resistance pilot C'ai Threnalli, who was returning fire in his BTA-NR2, another TIE Dagger had been shot and was veering away.&#91;12&#93;
+The fighter was one of the three ship classes used by the Sith Eternal, the others being the Xyston-class Star Destroyer and the AAL-2100/9.5 atmospheric assault lander. The TIE fighter was launched from hanger bays of the Xyston-class Star Destroyer, adjacent to the axial superlaser. This ship proved its excellence in dogfighting at the Battle of Exegol, as alongside the Star Destroyers that made up the Final Order, it nearly obliterated the Resistance. After Lando Calrissian and Chewbacca arrived with a fleet of starships, the Sith forces were defeated.&#91;7&#93;

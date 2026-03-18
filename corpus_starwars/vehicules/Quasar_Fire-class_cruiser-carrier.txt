@@ -1,0 +1,77 @@
+&#160;	 	&#160;	
+Content approaching.
+ Sources
+Star Wars: The Rebel Files, The Final Order, Star Wars: TIE Fighter, Alphabet Squadron, Count to Three, Star Wars: Squadrons, Shadow Fall: An Alphabet Squadron Novel, TIE Fighter Owners' Workshop Manual
+Please update the article to include missing information, and remove this template when finished.
+Quasar Fire-class cruiser-carrier
+	Production information
+		Manufacturer
+	SoroSuub Corporation&#91;1&#93;
+		Line
+	Quasar Fire-class cruiser-carrier&#91;2&#93;
+		Model
+	Quasar Fire I-class Cruiser-Carrier&#91;3&#93;
+Quasar Fire II-class Cruiser-Carrier&#91;4&#93;
+		Type
+	Cruiser/light carrier&#91;1&#93;
+Cruiser-carrier&#91;1&#93;
+		Cost
+	1,750,000 credits&#91;5&#93;
+	Technical specifications
+		Length
+	340 meters&#91;1&#93;
+		Hyperdrive rating
+	Class 2 (primary)&#91;5&#93;
+Class 12 (backup)&#91;5&#93;
+		Sensor systems
+	Long range sensors&#91;5&#93;
+		Navigation system
+	Navigation computer&#91;5&#93;
+		Armament
+	Forward-mounted light turbolaser batteries (2)&#91;5&#93;
+Dual mounted laser cannons (2)&#91;5&#93;
+Hull-mounted medium tractor beam emitters (2)&#91;5&#93;
+		Complement
+	48 starfighters&#91;5&#93;
+Numerous shuttles, landing craft, and utility vehicles&#91;5&#93;
+		Crew
+	250 officers, pilots, and enlisted crew&#91;5&#93;
+		Passengers
+	150 troopers&#91;5&#93;
+		Cargo capacity
+	5,000&#91;5&#93;
+		Life support
+	One year&#91;5&#93;
+	Usage
+		Role(s)
+	Starfighter carrier&#91;2&#93;
+Mobile base&#91;2&#93;
+		Affiliation
+	Galactic Empire&#91;2&#93;Imperial Navy&#91;2&#93;
+Alliance to Restore the Republic&#91;6&#93;Phoenix Cell&#91;7&#93;
+Rebel Alliance Navy&#91;8&#93;
+New Republic&#91;9&#93;New Republic Defense Fleet&#91;9&#93;
+"This monstrosity has rained destruction and death on the citizens of Ryloth."
+&#8213;Cham Syndulla&#91;7&#93;
+The Quasar Fire-class cruiser-carrier, also known as the Quasar Fire-class bulk cruiser, or simply the Quasar-class carrier or the Imperial light carrier, was a starship line built by the SoroSuub Corporation. It saw service in the Galactic Empire's Imperial Navy, both as a starfighter carrier and a mobile base of operations.
+1 Characteristics
+2 History
+3 Behind the scenes
+4 Appearances
+5 Sources
+6 Notes and references
+Characteristics[]
+ 	 	 	 		 			 		 		 		 			A Quasar Fire I-class Cruiser-Carrier firing its weapons
+The Quasar Fire-class cruiser-carrier&#91;2&#93; was built by the SoroSuub Corporation,&#91;1&#93; a Sullust-based shipwright corporation.&#91;10&#93; Its triangular structure made it similar to other dagger-shaped Imperial spacecraft, including Star Destroyers. Unlike Star Destroyers, however the bridge was located at the frontal point and the hangars at the base.&#91;7&#93; The structural integrity of the Quasar Fire spaceframe was questionable, being subject to micro-fractures while reverting from hyperspace to realspace. This much was alleged by a report issued by Mid-Rim Shipwrights.&#91;11&#93;
+The Quasar Fire-class was 340 meters in length.&#91;12&#93; The four hangar bays had space to accommodate up to 48 starfighters,&#91;11&#93; however, some Imperial light carriers operated with as few as ten TIE/sa bombers and four TIE/ln space superiority starfighters.&#91;7&#93; The Empire used such carriers in orbit of occupied planets, allowing for easy dispatch of fighters whenever necessary.&#91;2&#93; The Empire deployed two different variants of the Quasar Fire: the Quasar Fire I-class and the Quasar Fire II-class.&#91;4&#93;
+History[]
+One Quasar Fire-class cruiser-carrier designated Imperial Cruiser 07200823 was used at the Carida Academy. During Han Solo's time as a cadet in the Academy, he and several other cadets were assigned to pilot the cruiser, transporting TIE fighter pilots for a training run.&#91;13&#93;
+ 	 	 	 		 			 		 		 		 			A Quasar Fire II-class Cruiser-Carrier with TIE/D and TIE/IN escorts
+In the year 3 BBY,&#91;14&#93; the Spectres, alongside Cham Syndulla of the Free Ryloth Movement, stole a Quasar Fire-class cruiser-carrier in orbit of Ryloth for the rebellion. Imperial forces nearby had moved to retake control of the ship, sending TIEs and a landing craft to board the ship, though this effort was thwarted by the rebels shooting down all opposition with the ship's point defense cannons. They would later succeed in destroying the escorting Arquitens-class cruiser over Ryloth before escaping.&#91;7&#93;
+The stolen ship became the flagship of Phoenix Cell of the early rebellion, rechristened the Phoenix Nest, housing their RZ-1 A-wing interceptors, and even being repainted to show its new affiliation.&#91;7&#93; After coming under attack by Imperial forces, the starship fled with the rest of the rebel fleet to the planet Atollon.&#91;15&#93; After the formation of the Alliance to Restore the Republic, it became part of the Alliance Fleet, with Colonel Anj Zavor recommending to Mon Mothma the procurement of more escort carriers from the Empire.&#91;11&#93; However, the Phoenix Nest was destroyed at the Battle of Atollon, sacrificed by its commander, Jun Sato as it rammed on Admiral Konstantine's Interdictor-class heavy cruiser to let Ezra Bridger in the Kom'rk-class fighter/transport Nightbrother to escape Grand Admiral Thrawn's blockade and get reinforcements.&#91;6&#93; During the early rebellion, one Quasar Fire-class was destroyed by a pair of Sphyrna-class Hammerhead corvettes around the orbit of a celestial terrestrial body.&#91;16&#93;
+ 	 	 	 		 			 		 		 		 			The Squall comes under attack from a squadron of A-wing interceptors.
+At least one Quasar Fire-class cruiser-carrier was present at the Rebel Alliance's Mako-Ta Space Docks. After the surviving ships escaped the Empire's attack on the base, Luke Skywalker and Leia Organa used the cruiser-carrier to rescue Han Solo and R2-D2, who were trapped in a damaged X-wing. Once Solo was aboard, the cruiser-carrier escaped to the moon Corosi 7, but was too damaged to make more than one hyperspace jump, so the rebels used it to land on Nar Shaddaa and find passage aboard the Volt Cobra, the ship of Sana Starros.&#91;8&#93;
+At some point in the Galactic Civil War, the Imperial Quasar Fire-class cruiser-carrier Squall came under attack by a squadron of Rebel RZ-1 A-wing interceptors. It was defended by a squadron of TIE/sa bombers.&#91;17&#93; Also at some point during the reign of the Empire, the Pursuant and the Stronghold were in service in the Imperial Navy.&#91;18&#93;&#91;19&#93;
+After the Battle of Endor, one Quasar Fire-class is orbiting on the planet of Mon Cala to hit-and-fade strikes by Admiral Rae Sloane to lure the New Republic Defense Fleet away from the Nadiri Dockyards to attack Project Starhawk.&#91;20&#93; 
+Following the battle of Endor, the elite 204th Imperial Fighter Wing, nicknamed Shadow Wing, used the Quasar-class cruiser Aerie in several missions such as the attack on the EF76 Nebulon-B escort frigate Hellion's Dare where it pursued the frigate through the Oridol Cluster. While the Aerie was damaged during the engagement, the Hellion's Dare was destroyed and the Aerie was able to retreat and would later be repaired.&#91;21&#93; A year later in 5 ABY, the Aerie was present at the planet Jarbanov where Shadow Wing attacked a colony due to its support for the New Republic Defense Force. Later it was present in the Cerberon system in the Deep Core where it participated in a major campaign against New Republic forces there.&#91;22&#93;
+During the New Republic's siege of the Kuat Drive Yards, Blade Squadron attacked and destroyed a light carrier during the final stages of the battle.&#91;23&#93;

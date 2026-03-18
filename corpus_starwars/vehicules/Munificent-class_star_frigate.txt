@@ -1,0 +1,219 @@
+&#160;	 	&#160;	
+Munificent-class star frigate
+	Production information
+		Manufacturer
+	Gwori Revolutionary Industries&#91;1&#93;
+Hoersch-Kessel Drive Inc.&#91;2&#93;
+		Model
+	Munificent-class star frigate&#91;2&#93;Munificent-class Comms Frigate&#91;3&#93;
+		Type
+	Cruiser (pocket cruiser)&#91;2&#93;
+Frigate&#91;2&#93;
+		Cost
+	12,000,000 credits&#91;2&#93;
+	Technical specifications
+		Length
+	825 meters (2,707 ft)&#91;4&#93;
+		Width
+	426 meters (1,397 ft, 8 in)&#91;4&#93;
+		Height/depth
+	243 meters (797 ft, 3 in)&#91;4&#93;
+		Maximum acceleration
+	2,500 G&#91;5&#93;&#91;1&#93;
+		Maximum atmospheric speed
+	950 kilometers per hour&#91;5&#93;&#91;1&#93;
+		Engine unit(s)
+	7 ion drive thrusters&#91;4&#93;
+		Hyperdrive rating
+	Class 1&#91;2&#93;
+Class 10 (backup)&#91;2&#93;
+		Hyperdrive system
+	Multiple hyperdrive units&#91;4&#93;
+		Power plant
+	Twin main reactors&#91;4&#93;
+		Shielding
+	Deflector shield generator&#91;6&#93;
+Ray shield generator&#91;4&#93;
+		Hull
+	Lightly armored&#91;2&#93;
+		Sensor systems
+	Long-range&#91;2&#93; sensory antennae&#91;4&#93;
+		Navigation system
+	Navigation computer&#91;2&#93;
+		Countermeasures
+	Hyperwave, sensor and targeting jammers&#91;4&#93;
+		Armament
+	2 heavy turbolaser cannons&#91;2&#93;
+2 heavy ion cannons&#91;2&#93;
+26 twin light turbolasers&#91;2&#93;
+20 light turbolaser turrets&#91;2&#93;
+8&#91;7&#93;-12 medium flak cannons&#91;2&#93;
+40 twin light laser cannons (retractable)&#91;2&#93;
+Ordnance launchers&#91;2&#93;
+		Complement
+	48 Vulture-class droid starfighters (4 squadrons)&#91;2&#93;
+12 - 36 starfighters (depending on configuration)&#91;7&#93;
+		Escape craft
+	Equipped&#91;8&#93;
+		Crew
+	Largely automated and controlled by droid brain&#91;4&#93;
+1,100 officers, pilots and enlisted crew (lifeforms)&#91;7&#93;
+		Minimum crew
+	200 battle droids&#91;4&#93;
+		Passengers
+	150,000 battle droids&#91;2&#93;
+Up to 850 troops and support staff (depending on configuration)&#91;7&#93;
+		Cargo capacity
+	10,000 tons&#91;2&#93;
+		Consumables
+	2 years&#91;2&#93;
+		Communication systems
+	2 hyperwave supralight transceivers&#91;4&#93;
+		Other systems
+	Inertial compensator&#91;4&#93;
+Neutrino radiator&#91;4&#93;
+Tensor field generator&#91;4&#93;
+	Usage
+		Role(s)
+	Multi-role&#91;2&#93;Combat-communications vessel&#91;4&#93;
+Corporate asset protection&#91;2&#93;
+Flagship&#91;9&#93;
+Fleet coordination and navigation&#91;4&#93;
+Squadron command&#91;2&#93;
+		Year introduced
+	Decades before the Clone Wars&#91;2&#93;
+		Affiliation
+	InterGalactic Banking Clan&#91;4&#93;
+Trade Federation&#91;8&#93;Trade Federation fleet&#91;8&#93;
+Confederacy of Independent Systems&#91;2&#93;Confederacy of Independent Systems Navy&#91;2&#93;
+Sidon Ithano's crew&#91;10&#93;
+The Munificent-class star frigate, also known as the Munificent-class star Banking Clan frigate, Munificent-class heavy frigate, Separatist frigate or Banking Clan frigate, was a warship designed by Hoersch-Kessel Drive Inc. and Gwori Revolutionary Industries for use by the InterGalactic Banking Clan, the Trade Federation, and later the Confederacy of Independent Systems during the Clone Wars.
+1 Characteristics
+1.1 Dimensions
+1.2 Defenses
+1.3 Complement and crew
+1.4 Propulsion, communications, and navigation systems
+2 History
+2.1 Clone Wars
+2.1.1 Battle of Christophsis
+2.1.2 Battle of Teth
+2.1.3 Fall of Ryloth
+2.1.4 Ambush on Rugosa
+2.1.5 Battle of the Rishi Moon
+2.1.6 Battle of Bothawui
+2.1.7 Skirmish near Vanqor
+2.1.8 Battle of Quell
+2.1.9 Liberation of Ryloth
+2.1.10 Battle on Felucia
+2.1.11 Battle of Devaron
+2.1.12 Destruction of the Felucia medical station and the Battle of Saleucami
+2.1.13 Battles of Kamino and Sullust
+2.1.14 Battle for the Nexus Route
+2.1.15 Capturing Adi Gallia
+2.1.16 Battle of Umbara
+2.1.17 Massacre on Dathomir
+2.1.18 Attack on Obi-Wan Kenobi's fleet
+2.1.19 Invading Cato Neimoidia and Scipio
+2.1.20 Fight against the Shadow Collective
+2.1.20.1 Battle of Zanbar
+2.1.20.2 Battle on Ord Mantell
+2.2 Other battles
+2.3 Later history
+3 Appearances
+4 Sources
+5 Notes and references
+Characteristics[]
+Dimensions[]
+ 	 	 	 		 			 		 		 		 			A cross-section of a Munificent star frigate
+Designed by the starship manufacturing company Hoersch-Kessel Drive Inc.&#91;2&#93; and Gwori Revolutionary Industries,&#91;1&#93; the Munificent-class star frigates were powerful, multi-role starships that served within the naval forces of the Confederacy of Independent Systems. Often referred to as "pocket cruisers,"&#91;2&#93; the frigate measured to 825 meters in length, 426 meters in width, and 243 meters in height,&#91;4&#93; and were fast, lightly armored warships that were designed to operate in squadrons supported by smaller craft to take down larger capital ships.&#91;2&#93; They were powered by twin reactors.&#91;4&#93;
+Defenses[]
+Among the most feared warships in the Separatist fleet, the Munificent-class was equipped with a large array of weapons that made the vessel more than a match for anything the Galactic Republic Navy possessed in similar size and firepower, armed with two forward-mounted heavy turbolaser cannons, capable of blast-melting an ice moon 1,000 kilometers in diameter or piercing the shields of a 10 kilometer wide Grade III battle station,&#91;4&#93; two forward-mounted heavy ion cannons, thirteen port and thirteen starboard twin light turbolaser cannons, ten port and ten starboard turret-mounted light turbolasers, six port and six starboard medium flak guns, and ten dorsal, ten ventral, ten port, and ten starboard turret-mounted retractable twin light laser cannons, as well as several ordnance launchers&#91;2&#93; and a hyperwave jammer.&#91;5&#93; The frigates were also equipped with a deflector shield generator.&#91;6&#93;
+Complement and crew[]
+ 	 	 	 		 			 		 		 		 			B1-series battle droid aboard the bridge of a Munificent
+Munificent-class frigates were almost entirely automated, with a nominal crew of around 200, who saw to the vessel's maintenance and daily operations. And the ships' remaining interior space was used for machinery, redundant systems, hangar facilities that could hold up to four squadrons of vulture droids. They were also used to ferry a passenger capacity of 150,000 battle droids of various types that were kept in stasis, and could hold up to two years worth of consumables and a cargo capacity of 10,000 metric tons for encumbrance.&#91;2&#93;
+Propulsion, communications, and navigation systems[]
+ 	 	 	 		 			 		 		 		 			Aft view of a Munificent-class frigate
+Boasting a maximum atmospheric speed of 950 kilometers per hour&#91;5&#93; from seven ion drive thrusters,&#91;4&#93; the Munificent-class was equipped with a Class 1 hyperdrive generator and a Class 10 generator as a backup.&#91;2&#93; The frigate was also equipped with two long-range hyperwave transceiver masts for communications,&#91;5&#93; a long-range&#91;2&#93; sensor tower,&#91;5&#93; high performance sensors with a range of several light-days&#91;4&#93; and a navigation computer.&#91;2&#93;
+History[]
+Clone Wars[]
+Battle of Christophsis[]
+Several months after the First Battle of Geonosis in 22 BBY,&#91;11&#93; which marked the beginning of the Clone Wars between the Galactic Republic and the Confederacy of Independent Systems, the Confederacy sent their Droid Army under the command of General Whorm Loathsom and the Sith assassin Asajj Ventress to capture the planet Christophsis,&#91;12&#93; due to its resources and position along the Corellian Run hyperspace route,&#91;13&#93; while the planet was placed under a blockade with a fleet of at 30 warships commanded by the Harch Admiral Trench, to prevent the Republic from intervening. It was flagged by the Providence-class Dreadnought, Invincible,&#91;12&#93; and also included of at least twenty-three Munificent-class star frigates,&#91;14&#93; six Lucrehulk-class Battleships,&#91;15&#93;&#91;14&#93; and at least one battle refitted Hardcell-class interstellar transport.&#91;16&#93;
+ 	 	 	 		 			 		 		 		 			A Hardcell-class Battle Refit and Munificent-class star frigates at Christophsis
+Later, after the Republic arrived to break the blockade, Trench managed to quickly overpower the Republic fleet of three Venator-class Star Destroyers and three Pelta-class frigates led by Jedi Knight Anakin Skywalker aboard his Venator, the Resolute, by destroying one of the frigates, which were to deliver supplies to Senator Bail Organa on the surface below, and Skywalker was forced to retreat behind the planet's moon of Leesis. However, Skywalker later returned piloting a prototype IPV-2C Stealth Corvette, and managed to break through the blockade by destroying the Invincible after a brief showdown with the dreadnought, sending the entire blockade into disarray.&#91;15&#93;
+After the Republic managed to establish a base on the surface, the blockade continued to fight against the Republic's fleet above commanded by Admiral Wullf Yularen, however, they managed to break through once more with aid from the fleet of Admiral Wurtz.&#91;14&#93;
+Battle of Teth[]
+ 	 	 	 		 			 		 		 		 			A Venator and Munificent battle at Teth
+Not long after their victory at Christophsis, Skywalker and his Padawan Ahsoka Tano traveled to the planet Teth in Wild Space in order to rescue the Huttlet Rotta, the son of Jabba Desilijic Tiure. After they reached the Huttlet, following a battle with at least two battalions worth of battle droids, General Obi-Wan Kenobi, aboard a Venator, arrived in the system with his 212th Attack Battalion and assisted Skywalker's Torrent Company fighting Separatist reinforcements, while the Venator and a squadron of Republic fighters engaged the Separatist frigate and several Vulture droids.&#91;14&#93;
+Fall of Ryloth[]
+After the Separatist Droid Army, led by Techno Union Foreman Wat Tambor, invaded the planet Ryloth, the Separatist Alliance established a blockade in the planet's orbit under the command of Neimoidian Captain Mar Tuuk. The blockade, consisting of a single Lucrehulk-class Battleship accompanied by six Munificents, including Battlecruisers 17 and 19,&#91;17&#93; was able to destroy the Republic fleet of Admiral Dao, which was providing support for Jedi General Ima-Gun Di's Outer Rim garrison, all of which had perished while holding off the Separatist forces for the Twi'lek Resistance led by Cham Syndulla to escape.&#91;18&#93;
+Ambush on Rugosa[]
+ 	 	 	 		 			 		 		 		 			Separatist frigates attack Yoda's cruiser
+While on a diplomatic mission to the Outer Rim moon Rugosa at the request of the Toydarian King Katuunko, Jedi Grand Master Yoda was ambushed by two Munificents that attempted to kill the Jedi Master in order to prevent him from meeting with Katuunko on the moon's surface. The two frigates forced Yoda's Consular-class cruiser to retreat from the star system, but not before launching all of its escape pods with Yoda and his clone troopers inside them.&#91;19&#93;
+Battle of the Rishi Moon[]
+During the battle of the Rishi Moon, the Separatist General Grievous commanded a fleet of nine Munificent-class frigates and two Lucrehulk-class Battleships. His forces had infiltrated the outpost located on the moon, intending to keep the all-clear signal active in order for him and his fleet to succeed in their planned surprise attack on the cloning planet of Kamino. However, several clones had survived the initial attack and with the help of Clone Commander Cody of the 212th Attack Battalion and Clone Captain Rex of the 501st Legion, they managed to retake the base and destroy it after Grievous had sent a C-9979 landing craft with reinforcements onboard, deactivating the all-clear signal and alerting the Republic of Grievous's attack, forcing the general and his fleet to retreat.&#91;20&#93;
+Battle of Bothawui[]
+ 	 	 	 		 			 		 		 		 			Separatist frigates during the Battle of Bothawui
+During the Battle of Bothawui in 22 BBY,&#91;11&#93; Grievous commanded a fleet of six Munificent-class star frigates against Skywalker's fleet of three Venator-class Star Destroyers. The Separatist fleet initially gained the upper hand in terms of firepower, managing to destroy one of the Venators, but all six frigates were soon destroyed after being outflanked by several All Terrain Tactical Enforcers hiding in the asteroid field, and Grievous proceeded to make his retreat from his personal frigate.&#91;6&#93;
+Not long after his defeat at Bothawui, Grievous used two more Munificents to ambush Skywalker, who had decided to scout ahead in an outer corridor of space. However, Skywalker was able to escape the Kaleesh with the help of his Padawan Ahsoka Tano and his Rex, who piloted the G9 Rigger-class light freighter Twilight after Skywalker's starfighter's tracking beacon suddenly activated, which had alerted Grievous to his location.&#91;6&#93;
+Skirmish near Vanqor[]
+The Republic later devised a plan to capture the Separatist leader Count Dooku to bring the war to a quicker end. The first phase was for Anakin Skywalker to sneak his way onto a lone Munificent-class star frigate, which was the personal flagship of the Count, without his lightsaber and allow himself to be captured.&#91;21&#93;
+Obi-Wan Kenobi later arrived on the ship in the Vanqor system sometime after Skywalker was captured, and freed the captive Jedi, where the two then attempted to capture Dooku. Skywalker's flagship, the Resolute, arrived moments later and engaged the frigate, with clone troopers boarding the vessel to aid them. However, Dooku managed to escape the frigate aboard his Punworcca 116-class interstellar sloop, but was subsequently pursued by the Jedi who had commandeered a Sheathipede-class shuttle.&#91;21&#93;
+Battle of Quell[]
+During the Battle of Quell, the T-series military strategic analysis and tactics droid TF-1726 used several Munificent-class frigates against Jedi General Aayla Secura and her task force of three Venators, and commanded the Separatist forces from his own Munificent.&#91;22&#93;
+ 	 	 	 		 			 		 		 		 			B2-RPs are deployed from the Separatist fleet
+As General Skywalker was en route to the Quell system to aid Secura's forces, two of her Venators had been destroyed, and the tactical droid deployed several B2-RP super battle droids to board Secura's damaged Star Destroyer, intending to speed up its destruction. However, Skywalker, onboard the Resolute, entered the system and deployed several Low Altitude Assault Transport/infantry gunships to board the ship and rescue General Secura.&#91;22&#93;
+After entering the damaged Venator through a breach in its hull, Skywalker and his forces pushed forward to join Secura and her Clone Commander Bly, and explained that he had a frigate docking in the lower hangar to evacuate the survivors. The Separatist frigates pressed their attack on the Star Destroyer, which subsequently caused an internal explosion as the survivors were evacuating onto the cruiser, and managed to severely injure Skywalker, who used the Force to hold the explosion back.&#91;22&#93;
+Liberation of Ryloth[]
+ 	 	 	 		 			 		 		 		 			The blockade fires on the Resolute's ventral side.
+Later, General Skywalker along with his Padawan Ahsoka Tano, were sent with their fleet to break through the blockade so Generals Obi-Wan Kenobi, Mace Windu and the invasion fleet could land on the planet's surface. However, after Tano and her fighter squadron broke the line of droid fighters, Captain Tuuk summoned four more frigates&#8212;including Battlecruisers 17 and 19&#8212;along with more fighters. The blockade's fighters began to overwhelm the Republic forces, destroying Tano's squadron one by one, and making suicide runs on the Star Destroyers Resolute, Redeemer, and Defender. And when a vulture droid crashed into the Resolute's bridge, Skywalker ordered his fleet to retreat, but the Redeemer and most of Tano's squadron were lost in their first attack.&#91;17&#93;
+Despite his forces being depleted, Skywalker returned to the blockade in the heavily damaged Defender, and offered to surrender himself and the ship to Tuuk in exchange for delivery of supplies to the Twi'leks. Considering his offer, Tuuk was soon informed that Skywalker was the only onboard the Star Destroyer, and despite attempting to destroy the Defender, the vessel crashed into the Lucrehulk. The rest of the blockade then proceeded to open fire on the Resolute, which had angled its hull towards the blockade, but the remaining frigates were subsequently destroyed as Ahsoka led her fighter squadron against them, and allowed the invasion fleet to land as it exited hyperspace.&#91;17&#93;
+Battle on Felucia[]
+During the battle of Felucia, the Confederacy established a blockade of at least four Munificents in the planet's orbit, which had cut off the Republic fleet from their forces on the ground below led by Generals Kenobi and Skywalker. The Republic managed to break through the blockade by destroying one of the frigates, and proceeded to extract the Jedi and their troops from the battle.&#91;23&#93;
+Battle of Devaron[]
+ 	 	 	 		 			 		 		 		 			Frigates at the Battle of Devaron
+During the battle of the planet Devaron, the bounty hunter Cad Bane, commanded a fleet of four Munificent-class frigates supplied to him by the Trade Federation to aid him in his mission to retrieve Jedi Master Bolla Ropal, who was out of contact on Devaron at the time. However, after Bane managed to take Master Ropal captive aboard his frigate, Skywalker soon arrived in the system aboard the Resolute and immediately began firing on the fleet, destroying the other three frigates that were escorting Bane's vessel.&#91;8&#93;
+While attempting to flee the battle, the Star Destroyer fired on the remaining frigate's hyperdrive, damaging it to prevent them from escaping, allowing for him, his Padawan, and a team of clone troopers to board the vessel to find both Ropal and the Jedi holocron, which was previously stolen from the Jedi Temple on Coruscant, and bring them aboard the Resolute.&#91;23&#93; However, Skywalker and Tano soon discovered that Ropal had been killed by Bane and the Separatists, and proceeded to engage the bounty hunter and a force of battle droids, causing heavy damage to the vessel, which had been set to destroy itself by Bane, who had fled from the battle and lured Tano into the ship's airlock, where she was held captive.&#91;8&#93;
+ 	 	 	 		 			 		 		 		 			The Jedi and Bane standoff aboard his Munificent.
+After rescuing Tano, but not before opening the holocron for Bane, Skywalker and his apprentice chased after the bounty hunter through the frigate to retrieve the holocron. However, after realizing that the ship was doomed to explode, the two Jedi ended their chase and retreated to the hangar, where Rex and the clone troopers were waiting for them aboard a shuttle. The Republic then made their escape, unsuccessful in their attempt to recover the holocron and in belief that Bane was killed aboard the frigate by the clone trooper Denal.&#91;8&#93;
+Destruction of the Felucia medical station and the Battle of Saleucami[]
+Sometime after their victory over the Republic at Felucia in 21 BBY,&#91;24&#93; the Confederacy launched an attack on Felucia Medical Station HCTFF2, a Haven-class medical station located in the Felucia system. The attack, which was undertaken by two Munificents accompanying a single Separatist dreadnought, resulted in the medical station's destruction.&#91;25&#93;
+ 	 	 	 		 			 		 		 		 			The Separatist fleet engages the Republic fleet above Saleucami
+Later, during the Battle of Saleucami, Separatist General Grievous used three Munificent-class frigates in his fleet flagged by a Recusant-class light destroyer. The Munificents were later engaged by a Republic fleet led by Generals Kenobi, Skywalker, and Adi Gallia, who were trying to free fellow Jedi Eeth Koth from Grievous's Recusant.&#91;26&#93;
+Battles of Kamino and Sullust[]
+Despite the Confederacy's failure in their initial attempt earlier in the war,&#91;20&#93; Grievous and the Dark Acolyte Asajj Ventress planned to launch a second invasion on Kamino. However, before the Confederacy could launch their attack, the Republic managed to intercept a transmission between the two commanders which detailed the invasion, and resulted in the troopers of the 501st Clone Battalion and Generals Kenobi and Skywalker to reinforce the planet.&#91;27&#93;
+ 	 	 	 		 			 		 		 		 			Grievous's frigates endure extensive damage to deploy disguised re-entry capsules.
+Arriving in the Kamino system, the Kaleesh commanded the Separatist invasion fleet, consisting of Grievous' Separatist dreadnought, flanked by three Recusants and eleven Munificents, which were secretly carrying parts under their hull to assemble Trident-class assault ships to launch their attack on Tipoca City.&#91;27&#93;
+Later, several Munificent-class frigates were part of a Separatist fleet commanded by Ventress, alongside two Recusant-class destroyers, and one Providence-class Dreadnought as the flagship. Ventress and her fleet soon crossed paths with a Republic fleet commanded by Generals Kenobi and Skywalker, which resulted in a battle to claim control over the planet Sullust.&#91;28&#93;
+Battle for the Nexus Route[]
+ 	 	 	 		 			 		 		 		 			Even Piell is ambushed by a Separatist fleet.
+Later in the war, after Jedi Master Even Piell had discovered the location of the Nexus Route, a highly strategic hyperspace route that stretched to the hearts of both Republic and Separatist territory. The discovery subsequently led to an ambush on Piell and his warship by a small Separatist fleet of two Munificents flagged by a dreadnought, resulting in the Jedi's imprisonment in the Citadel, a seemingly inescapable prison located on the volcanic planet Lola Sayu.&#91;29&#93;
+After Piell's imprisonment, the Republic dispatched a Jedi-led rescue team to extract their fellow Jedi, two clone officers, and Piell's captain, Wilhuff Tarkin, from the Citadel and return them to Coruscant to prevent the Confederacy from learning of the hyperlane's coordinates. Arriving in the Lola Sayu system, the rescue team, aboard a stolen Sheathipede-class Type B shuttle, crossed paths with the planet's defense fleet of four Munificents, one Lucrehulk, and one Providence.&#91;30&#93;
+ 	 	 	 		 			 		 		 		 			Lola Sayu defense fleet
+Freeing the Jedi Master and his officers from the Citadel, the rescue team's shuttle was destroyed amid their escape,&#91;30&#93; resulting in the Republic dispatching a task force of four Venator-class Star Destroyers to extract their trapped comrades, which forced the four Munificents and the rest of the Separatist fleet to engage the Republic's task force.&#91;31&#93;
+Capturing Adi Gallia[]
+At some point in the war, Grievous and his fleet of two Munificent-class frigates and his Providence-class Dreadnought launched a surprise attack on Jedi Master Adi Gallia and her lone Republic Star Destroyer near the planet Patitite Pattuna. The Kaleesh managed to successfully the Jedi Master after the two clashed blades with one another aboard the Star Destroyer.&#91;32&#93;
+Battle of Umbara[]
+ 	 	 	 		 			 		 		 		 			The Separatist armada defends the supply ship over Umbara.
+Later in the conflict, the Umbaran government seceded from the Republic to the Separatist Alliance following the death of Senator Mee Deechi,&#91;33&#93; the representative for Umbara in the Galactic Senate. The Separatists then proceeded to establish a planetary blockade of at least six frigates and one dreadnought, which was later engaged by Republic forces during their invasion to reclaim the planet.&#91;34&#93;
+As the battle raged in space and on the ground, the Separatist Alliance soon dispatched a Dual Hemisphere-Omni Support Vessel to reinforce the native Umbaran forces in hopes of defeating the Republic troops led by Generals Kenobi, Skywalker, and Pong Krell. To ensure the safety of the supply ship, a Separatist armada of at least eight frigates, four light destroyers, and three dreadnoughts defended the vessel, but were ultimately unsuccessful as a trio of clone troopers destroyed the supply ship.&#91;35&#93;
+Massacre on Dathomir[]
+ 	 	 	 		 			 		 		 		 			The Separatist fleet arrives at Dathomir.
+Sometime after Ventress' failed attempt to assassinate her former master Dooku&#91;28&#93; and the betrayal of his new apprentice Savage Opress,&#91;36&#93; the Sith Lord had discovered that Ventress had returned to the planet Dathomir in the Quelii sector, the home of the Nightsisters. Upon his discovery, Dooku ordered Grievous to launch an invasion on the planet with the intent of exacting revenge on his former assassin and Mother Talzin and wiping out the entire Nightsister clan.&#91;37&#93;
+The general commanded an invasion fleet of four Munificent-class frigates, two Recusant-class destroyers, two DH-Omni Support Vessels, and his Providence-class Dreadnought. Upon their arrival in the Dathomir system, Grievous ordered his forces to begin landing sequence, and successfully managed to kill all of the Nightsisters, except for Ventress and Talzin.&#91;37&#93;
+Attack on Obi-Wan Kenobi's fleet[]
+ 	 	 	 		 			 		 		 		 			Obi-Wan Kenobi's fleet is ambushed by Grievous's fleet.
+In 20 BBY,&#91;38&#93; Grievous and his starfleet had launched an attack on the Republic task force of General Kenobi. The fleet consisted of two Providences, one Recusant, and was accompanied by three Munificents, one of which was destroyed amid the battle, which resulted in the destruction of Kenobi's fleet as well as his flagship Negotiator.&#91;39&#93;
+Invading Cato Neimoidia and Scipio[]
+Sometime later in the war, the Confederacy launched an invasion on the Trade Federation capital of Cato Neimoidia. However, the Separatist forces of six Munificents and a single Providence were met with a Republic defense force led by General Skywalker and his Padawan, Commander Tano. The Republic managed to punch through the Separatist fleet in orbit, which allowed both Jedi and a squadron of clone Z-95 Headhunters to reach the surface, where they would engage the command ship and its accompanying frigates.&#91;40&#93;
+ 	 	 	 		 			 		 		 		 			Dooku's fleet invades Scipio.
+Later, during the Separatist invasion of the InterGalactic Banking Clan world of Scipio, Count Dooku, the Confederate Head of State, commanded the invasion from his personal Providence-class Dreadnought, which was accompanied by three Munificents and two supply ships. And after the Serennian completed his mission to trick Senator Rush Clovis into raising interest rates on the Republic and not the Confederacy, the Count and his flotilla proceeded to flee the system, and subsequently allowing the Republic to gain control of Scipio and the Banks.&#91;41&#93;
+Fight against the Shadow Collective[]
+Battle of Zanbar[]
+During the campaign against the Shadow Collective, an organization created from various crime families and syndicates and led by the former Sith Lord Maul, Grievous commanded a large Separatist fleet in battle to the moon of Zanbar after the Zabrak managed to escape from the Spire prison on the planet Stygeon Prime. The fleet consisted of Grievous's Providence-class Dreadnought, as well as at least eighteen Munificent-class frigates, two Recusant-class warships, five DH-Omni Support Vessels, and at least five C-9979 landing craft.&#91;42&#93;
+Battle on Ord Mantell[]
+Not long after their victory at Zanbar, Grievous and his forces tracked Maul's retreat to the planet Ord Mantell, where he awaited the Kaleesh's fleet. After exiting hyperspace above the planet, Grievous ordered the fleet, which consisted of several Munificent-class frigates, support ships, a single Lucrehulk-class LH-3210 cargo freighter, and multiple landing craft, all flagged by the Providence-class Dreadnought Invisible Hand, to initiate an orbital bombardment on the city of Ord Mantell. Despite the bombardment, Maul deployed several Kom'rk-class fighter/transports to engage the fleet, where he managed to storm the Invisible Hand and capture Grievous.&#91;43&#93;
+Other battles[]
+ 	 	 	 		 			 		 		 		 			The Munificent-class frigate Tide of Progress fought at the Battle of Crombach Nebula.
+The ships continued to be used throughout the entire Clone Wars.&#91;44&#93; The weaknesses of the Munificent-class were covered within an issue of Space Battles magazine, which was published by the Republic Naval Institute and saw circulation during the war.&#91;45&#93; During the Battle of Crombach Nebula, Jedi Master Wom-Nii Gnaden's NTB-630 naval bomber collided with a Munificent. This left an impact mark that was still visible on the frigate by the time of the Battle of Coruscant,&#91;1&#93; a battle in which multiple Munificent-class star frigates were involved.&#91;46&#93;
+Later history[]
+The Vontorian treasure ship Graceful Promising shared visual similarities with a Munificent-class star frigate.&#91;47&#93; During the New Republic Era, the pirate Gruk came to control a surviving Munificent-class star frigate, using the vessel in the Lost Clusters. However, Sidon Ithano's crew took control of the ship, intending to use it to locate other surviving CIS craft.&#91;10&#93;

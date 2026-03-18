@@ -1,0 +1,19 @@
+G30 racing starfighter
+	Production information
+		Manufacturer
+	Incom-Freitek&#91;1&#93;
+		Model
+	G30&#91;1&#93;
+		Type
+	Racing starfighter&#91;1&#93;
+	Technical specifications
+		Armament
+	KX10B laser cannons (2)&#91;1&#93;
+		Crew
+	Pilot (1)&#91;2&#93;
+Astromech droid (1)&#91;2&#93;
+	Usage
+		Affiliation
+	Ace Squadron&#91;3&#93;
+Colossus resistance&#91;3&#93;
+The G30 racing starfighter was a type of racing ship manufactured by Incom-Freitek. The starfighter's S-foils could be adjusted for better aim of the wingtip-mounted Taim & Bak KX10B laser cannons or to accommodate the need for speed or maneuverability.&#91;1&#93;  The Green Ace flown by racer Hype Fazon was a modified G30.&#91;4&#93;

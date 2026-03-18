@@ -1,0 +1,83 @@
+&#160;	 	&#160;	
+Content approaching.
+ Sources
+Star Wars: TIE Fighter Deluxe Book and Model Set, Star Wars: Darth Vader (2015), Vader Down 1, Star Wars Book V: The Last Flight of the Harbinger, TIE Fighter Owners' Workshop Manual,  Star Wars: X-Wing Second Edition &#8212; TIE Advanced x1 Expansion Pack Card: Storm Squadron Ace &#8212; TIE Advanced x1 
+Please update the article to include missing information, and remove this template when finished.
+TIE Advanced x1
+	Production information
+		Manufacturer
+	Sienar Fleet Systems&#91;1&#93;
+		Line
+	TIE fighter series&#91;1&#93;
+		Model
+	Twin Ion Engine Advanced x1&#91;1&#93;
+		Type
+	Starfighter&#91;1&#93;
+		Cost
+	160,000 credits (new)&#91;2&#93;
+65,000 (used; military requisition charges)&#91;2&#93;
+	Technical specifications
+		Length
+	5.8 meters&#91;2&#93;
+		Width
+	6.2 meters&#91;2&#93;
+		Height/depth
+	3.8 meters&#91;2&#93;
+		Maximum acceleration
+	4,150 G&#91;3&#93;
+		Megalight per hour
+	105 MGLT&#91;4&#93;
+		Maximum atmospheric speed
+	1,200 km/h&#91;5&#93;
+		Engine unit(s)
+	P-s5.6 twin ion engine&#91;3&#93;
+		Hyperdrive rating
+	Class 4&#91;3&#93;
+		Shielding
+	Equipped&#91;1&#93;
+		Hull
+	Durasteel-reinforced&#91;3&#93;
+		Targeting systems
+	Glucon&#91;2&#93; CRX-9 targeting computer&#91;3&#93;
+		Navigation system
+	Equipped, ten-jump limit&#91;3&#93;
+		Armament
+	L-S9.3 laser cannons (2)&#91;3&#93;
+Cluster missile launcher&#91;3&#93;
+		Escape craft
+	Ejector seat&#91;2&#93;
+		Crew
+	1&#91;3&#93;
+		Consumables
+	Five days&#91;3&#93;
+		Life support
+	Equipped&#91;3&#93;
+		Other systems
+	Wiborg Jenssen fuel cell&#91;6&#93;
+	Usage
+		Affiliation
+	Galactic Empire&#91;7&#93;Imperial Starfighter Corps&#91;8&#93;
+Sith Order&#91;7&#93;
+Darth Vader's secret forces&#91;9&#93;
+Alliance to Restore the Republic (stolen)&#91;8&#93;Tatooine rebel cell (stolen)&#91;8&#93;
+"Our current assessment is that this is the next generation of the v1."
+&#8213;Antoc Merrick in The Rebel Files&#91;10&#93;
+The TIE Advanced x1, or TIE/ad, was an advanced prototype starfighter that was part of the TIE fighter series manufactured by Sienar Fleet Systems. Darth Vader notably flew a TIE Advanced x1.
+1 Characteristics
+2 History
+3 Appearances
+3.1 Non-canon appearances
+4 Sources
+4.1 Non-canon sources
+5 Notes and references
+6 External links
+Characteristics[]
+ 	 	 	 		 			 		 		 		 			The cockpit of a TIE Advanced x1
+In designing the starfighters of its TIE fighter series, Sienar Fleet Systems drew heavily on the designs of Kuat Systems Engineering ships such as the V-wing and Eta-2 interceptor. Sienar also experimented with advanced models featuring localized improvements and secret technological breakthroughs, including the TIE/ad v1 prototype, based on Sienar's Scimitar Star Courier. This prototype led to the TIE Advanced x1, which boasted a hyperdrive and deflector shield generator. A modified early prototype of the Advanced x1 line was flown by Darth Vader himself. Vader's fighter boasted greater speed and heavier firepower, featuring fixed-mounted twin blaster cannons and a cluster missile launcher.&#91;1&#93;
+The x1 was protected by an experimental shield system. A stabilizing field was projected by a supermagnet at the rear of the ship. Deflector energies were deployed from forward and lateral pairs of projector bars. These experimental shield systems would sometimes require last minute tuning, something Vader often did personally.&#91;11&#93; Vader specified a custom cockpit to accommodate his armored suit, and high-performance solar cells were fitted into the fighter's curved wings.&#91;1&#93; The ship could also stand and fly under water.&#91;12&#93;
+History[]
+ 	 	 	 		 			 		 		 		 			Darth Vader's prototype TIE Advanced x1
+As of 4 BBY,&#91;13&#93; the Sith Lord Darth Vader owned and operated an experimental&#91;14&#93; modified early prototype of the TIE Advanced x1,&#91;1&#93; which he piloted into the midst of a rebel fleet in a daring attack that resulted in the destruction of the rebels' flagship, Phoenix Home.&#91;13&#93; He later used it to travel to Malachor to fight his former Padawan, Ahsoka Tano.&#91;15&#93;
+During the Battle of Yavin, Vader again piloted his TIE Advanced x1 to pursue and eliminate the Rebel fighters attacking the first Death Star. He shot down several starfighters until his fighter was unexpectedly knocked out of the battle when a TIE/ln space superiority starfighter collided with it after a surprise attack by the Millennium Falcon. After the collision, Vader spun out of control into space, thereby escaping the destruction of the Death Star.&#91;7&#93; The ship was disabled and left to float in the battle station's debris field, though Vader and his ship were later picked up by a Gozanti-class cruiser piloted by Ciena Ree and Berisse Sai.&#91;16&#93;
+The TIE Advanced only saw a limited production, but it became a favorite of elite units all the same.&#91;17&#93; An Ace of Storm Squadron flew a TIE Advanced. Other elite Aces from different squadrons also flew the TIE Advanced, becoming a favorite amongst them.&#91;18&#93; Pilot Maarek Stele once flew a TIE Advanced,&#91;19&#93; along with others such as Juno Eclipse.&#91;20&#93; Following the Battle of Yavin, the Alliance to Restore the Republic provided stolen examples of the craft to Saponza's Gang.&#91;8&#93; Vader continued to fly his TIE Advanced as well.&#91;9&#93; A TIE series craft, with wings akin to&#91;21&#93; an Advanced x1 but without the back design of that fighter,&#91;7&#93; was part of Commander Ellian Zahra's Hunter Fleet after the Battle of Hoth. The fighter took part in the battle at Elessia.&#91;21&#93;
+At least two TIE Advanced x1s were placed atop hoverpads and shown as part of an Imperial Military parade for Empire Day on the Core Worlds&#91;22&#93; planet of&#91;23&#93; Bar'leth, where new prototypes and officially deployed military hardware were shown off in a galaxy-wide broadcast. However, the Rebel Alliance Navy took advantage of the broadcast by targeting and wiping out the parade forces, ensuring no civilians were harmed but showcasing to the galaxy at large they still posed a threat to the Empire despite the Battle of Hoth.&#91;22&#93;

@@ -1,0 +1,31 @@
+&#160;	 	&#160;	
+Outrider
+	Production information
+		Manufacturer
+	Corellian Engineering Corporation&#91;1&#93;
+		Product line
+	YT-series&#91;2&#93;
+		Model
+	YT-2400 light freighter&#91;2&#93;
+		Type
+	Light freighter&#91;2&#93;
+	Technical specifications
+		Length
+	18.65 meters&#91;2&#93;
+		Width
+	28.5 m&#91;2&#93;
+		Maximum speed (atmosphere)
+	800 kph&#91;3&#93;
+		Engine unit(s)
+	KonGar KGDefender military-grade ion engines
+		Hyperdrive rating
+	Class 0.75&#91;3&#93;
+		Hyperdrive system
+	Equipped&#91;3&#93;
+		Armament
+	Double laser turrets (2)&#91;3&#93;
+Concussion missile launchers&#91;3&#93;
+	Usage
+		Owner(s)
+	Dash Rendar&#91;4&#93;
+The Outrider was a YT-2400 light freighter owned by Dash Rendar&#91;4&#93; that left the planet Tatooine&#91;2&#93; in 1 BBY.&#91;5&#93; Like other YT-2400 light freighters, it was manufactured by Corellian Engineering Corporation;&#91;1&#93; could reach speeds of 800 kilometers per hour; was equipped with two double laser turrets, concussion missile launchers, and a class 2 hyperdrive;&#91;3&#93; and measured 18.65 meters.&#91;2&#93;

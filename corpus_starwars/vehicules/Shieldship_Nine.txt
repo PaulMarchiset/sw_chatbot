@@ -1,0 +1,9 @@
+Shieldship Nine
+	Usage
+		Role(s)
+	Escort&#91;1&#93;
+		Owner(s)
+	Administrator Lando Calrissian&#91;1&#93;
+		Commander(s)
+	A pilot&#91;1&#93;
+Shieldship Nine was a shieldship owned by Human Administrator Lando Calrissian and piloted by a pilot.&#91;1&#93;

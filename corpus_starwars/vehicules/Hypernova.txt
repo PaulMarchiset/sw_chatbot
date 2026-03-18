@@ -1,0 +1,12 @@
+Hypernova
+	Production information
+		Model
+	Hypernova-class control ship&#91;1&#93;
+	Usage
+		Role(s)
+	Command ship&#91;2&#93;
+		Affiliation
+	Hunters of the Outer Rim&#91;1&#93;
+		Owner(s)
+	Balada&#91;1&#93;
+The Hypernova&#91;3&#93; was the starship of Balada the Hutt. It floated over the Grand Arena on Vespaara.&#91;1&#93;

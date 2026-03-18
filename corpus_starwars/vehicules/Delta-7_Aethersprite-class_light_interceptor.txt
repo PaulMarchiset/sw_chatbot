@@ -1,0 +1,87 @@
+&#160;	 	&#160;	
+Delta-7 Aethersprite-class light interceptor
+	Production information
+		Designer
+	Walex Blissex&#91;1&#93;
+Kuat Systems Engineering&#91;2&#93;
+		Manufacturer
+	Kuat Systems Engineering&#91;3&#93;
+		Line
+	Delta-series&#91;4&#93;
+		Model
+	Delta-7 Aethersprite&#91;5&#93;
+		Type
+	Starfighter&#91;6&#93;
+		Cost
+	180,000 Republic dataries (new)&#91;5&#93;
+145,000 (used)&#91;5&#93;
+	Technical specifications
+		Length
+	8 meters&#91;6&#93;
+		Width
+	3.92 meters&#91;5&#93;
+		Height/depth
+	1.44 meters&#91;5&#93;
+		Maximum acceleration
+	5,000 G&#91;5&#93;
+		Megalight per hour
+	110 MGLT&#91;7&#93;
+		Maximum atmospheric speed
+	1,260 kph&#91;8&#93;
+		Engine unit(s)
+	J-44 "Jetforce" sublight engines (2)&#91;5&#93;
+		Hyperdrive system
+	None (requires Syliure-31 hyperspace docking ring)&#91;9&#93;
+		Shielding
+	Sirplex J-4 deflector generator&#91;5&#93;
+		Hull
+	Ultra-light alloy&#91;5&#93;
+		Navigation system
+	Astromech droid (permanently hardwired)&#91;5&#93;
+		Armament
+	Taim Co. SDS 8/5 dual laser cannons (2) or quad-pulse laser cannons&#91;1&#93;
+Warhead launcher (optional)&#91;1&#93;
+		Crew
+	Pilot (1)&#91;8&#93;
+Integrated astromech droid (1)&#91;8&#93;
+		Cargo capacity
+	60 kilograms&#91;1&#93;
+		Consumables
+	None (1 week with booster ring)&#91;5&#93;
+		Life support
+	Equipped&#91;5&#93;
+		Communication systems
+	Comm/scan processor&#91;5&#93;
+	Usage
+		Role(s)
+	Starfighter&#91;5&#93;
+Interceptor&#91;8&#93;
+		Affiliation
+	Jedi Order&#91;6&#93;
+Galactic Republic&#91;10&#93;&#91;11&#93;
+Alliance to Restore the Republic&#91;12&#93;
+The Delta-7 Aethersprite-class light interceptor, also known as the Delta-7 Aethersprite-class Jedi starfighter, Delta-7 Jedi starfighter, or Delta-7 Jedi Interceptor, and commonly referred to as the Jedi starfighter, was a starfighter model designed by Kuat Systems Engineering and used by the Jedi Order before and during the Clone Wars. The variant Delta-7B Aethersprite-class light interceptor was also used by the Jedi during the Clone Wars. The Delta-7 would also be used by the Alliance to Restore the Republic in their early campaigns against the Galactic Empire.
+1 Characteristics
+2 History
+2.1 Republic service
+2.2 Age of the Empire
+3 Behind the scenes
+4 Appearances
+4.1 Non-canon appearances
+5 Sources
+6 Notes and references
+7 External links
+Characteristics[]
+ 	 	 	 		 			 		 		 		 			A Delta-7 Aethersprite-class light interceptor
+Manufactured by Kuat Systems Engineering, the Delta-7 Aethersprite-class light interceptor was a Jedi-used starfighter that saw extensive action during the last years of the Galactic Republic, and was designed specifically with the Jedi in mind. The Delta-7's designers worked with the Jedi Order to create a starfighter with fewer internal systems than other starships, and focused on making the controls as responsive as possible due to the Jedi's Force-sensitive capabilities. An elite transport, it could accommodate a single pilot and an integrated astromech droid, as unlike later starfighter models, the wings were too thin for a full astromech socket. Instead, a modified astromech was hardwired into a socket on the vessel's wing, with its dome remaining intact but its components plugged directly into the ships computer. The droid therefore, would play an important part in assisting the pilot with navigation, damage control, and hyperspace travel coordinates.&#91;8&#93;
+Unlike most ships in the galaxy, the Delta-7 Jedi starfighter did not feature a built-in hyperdrive, but instead relied on external hyperspace transport rings that attached to the starship, allowing it to enter the trans-dimensional realm. Despite this, the ship could still attain speeds of 1,260 kph in realspace, and was often painted red, the color which represented the diplomatic immunity the Jedi enjoyed.&#91;8&#93;
+History[]
+Republic service[]
+The Delta-7 entered service with the Jedi Order&#91;13&#93; prior to or during 32 BBY.&#91;14&#93; Qui-Gon Jinn operated a Delta-7, as did his Padawan Obi-Wan Kenobi. Yoda operated his own customized version, and flew it on a mission to the Vagadarr system.&#91;13&#93;
+Four years later, Master Depa Billaba flew a Delta-7 as part of Hazard Squadron as escort for a relief convoy heading to Bromlarch. She provided interference between the convoy starships and the attacking pirates.&#91;15&#93;
+In 22 BBY,&#91;14&#93; Kenobi flew his interceptor on a mission to Kamino, during which he discovered the existence of a clone army being produced without the approval of the Galactic Senate. The bounty hunter Jango Fett served as the cloning template, and was also a suspect in a plot to assassinate Senator Amidala. The Jedi High Council ordered Kenobi to apprehend Fett and bring him to Coruscant for interrogation. Fett evaded arrest, but Kenobi managed to follow him to Geonosis.&#91;10&#93;
+ 	 	 	 		 			 		 		 		 			Delta-7s remained in use early in the Clone Wars
+Once Fett became aware of Kenobi's presence, the two engaged in a drawn-out dogfight over Geonosis, during which Kenobi jettisoned his starfighter's spare parts canisters to feign his own death. Kenobi eventually made his way to the surface of the planet, but was arrested by the Confederacy of Independent Systems. Anakin Skywalker and Senator Padmé Amidala attempted to stage a rescue, but were also apprehended and sentenced to death in the Petranaki Arena. A Jedi assault team deployed to rescue the trio, but were severely depleted and on the verge of defeat when Yoda arrived with the Grand Army of the Republic. The ensuing First Battle of Geonosis resulted in the end of the Separatist Crisis and the beginning of the Clone War.&#91;10&#93;
+At least one Delta-7, belonging to Jedi Master Plo Koon at the end of the Clone War&#91;11&#93; in 19 BBY,&#91;14&#93; was destroyed in the capture of Cato Neimoidia during the execution of Order 66.&#91;11&#93;
+Age of the Empire[]
+The early Alliance would begin to use rebuilt Delta-7 interceptors for local engagements, along with other aging Clone Wars-era equipment and other system patrol craft.&#91;12&#93;

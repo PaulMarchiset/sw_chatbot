@@ -1,0 +1,122 @@
+Content approaching.
+ Sources
+Victory's Price, Star Wars: The Rebel Files, TIE Fighter Owners' Workshop Manual,  Star Wars: X-Wing Second Edition &#8212; Galactic Empire Conversion Kit Card: Black Squadron Scout &#8212; TIE/sk Striker 
+Please update the article to include missing information, and remove this template when finished.
+TIE/sk x1 experimental air superiority fighter
+	Production information
+		Manufacturer
+	Sienar Fleet Systems&#91;1&#93;
+		Line
+	TIE fighter series&#91;1&#93;
+		Model
+	TIE/sk x1 experimental air superiority fighter&#91;1&#93;
+		Type
+	Atmospheric fighter&#91;1&#93;
+		Cost
+	50,000 credits&#91;2&#93;
+	Technical specifications
+		Length
+	17.18 meters&#91;1&#93;
+		Width
+	11.3 meters&#91;3&#93;
+		Height/depth
+	2.95 meters&#91;1&#93;
+		Maximum acceleration
+	Not applicable&#91;3&#93;
+		Megalight per hour
+	Not applicable&#91;3&#93;
+		Maximum atmospheric speed
+	1,500 kph&#91;1&#93;
+		Engine unit(s)
+	Repulsorlifts&#91;1&#93;
+Twin ion engines&#91;1&#93;
+		Hyperdrive system
+	None&#91;4&#93;
+		Power plant
+	Solar energy&#91;1&#93;
+		Shielding
+	None&#91;3&#93;
+		Targeting systems
+	T-s9a targeting computer&#91;3&#93;
+		Navigation system
+	SFS N-a1 Navcon&#91;3&#93;
+		Avionics
+	Aviation regulator&#91;1&#93;
+		Armament
+	Fire-linked SFS L-s9.3 laser cannons (4)&#91;1&#93;
+H-s1 heavy laser cannons (2)&#91;1&#93;
+Proton bomb chute (1)&#91;1&#93;VL-61/79 proton bombs (Several)&#91;1&#93;
+		Escape craft
+	Ejector seats&#91;3&#93;
+		Crew
+	Pilot (1)&#91;1&#93;
+Bombardier/gunner (1) (optional)&#91;1&#93;
+		Passengers
+	Optional&#91;5&#93;&#91;6&#93;
+		Consumables
+	One day&#91;2&#93;
+		Life support
+	Equipped&#91;3&#93;
+		Other systems
+	Advanced high-speed wings&#91;1&#93;
+Heat exchange matrix&#91;1&#93;
+Solar energy collectors&#91;1&#93;
+Solar energy support&#91;1&#93;
+	Usage
+		Role(s)
+	Aerial assault vehicles&#91;1&#93;&#91;6&#93;
+Atmospheric patrols over important Imperial ground-based installations&#91;7&#93;
+Space combat alongside traditional TIE fighters&#91;8&#93;
+Transporting supplies and personnel&#91;6&#93;
+		Year introduced
+	c. 18 BBY&#91;9&#93;
+		Affiliation
+	Galactic Empire&#91;1&#93;Army Air Corps&#91;1&#93;
+Imperial Starfighter Corps&#91;10&#93;
+Ubrik Adelhard's Imperial remnant&#91;11&#93;
+"It's experimental, but the TIE/sk x1 air superiority fighter is a demon in atmospheric environments."
+&#8213;Antoc Merrick in The Rebel Files&#91;12&#93;
+The TIE/sk x1 experimental air superiority fighter, also known as the TIE/sk atmospheric fighter or simply the TIE striker, was a streamlined variant of the TIE fighter series starfighters used by the Galactic Empire, most notably during the Battle of Scarif. Specialized for in-atmosphere missions, the atmospheric fighter was identifiable by its horizontal high-speed wings and large central pod. Largely because of its specialization for such missions, it was one of the few TIE models to be used by the Imperial Army as well as the Imperial Navy.
+1 Characteristics
+2 History
+2.1 A New Order
+2.2 Galactic Civil War
+2.2.1 Spark of rebellion
+2.2.2 Dusk of the Empire
+2.2.3 Fighting the First Order on Naboo
+3 Behind the scenes
+4 Appearances
+4.1 Non-canon appearances
+5 Sources
+5.1 Non-canon sources
+6 Notes and references
+7 External links
+Characteristics[]
+ 	 	 	 		 			 		 		 		 			The TIE striker performed optimally in atmospheric operations
+The TIE/sk x1 experimental air superiority fighter&#91;1&#93; featured flat, pointed wings specially designed for in-atmosphere combat.&#91;6&#93; Thus,&#91;1&#93; it was faster than the standard TIE/ln space superiority starfighter.&#91;13&#93;
+However, the striker's wings were unusually shaped; straying from the typical TIE fighter's wing shapes, the TIE/sk's wings helped increase the ship's VTOL (vertical take-off and landing) capacity.&#91;1&#93; The craft was able to gain additional speed by curling down its wings,&#91;6&#93; engaging from flight mode to attack mode.&#91;1&#93;
+The fighter was heavily armed, sporting four pairs of laser barrels&#91;1&#93; and proton bombs that were particularly effective against vehicle units, dealing heavy damage over a large area.&#91;14&#93; The TIE variant was equipped with ArmaTek's VL-61/79 proton bombs, which were deployed from a proton bomb chute fitted upon the armored hull of the craft's underside.&#91;1&#93;
+Although its intended role was as an atmospheric fighter, it could also be used as a starfighter to some extent,&#91;10&#93; and accompany standard TIE fighters.&#91;8&#93; However, the attributes that made the striker a useful atmospheric fighter made it less than ideal in space.&#91;1&#93;
+The TIE striker could be further modified with lightweight frames, thus allowing for an increased speed.&#91;15&#93; The craft was also useful for shifting supplies and personnel from orbit to the planet surface, thanks to a larger central pod.&#91;6&#93;
+History[]
+A New Order[]
+"A design that emerged from the Empire's Scarif think tank, the TIE striker was built for atmospheric patrols over ground-based installations. While never a favorite of the Admiralty, forward-thinking commanders came to appreciate the TIE striker's combination of speed and armament, leading to a steady stream of orders from shipyards such as Corellia's."
+&#8213;The Galactic Explorer's Guide&#91;16&#93;
+ 	 	 	 		 			 		 		 		 			A trio of Imperial cadets perform a fly-by of the Death Star.
+The TIE/sk x1 experimental air superiority fighter served the Galactic Empire during its reign.&#91;1&#93; They were new as of the second Empire Day&#91;17&#93; in 18 BBY&#91;9&#93; and flew during the parade. The HoloNet News reporter Calliope Drouth hoped to do a segment on them.&#91;17&#93;
+In large part due to the decommissioning of many clone troopers from the ranks of the Imperial Military, fresh cadets were often utilized for piloting the TIE striker, of which at least one squadron did a fly-by near the then-under construction Death Star.&#91;10&#93;
+Sometime after the smuggler Han Solo took ownership of the Millennium Falcon, a TIE striker was located at Rekias Nodo's shipyard.&#91;18&#93;
+Galactic Civil War[]
+Spark of rebellion[]
+"I've got one on my tail!"
+&#8213;An X-wing pilot at the Battle of Scarif&#91;5&#93;
+ 	 	 	 		 			 		 		 		 			The TIE striker served alongside Imperial forces.
+By the time&#91;1&#93; of the Galactic Civil War, a galaxy-wide conflict in which the Alliance to Restore the Republic waged a rebellion against the Empire to restore democratic rule to the galaxy,&#91;19&#93; the starfighter was utilized for in-atmosphere engagements and the defense of important Imperial bases.&#91;1&#93; In particular, because of the secrecy behind the Imperial security complex on the jungle planet Scarif requiring a vigilant and swift defense force, the TIE pilots stationed there utilized the fighters.&#91;20&#93;
+The TIE strikers notably defended Scarif during a Rebel attack&#91;6&#93; that was part of the Rebel mission to steal the plans to Project Stardust, the DS-1 Death Star Mobile Battle Station. During the battle, the TIE strikers entered dogfights with various Rebel aligned craft, with some also escorting a TIE/rp Reaper attack lander to deliver a squad of death troopers to deal with Rogue One.&#91;5&#93; The TIE pilot "Duchess" flew a striker in the battle.&#91;21&#93;
+ 	 	 	 		 			 		 		 		 			TIE Strikers fly in the Battle of Scarif
+The human Imperial pilots "Countdown" and "Duchess"&#91;22&#93; were amongst those who serviced the Empire aboard TIE strikers. The foremost pilot&#91;23&#93; targeted a T-65B X-wing starfighter during the battle of Scarif.&#91;24&#93; Despite the efforts of Scarif's TIE striker pilots, the overall Scarif Deployment, and the orbiting naval forces, the Battle of Scarif ended in&#91;5&#93; the Alliance's first major victory over the Empire&#91;25&#93; as Alliance strike team Rogue One was able to transmit the Stardust data plans to the orbiting Alliance Fleet,&#91;5&#93; enabling the Alliance to destroy the DS-1 Death Star Mobile Battle Station in the subsequent Battle of Yavin.&#91;25&#93; Other TIE striker crew members of the Galactic Civil War era included "Pure Sabacc," who served during the Civil War,&#91;26&#93; and Black Squadron of the Imperial Army Air Corps.&#91;27&#93;
+Dusk of the Empire[]
+Imperial Governor Hastemoor had several TIE strikers in his planet's defense force on Troithe. After the Battle of Endor, they engaged the New Republic attackers during the Cerberon system campaign, but were unable to keep the advancing forces from cutting off the capital.&#91;28&#93;
+The TIE striker was still in the service of the Galactic Empire&#91;29&#93; in 5 ABY,&#91;30&#93; with several TIE strikers being present at the Rothana Imperial Shipyards around the time of the Battle of Jakku.&#91;29&#93; During the battle itself, TIE strikers were utilized on Jakku's surface to combat the New Republic. The Empire was ultimately defeated in the battle,&#91;31&#93; and thus ended the Galactic Civil War.&#91;32&#93;
+Fighting the First Order on Naboo[]
+Several TIE strikers were used by the people of Naboo alongside N-1 starfighters and X-wing starfighters to fight off the First Order, who brought a Mandator IV-class Siege Dreadnought and several of their own TIE fighters in an attempt to get the people to surrender.&#91;33&#93;

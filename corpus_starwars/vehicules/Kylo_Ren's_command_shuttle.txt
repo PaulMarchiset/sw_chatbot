@@ -1,0 +1,63 @@
+Kylo Ren's command shuttle
+	Production information
+		Manufacturer
+	Sienar-Jaemus Fleet Systems&#91;1&#93;
+		Model
+	Upsilon-class shuttle&#91;1&#93;
+		Type
+	Shuttle/Transport&#91;1&#93;
+	Technical specifications
+		Height/depth
+	37.2 meters (122.04 feet) (with wings extended)&#91;1&#93;
+		Engine unit(s)
+	SJFS-200a sublight ion engines (2)&#91;1&#93;
+		Hyperdrive system
+	Equipped&#91;1&#93;
+		Shielding
+	Deflector shield generators (2)&#91;1&#93;
+		Hull
+	Durasteel&#91;1&#93;
+		Sensor systems
+	Long-range scan-mode sensor array&#91;1&#93;
+passive-mode sensors&#91;1&#93;
+primary sensor node&#91;1&#93;
+		Countermeasures
+	Sensor jammer&#91;1&#93;
+Anti-projectile deflection system&#91;1&#93;
+		Armament
+	SJFS L-s10.2 twin heavy laser cannons&#91;2&#93;
+		Crew
+	1-5 including&#91;1&#93;Flight officer pilot (1)&#91;1&#93;
+Copilot (1)&#91;1&#93;
+		Passengers
+	10&#91;1&#93;
+		Communication systems
+	Subspace communications antenna&#91;1&#93;
+Hyperwave comm scanner&#91;1&#93;
+	Usage
+		Role(s)
+	Transport&#91;1&#93;
+		Affiliation
+	First Order&#91;3&#93;
+		Navy
+	First Order Navy&#91;4&#93;
+		Owner(s)
+	Kylo Ren&#91;3&#93;
+		Commander(s)
+	Armitage Hux&#91;5&#93;
+Kylo Ren's command shuttle was an Upsilon-class command shuttle utilized by Kylo Ren, who was a leader of the Knights of Ren and a warlord of the First Order around thirty years after the Battle of Endor. His ship led a group of Atmospheric Assault Landers to the Resurgent-class Star Destroyer Finalizer.
+1 Description
+2 History
+3 Behind the scenes
+4 Appearances
+4.1 Non-canon appearances
+5 Sources
+5.1 Non-canon sources
+6 Notes and references
+7 External links
+Description[]
+Kylo Ren's command shuttle featured two shield generators, instead of one as was typical on most starships. This simplified and strengthened shield distribution. The shuttle also featured an experimental magnetic field projection system, particularly effective against plasma rounds. This forced incoming projectiles off course.&#91;1&#93;
+History[]
+ 	 	 	 		 			 		 		 		 			Finn watches as Ren's command shuttle leaves Takodana with Rey on board.
+Kylo Ren's command shuttle&#91;3&#93; was present during the subjugation of Tuanul, Jakku and the Battle of Takodana landing at the remains of Takodana Castle. The ship delivered Rey to Starkiller Base where she was to be interrogated by Ren himself.&#91;4&#93;
+After Ren usurped the title of Supreme Leader by killing Snoke, he and General Armitage Hux commanded the First Order forces during the Battle of Crait from the shuttle's bridge. After the sudden appearance of Luke Skywalker, Ren ordered the shuttle's pilot, Jober Tavson, to land the craft on the salty plains so he could confront his former Jedi Master, hurling General Hux against a control console when the man protested.&#91;5&#93;

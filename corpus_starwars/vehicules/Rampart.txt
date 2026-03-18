@@ -1,0 +1,17 @@
+Rampart
+	Production information
+		Model
+	Rampart-class&#91;1&#93;
+		Type
+	Transport&#91;2&#93;
+	Usage
+		Destroyed
+	11 BBY, Munt Ontdal&#91;3&#93;
+		Affiliation
+	Galactic Empire&#91;1&#93;
+Crimson Dawn&#91;4&#93;Beckett's gang&#91;4&#93;
+		Owner(s)
+	Tobias Beckett&#91;4&#93;
+"Hey Dee-Onegee! Bring in the Rampart&#8212;we're getting the hell outta tentacle town."
+&#8213;Tobias Beckett&#91;4&#93;
+The Rampart was a ship that had been stolen by Tobias Beckett. He used it after stealing identichips on Hovun IV, but was forced to destroy it on the space station Munt Ontdal to prevent Enfys Nest from getting her hands on them.&#91;4&#93;

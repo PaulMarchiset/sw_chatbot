@@ -1,0 +1,58 @@
+Night Buzzard
+	Production information
+		Manufacturer
+	Osseriton Assemblages&#91;1&#93;
+		Model
+	Oubliette-class transport&#91;1&#93;
+		Type
+	Transport&#91;1&#93;
+		Modified by
+	Knights of Ren&#91;1&#93;
+	Technical specifications
+		Modified systems
+	Engines&#91;1&#93;
+		Length
+	35.94 meters&#91;1&#93; (117 ft, 9 in)&#91;2&#93;
+		Height/depth
+	5.88 meters&#91;1&#93;
+		Megalight per hour
+	90 mglt&#91;2&#93;
+		Engine unit(s)
+	Equipped&#91;1&#93;
+		Hyperdrive rating
+	Class 1&#91;2&#93;
+		Hyperdrive system
+	Equipped&#91;1&#93;
+		Armament
+	Forward laser cannon turret (1)&#91;1&#93;
+Midship laser cannon turret (1)&#91;1&#93;
+Rear heavy laser cannon turret (1)&#91;1&#93;
+Rear-facing fixed laser cannons (2)&#91;1&#93;
+		Crew
+	Pilot (1)&#91;1&#93;
+Gunners (4)&#91;1&#93;
+		Minimum crew
+	1&#91;1&#93;
+	Usage
+		Role(s)
+	Prison ship&#91;1&#93;
+		Affiliation
+	Knights of Ren&#91;3&#93;
+"You want to live in a galaxy where you don't have to hide on backwater planets&#8212;always on the run, subsisting off scraps. Flying around in that ugly ship of yours, stealing and killing to live."
+"We like that ship. And we like stealing and killing too."
+&#8213;Qi'ra and Ren&#91;4&#93;
+The Night Buzzard was a modified Oubliette-class transport used by the Knights of Ren. The Knights made several alterations to the Night Buzzard to better suit their tastes, such as altering the vessel's appearance to match their dark side aesthetic. The vessel's engines were also crudely modified to generate more thrust, although this took a toll on the insulation baffles, causing the Buzzard to spew noxious gas as it flew. It was well armed, with a forward laser cannon turret, a mid ship laser cannon turret, a rear heavy laser cannon turret, and rear-facing fixed laser cannons. The Knight Kuruk served as the pilot of the heavily armed ship.&#91;1&#93;
+1 Description
+2 History
+3 Appearances
+3.1 Non-canon appearances
+4 Sources
+5 Notes and references
+Description[]
+ 	 	 	 		 			 		 		 		 			The Night Buzzard
+At first, the ship was very different than what it was under the Knights of Ren. It had light anti-personnel weapons, designed to put down prison riots, medical stasis pads for high-danger prisoners, and rear prison cells for low-danger prisoners. These sections were replaced by ship-to-ship cannons, an interrogation room, and personal quarters. The Knights also augmented the engine with heat-sink insulator pads to avoid detection. Ebon armor covered the ship, giving it a look of intimidation and blocking sensors.&#91;5&#93;
+History[]
+Originally a dungeon ship on Osseriton, a penal world in the Unknown Regions, the vessel was liberated by the Knights during a raid on the planet alongside many prisoners, becoming the home and transport for the Knights.&#91;1&#93;
+ 	 	 	 		 			 		 		 		 			The modified engines of the Night Buzzard
+The Knights heavily modified the ship. First, they removed the front prisoner area and replaced it with a midship interrogation center. The rear prison cells, designed for low-risk prisoners, became the personal quarters of the Knights. Ren opted for no quarters, and Kylo Ren followed this ideal. The overall armor was modified to better suit their style.&#91;5&#93;
+The Knights of Ren used the Night Buzzard to travel to Pasaana, where they captured an unsuspecting Chewbacca. They then followed Resistance members Rey, Poe Dameron, Finn, BB-8, and C-3PO to Kijimi, where they alerted their master, Kylo Ren. They were then called to Exegol, where the Knights were killed by their former leader, now redeemed as Ben Solo.&#91;3&#93;

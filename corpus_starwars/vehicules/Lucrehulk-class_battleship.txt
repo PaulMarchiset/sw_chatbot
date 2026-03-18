@@ -1,0 +1,157 @@
+&#160;	 	&#160;	
+It's too big to be a space station.
+Sources indicate there is the regular battleship and then the Droid Control Ship variant
+If you disagree, please discuss the matter on this article's talk page. Remove this message when finished.
+Lucrehulk-class battleship
+	Production information
+		Manufacturer
+	Hoersch-Kessel Drive Inc. (primary contractor)&#91;1&#93;
+		Model
+	Modified Lucrehulk-class LH-3210 cargo freighter&#91;2&#93;
+		Type
+	Battleship&#91;3&#93;
+		Cost
+	500,000,000 credits&#91;3&#93;
+	Technical specifications
+		Length
+	3,356.9 meters&#91;4&#93;
+		Width
+	3,009 meters&#91;4&#93;
+		Height/depth
+	1,028.77 meters&#91;4&#93;
+		Maximum atmospheric speed
+	500 kilometers per hour&#91;5&#93;
+		Engine unit(s)
+	3 Proton 2 sublight engines&#91;6&#93;
+12 Proton 12 sublight engines&#91;1&#93;
+		Hyperdrive rating
+	Class 2 (primary)&#91;3&#93;
+Class 10 (backup)&#91;3&#93;
+		Hyperdrive system
+	Equipped&#91;5&#93;
+		Power plant
+	Two main reactors&#91;4&#93;
+Other reactors (in centersphere)&#91;4&#93;
+		Shielding
+	Multiple deflector shield generators&#91;4&#93;&#91;7&#93;
+		Hull
+	Hull strengthened&#91;4&#93;
+Armored interior segments&#91;4&#93;
+		Sensor systems
+	Long-range&#91;3&#93;1 main sensor rectenna&#91;4&#93;
+4 auxiliary sensor rectennas&#91;4&#93;
+		Navigation system
+	Equipped&#91;3&#93;
+		Main computer
+	Central Computer Core&#91;4&#93;
+		Countermeasures
+	Turret droids&#91;7&#93;
+		Armament
+	42 quad turbolaser batteries&#91;4&#93;
+Multiple tractor beam projectors&#91;4&#93;
+Clone Wars refitting:
+51 turbolasers&#91;8&#93;
+520 assault laser cannons&#91;8&#93;
+185 point-defense quad laser batteries&#91;8&#93;
+Alternative refitting
+24 heavy quad turbolaser batteries&#91;3&#93;
+4 twin heavy turbolaser batteries&#91;3&#93;
+160 point-defense quad laser cannon turrets&#91;3&#93;
+400 twin heavy laser cannons&#91;3&#93;
+		Complement
+	Ammunition&#91;4&#93;
+1,500 Vulture-class droid starfighters&#91;4&#93;
+6,250 Armored Assault Tanks (max load)&#91;4&#93;
+550 Multi-Troop Transports (max load)&#91;4&#93;
+50 C-9979 landing crafts (max load)&#91;4&#93;
+Other boarding ships, shuttles and ship's boats&#91;3&#93;
+		Docking bays
+	At least 3&#91;4&#93;
+		Crew
+	203,060&#91;8&#93;60 supervisors&#91;8&#93;
+3,000 droid crewmembers,&#91;8&#93; including OOM pilot battle droids&#91;7&#93;
+200,000 maintenance droids&#91;8&#93;
+		Passengers
+	1 army of 139,000 battle droids (329,000 maximum)&#91;4&#93;OOM-series battle droids, including command and security models&#91;7&#93;
+B1-series battle droids&#91;7&#93;
+Droidekas, including the P-series&#91;7&#93;
+		Cargo capacity
+	25,000,000 tons&#91;9&#93;
+		Consumables
+	2 years&#91;3&#93;
+		Life support
+	Ventilation shafts&#91;7&#93;
+		Communication systems
+	2 main communications antennae&#91;6&#93;
+6 auxiliary antennae&#91;6&#93;
+16 signal receiver stations&#91;4&#93;
+		Other systems
+	Computer core temperature control system&#91;4&#93;
+	Usage
+		Role(s)
+	Battleship&#91;3&#93;
+Heavy transport&#91;10&#93;
+		Affiliation
+	Trade Federation&#91;7&#93;Trade Federation fleet&#91;7&#93;
+Trade Federation Home Defense Legions&#91;3&#93;
+Confederacy of Independent Systems&#91;2&#93;Confederacy of Independent Systems Navy&#91;2&#93;
+Galactic Republic&#91;11&#93;Galactic Republic Navy&#91;11&#93;
+Alliance to Restore the Republic&#91;12&#93;Rebel Alliance Navy&#91;12&#93;
+Citizens’ Fleet&#91;13&#93;
+"Their deflector shield is too strong! We'll never get through it!"
+&#8213;Ric Olié during his attack run on the Droid Control Ship&#91;7&#93;
+The Lucrehulk-class battleship, also known as a Droid Control Ship, or Trade Federation battleship, was a modified Lucrehulk-class LH-3210 cargo freighter that was used by the Trade Federation and the Confederacy of Independent Systems and manufactured by Hoersch-Kessel Drive Inc.
+1 Characteristics
+1.1 Description
+1.2 Interior
+1.2.1 Federation starship
+1.2.2 Hangar bay
+2 Role
+3 History
+3.1 Origin
+3.2 Invasion of Naboo
+3.3 The Clone Wars
+3.4 Age of the Empire
+4 Behind the scenes
+5 Appearances
+5.1 Non-canon appearances
+6 Sources
+7 Notes and references
+Characteristics[]
+Description[]
+"We're losing power. There seems to be a problem with the main reactor."
+"Impossible! Nothing can get through our shields."
+&#8213;Tey How and Daultay Dofine discover that the control ship is about to explode&#160;&#8212;  Link▶️ (file info)&#91;7&#93;
+The Lucrehulk-class Battleship was a massive, lumbering and imposing battleship,&#91;3&#93; illegally&#91;2&#93; modified from Lucrehulk-class LH-3210 cargo freighters,&#91;14&#93; and produced by Hoersch-Kessel Drive Inc..&#91;5&#93; Because they were not originally designed for conflict, Lucrehulk vessels reflected their conversion into warships.&#91;15&#93; The most notable difference in a regular Lucrehulk-class Battleship and a Droid Control Ship was the large communications array on its dorsal hull.&#91;16&#93; The sensor arrays of the starship encircled the command centerspheres, while giant Central Control Computers designed to radio commands to the massive droid armies from remote locations helped Trade Federation officials command battles far from danger.&#91;14&#93;
+At over three kilometers in diameter, the Control Ship featured a massive, spherical core ship in the center of the craft that contained the control bridge for usually Neimoidian officers along with its reactor assemblies. The outer half-circle featured large hangars lined with forward docking claws.&#91;17&#93; Lucrehulks were capable warships, and the biggest vessel fielded by the CIS navy. Lucrehulks were equipped with thick armor and high density shields that could shrug off even the heaviest weaponry, and its heavy armament and shields made the Lucrehulk some of the most potent warships ever deployed.&#91;3&#93; A single Lucrehulk could have enough resources to conquer a planet.&#91;18&#93;
+Interior[]
+Federation starship[]
+With Federation officials needing to live aboard the starship for multiple months, the Lucrehulk was effectively an entire planet within realspace. The ship contained 50 conference rooms for meetings with clients. These rooms were made to place clients at a disadvantage using "concentration deficit" chairs and remote gas emitters.&#91;11&#93;
+Aboard the bridge, the Lucrehulk was dominated by a throne-like navigation station with pilot droids on navigation computers. The Bridge was extremely well defended with triple blast doors and reinforced hull plating. Neimoidian officials rarely left the Bridge in case one of their colleagues were to form an alliance against them. Due to the possibly of facing danger, the bridge could be sealed off with triple blast doors.&#91;11&#93;
+Hangar bay[]
+ 	 	 	 		 			 		 		 		 			A hangar bay with Multi-Troop Transports
+Designed to haul massive droid armies, Droid Control Ships featured a complement of 6,520 AATs, 550 MTTs, 50 C-9979 landing craft, 1,500 Vulture-class starfighters, and 139,000 B1-series battle droids.&#91;14&#93;&#91;19&#93; All departures from the hangar were controlled by Hangar Control droids.&#91;11&#93;
+Role[]
+The Lucrehulk-class was used as both a transport and a battleship, and could effectively blockade a planet for years. They were heavily armored, but despite this, they were inefficient, expensive, and required frequent maintenance. As such, the primary reason the CIS navy deployed them was for their intimidating appearance.&#91;3&#93;
+History[]
+Origin[]
+The Lucrehulk-class was originally designed to haul freight but were modified into battleships&#91;14&#93; for use in blockades.&#91;15&#93; They were granted 42 quad turbolasers.&#91;14&#93; They were utilized as early as the High Republic Era.&#91;20&#93; After the establishment of the Trade Federation Droid Army on the order of Darth Sidious,&#91;21&#93; Lucrehulks were secretly modified into battleships that could house the droid armies.&#91;14&#93; Some were even transformed into Droid Control Ships, which also saw use in blockades but were unique in that they could direct ground-deployed battle droids.&#91;15&#93; Ahead of the Invasion of Naboo, up to one third of the Lucrehulks in the Federation fleet were modified into battleships while keeping the guise of merely being freight craft.&#91;22&#93;
+Invasion of Naboo[]
+"General Skywalker blew up a droid control ship when he was just a kid, and he told me the trick was hitting their main reactor from the inside."
+&#8213;ARC trooper Fives&#91;23&#93;
+ 	 	 	 		 			 		 		 		 			The Vuutun Palaa during the battle over Naboo
+During the Invasion of Naboo, the Trade Federation brought a fleet of Lucrehulk-class Battleships, including a Droid Control Ship, to the&#91;7&#93; Mid Rim&#91;2&#93; planet of Naboo&#91;7&#93; over disputes about plasma exports and the taxation of Free Trade Zones.&#91;24&#93; In addition to this week-long blockade,&#91;25&#93; the Federation landed troops from its battleships to secure the planet.&#91;7&#93;
+The control ship was later attacked by Bravo Squadron, but its deflector shield was too strong. In the midst of the battle, the young Force-sensitive pilot Anakin Skywalker accidentally flew inside the ship's hangar. As Skywalker attempted to make his escape, he fired upon the droids attacking his fighter and inadvertently fired two proton torpedoes into the starboard main reactor. The Control Ship started blowing up from the inside to Bravo Flight's surprise as Skywalker flew from the hanger bay. Finally, the ship's sphere exploded from the main reactor overloading, saving the Gungan Grand Army from destruction by disrupting the Control Ship's signal, shutting down the B1 battle droids below. The ship's port-side ring survived its destruction.&#91;7&#93;
+The Clone Wars[]
+ 	 	 	 		 			 		 		 		 			A Lucrehulk-class Battleship in the service of the CIS Navy
+Years later, the battleships were secretly converted for war, as a war with the Republic was becoming inevitable, although the conversion was not perfect as turbolasers did not cover every angle.&#91;5&#93; The battleships became part of the fleet of the Confederacy of Independent Systems&#91;2&#93; and saw action in various battles. Several battleships were part of the Christophsis blockade,&#91;26&#93; and Captain Mar Tuuk commanded a battleship as head of the Ryloth blockade, although Tuuk's ship was destroyed by Anakin Skywalker, who was now a Jedi General in the Grand Army of the Republic, during the Battle of Ryloth.&#91;27&#93; Lucrehulk-class Battleships with their original design having none of the Separatist colors and logos were used in the blockade of Pantora, under the command of Sib Canay. K2-B4 commanded the Lola Sayu defense fleet from a Lucrehulk-class Battleship during the Battle of Lola Sayu.&#91;28&#93; During a meeting by the Strategic Advisory Cell at the Strategic Planning Amphitheater, a Lucrehulk-class Battleship was compared with the Death Star.
+At one point, General Skywalker told ARC trooper Fives that a Droid Control Ship could be destroyed by hitting its main reactor. Fives used this knowledge during the Battle of Umbara, as he and two fellow clone troopers, Hardcase and Jesse, attempted to target a DH-Omni Support Vessel's reactor.&#91;23&#93; Lucrehulk Battleships were also used in the Battle of Coruscant,&#91;29&#93; the final major Separatist offensive of the Clone Wars.&#91;30&#93; At the end of the battle, when General Grievous left the Providence-class Dreadnought known as the Invisible Hand in an escape pod, he went to a Lucrehulk know as the Profusion.&#91;29&#93;
+Age of the Empire[]
+"The Raider base is in the swamp. They gutted an old Lucrehulk battleship from the Clone Wars."
+"We've seen it. Means they've got a lot of firepower."
+&#8213;Mosey Cimmaron and Cal Kestis talking about the Bedlam Raiders base&#91;18&#93;
+ 	 	 	 		 			 		 		 		 			A Lucrehulk-class Battleship used as a flight school by the Rebel Alliance.
+In 14 BBY,&#91;31&#93; a Lucrehulk-class Battleship was brought to Bracca for the Scrapper Guild.&#91;32&#93;
+In 9 BBY,&#91;33&#93; a core ship of the Lucrehulk Primacy was present on Koboh. It was used as a base by the Bedlam Raiders, a group of marauders who used the battle droids present on the ship to increase their power.&#91;18&#93;
+During the Galactic Civil War the Rebel Alliance utilized a Lucrehulk, Lucrehulk Prime, as a flight school, and was commanded by General Hera Syndulla.&#91;12&#93; Syndulla considered the ship to be a symbol of tyranny that was converted into one of hope.&#91;34&#93;
+Decades later in 35 ABY, several Lucrehulks were part of the Citizens' Fleet which successfully took part in the Battle of Exegol against Darth Sidious and the Sith Eternal.&#91;13&#93;

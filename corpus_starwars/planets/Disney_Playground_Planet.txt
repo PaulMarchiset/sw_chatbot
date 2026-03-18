@@ -1,0 +1,12 @@
+Disney Playground Planet
+	Physical information
+		Atmosphere
+	Breathable&#91;1&#93;
+	Societal information
+		Native species
+	Humans&#91;1&#93;
+		Primary language(s)
+	Galactic Basic Standard&#91;1&#93;
+"No fat shaming on Disney Playground Planet, brat."
+&#8213;Announcer&#91;1&#93;
+Disney Playground Planet was a leisure destination planet in the galaxy. Visitors typically went to Disney Parking Planet first.&#91;1&#93;

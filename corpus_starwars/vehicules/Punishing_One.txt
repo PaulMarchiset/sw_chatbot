@@ -1,0 +1,31 @@
+&#160;	 	&#160;	
+Punishing One
+	Production information
+		Manufacturer
+	Corellian Engineering Corporation&#91;1&#93;
+		Model
+	JumpMaster 5000&#91;2&#93;
+		Cost
+	380,000 credits&#91;1&#93;
+	Technical specifications
+		Hyperdrive rating
+	Class 1 (Primary)&#91;1&#93;
+Class 10 (Backup)&#91;1&#93;
+		Sensor systems
+	Extreme&#91;1&#93;
+		Armament
+	Quad laser cannon&#91;1&#93;
+Ion cannon&#91;1&#93;
+		Crew
+	1 pilot&#91;1&#93;
+		Passengers
+	1&#91;1&#93;
+		Consumables
+	2 months&#91;1&#93;
+	Usage
+		Owner(s)
+	Dengar&#91;2&#93;
+"There she is--isn't the Punishing One beautiful? If the Millennium Falcon could do the Kessel Run in under twelve parsecs, then she could probably do it in ten."
+&#8213;Dengar&#91;3&#93;
+The Punishing One was a JumpMaster 5000 owned by the bounty hunter Dengar.&#91;2&#93; The ship had no holding cell due to the fact that Dengar usually only took in dead bounties.&#91;4&#93;
+At one point, Dengar took the Punishing One to the planet Canto Bight, where he gambled, including playing sabacc against several Weequay pirates. Soon after,&#91;3&#93; in 3 ABY,&#91;5&#93; Dengar and fellow bounty hunter Beilert Valance, who were begrudgingly working together, returned to Canto Bight following a mission on the moon of Nar Shaddaa, reaching the Punishing One. However, they had been tracked by the Crimson Dawn assassin Deathstick.&#91;3&#93;

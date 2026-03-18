@@ -1,0 +1,11 @@
+Remora-one
+	Production information
+		Model
+	Leech vessel&#91;1&#93;
+		Type
+	Boarding craft&#91;1&#93;
+	Usage
+		Affiliation
+	Clone Underground&#91;1&#93;
+Clone Force 99&#91;2&#93;
+Remora-one,&#91;3&#93; also known simply as the Leech,&#91;4&#93; was a leech vessel used by the Clone Underground during the reign of the Galactic Empire.
