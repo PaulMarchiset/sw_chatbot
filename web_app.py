@@ -95,11 +95,7 @@ TEMPLATE = """
     h1 { font-family: "Fraunces", serif; font-size: clamp(1.6rem, 2.8vw, 2.5rem); margin: 10px 0 8px; line-height: 1.2; }
     .subtitle { margin: 0; color: var(--muted); max-width: 70ch; line-height: 1.45; }
     .chat-card {
-      border: 1px solid var(--stroke);
       border-radius: 22px;
-      background: var(--card);
-      backdrop-filter: blur(12px);
-      box-shadow: 0 20px 60px rgba(0, 0, 0, 0.35);
       overflow: hidden;
       animation: reveal 700ms ease-out;
       display: flex;
@@ -136,24 +132,19 @@ TEMPLATE = """
     .assistant p { margin: 0.35em 0; }
     .sources { margin-top: 8px; font-size: 0.85rem; color: var(--muted); border-top: 1px solid rgba(255,255,255,0.1); padding-top: 8px;}
     .composer {
-      border: 1px solid var(--stroke);
+      border: 0px;
       border-radius: 16px;
-      padding: 12px;
       display: grid;
       grid-template-columns: 1fr auto;
       gap: 10px;
-      background: rgba(5, 11, 22, 0.9);
       position: fixed;
       left: 50%;
       transform: translateX(-50%);
       bottom: 12px;
-      width: min(850px, calc(100vw - 20px));
+      width: min(950px, calc(100vw - 20px));
       z-index: 20;
-      backdrop-filter: blur(8px);
-      box-shadow: 0 14px 34px rgba(0, 0, 0, 0.38);
     }
-    textarea { width: 100%; min-height: 56px; max-height: 160px; resize: vertical; border-radius: 12px; border: 1px solid rgba(255, 255, 255, 0.18); background: rgba(255, 255, 255, 0.04); color: var(--text); font-family: inherit; padding: 12px; font-size: 0.96rem; outline: none; resize: none; }
-    textarea:focus { border-color: var(--accent); box-shadow: 0 0 0 3px rgba(107, 220, 255, 0.25); }
+    textarea { width: 100%; min-height: 56px; max-height: 160px; resize: vertical; border-radius: 12px; border: 1px solid var(--stroke); background: #101621; color: var(--text); font-family: inherit; padding: 24px; font-size: 0.96rem; outline: none; resize: none; }
     button { border: 0; border-radius: 12px; padding: 0 18px; background: linear-gradient(145deg, var(--accent), #74a9ff); color: #02131d; font-weight: 700; cursor: pointer; transition: transform 130ms ease, filter 130ms ease; }
     button:hover { filter: brightness(1.06); }
     button:active { transform: translateY(1px); }
@@ -181,7 +172,6 @@ TEMPLATE = """
   </script>
 </head>
 <body>
-  <div class="stars"></div>
   <main class="wrap">
     <section class="hero">
       <span class="tag">Holonet Console</span>
@@ -195,7 +185,7 @@ TEMPLATE = """
 
     <form id="chatForm" class="composer">
       <textarea id="question" placeholder="Ex: Qui pilote le Faucon Millenium ?" required></textarea>
-      <button id="sendBtn" type="submit">Envoyer</button>
+      <button id="sendBtn" type="submit"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" viewBox="0 0 256 256"><path d="M208.49,120.49a12,12,0,0,1-17,0L140,69V216a12,12,0,0,1-24,0V69L64.49,120.49a12,12,0,0,1-17-17l72-72a12,12,0,0,1,17,0l72,72A12,12,0,0,1,208.49,120.49Z"></path></svg></button>
     </form>
 
     <div id="status" class="status"></div>
@@ -333,6 +323,15 @@ TEMPLATE = """
       statusEl.className = "status" + (kind ? ` ${kind}` : "");
       statusEl.textContent = message;
     }
+
+    questionInput.addEventListener("keydown", (event) => {
+      if (event.key === "Enter" && !event.shiftKey && !event.isComposing) {
+        event.preventDefault();
+        if (!sendBtn.disabled) {
+          chatForm.requestSubmit();
+        }
+      }
+    });
 
     addMessage("assistant", "Bienvenue dans Holonet. Pose une question sur les vaisseaux ou les planètes de tes archives.");
 
@@ -501,4 +500,5 @@ def chat():
         return jsonify({"error": f"Erreur pendant la génération: {exc}"}), 500
 
 if __name__ == "__main__":
-    app.run(host="0.0.0.0", port=5000, debug=True)
+    port = int(os.environ.get("PORT", 5000))
+    app.run(host="0.0.0.0", port=port, debug=False)
