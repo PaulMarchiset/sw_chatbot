@@ -16,7 +16,7 @@ CLEF_OPENROUTER = os.getenv("OPENROUTER_API_KEY")
 llm = ChatOpenAI(
     api_key=CLEF_OPENROUTER,
     base_url="https://openrouter.ai/api/v1",
-    model="openrouter/hunter-alpha",
+    model="nvidia/nemotron-3-super-120b-a12b:free",
     temperature=0.3
 )
 

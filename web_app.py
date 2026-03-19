@@ -389,7 +389,7 @@ def build_rag_chain():
     llm = ChatOpenAI(
         api_key=api_key,
         base_url="https://openrouter.ai/api/v1",
-        model="openrouter/hunter-alpha",
+        model="nvidia/nemotron-3-super-120b-a12b:free",
         temperature=0.3,
     )
 
@@ -501,4 +501,4 @@ def chat():
 
 if __name__ == "__main__":
     port = int(os.environ.get("PORT", 5000))
-    app.run(host="0.0.0.0", port=port, debug=False)
+    app.run(host="127.0.0.1", port=port, debug=False)
